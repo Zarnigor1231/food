@@ -1,0 +1,28 @@
+2023-07-09 18:48:02 info: =================================
+2023-07-09 18:48:02 info: ======= ENV: development =======
+2023-07-09 18:48:02 info: 🚀 App listening on the port 3000
+2023-07-09 18:48:02 info: =================================
+2023-07-09 18:49:40 info: =================================
+2023-07-09 18:49:40 info: ======= ENV: development =======
+2023-07-09 18:49:40 info: 🚀 App listening on the port 3000
+2023-07-09 18:49:40 info: =================================
+2023-07-09 18:52:54 info: =================================
+2023-07-09 18:52:54 info: ======= ENV: development =======
+2023-07-09 18:52:54 info: 🚀 App listening on the port 3000
+2023-07-09 18:52:54 info: =================================
+2023-07-09 18:53:35 info: =================================
+2023-07-09 18:53:35 info: ======= ENV: development =======
+2023-07-09 18:53:35 info: 🚀 App listening on the port 3000
+2023-07-09 18:53:35 info: =================================
+2023-07-09 19:04:11 info: =================================
+2023-07-09 19:04:11 info: ======= ENV: development =======
+2023-07-09 19:04:11 info: 🚀 App listening on the port 3000
+2023-07-09 19:04:11 info: =================================
+2023-07-09 19:05:22 info: [0mGET / [33m404[0m 16.375 ms - 139[0m
+2023-07-09 19:06:52 error: [POST] /users >> StatusCode:: 400, Message:: email must be an email, password must be longer than or equal to 9 characters
+2023-07-09 19:06:52 info: [0mPOST /users [33m400[0m 41.823 ms - 91[0m
+2023-07-09 19:06:57 error: [POST] /users >> StatusCode:: 400, Message:: email must be an email, password must be longer than or equal to 9 characters
+2023-07-09 19:06:57 info: [0mPOST /users [33m400[0m 3.535 ms - 91[0m
+2023-07-09 19:07:15 error: [POST] /users >> StatusCode:: 400, Message:: email must be an email
+2023-07-09 19:07:15 info: [0mPOST /users [33m400[0m 10.580 ms - 36[0m
+2023-07-09 21:14:37 info: [0mPOST /users [0m-[0m - ms - -[0m

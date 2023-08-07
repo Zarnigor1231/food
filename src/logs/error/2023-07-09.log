@@ -1,0 +1,27 @@
+2023-07-09 18:48:32 error: uncaughtException: connect ECONNREFUSED ::1:27017
+MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at NativeConnection.Connection.openUri (D:\practice\Food-delivery-app\project\node_modules\mongoose\lib\connection.js:825:32)
+    at D:\practice\Food-delivery-app\project\node_modules\mongoose\lib\index.js:414:10
+    at D:\practice\Food-delivery-app\project\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\practice\Food-delivery-app\project\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (D:\practice\Food-delivery-app\project\node_modules\mongoose\lib\index.js:1288:10)
+    at Mongoose.connect (D:\practice\Food-delivery-app\project\node_modules\mongoose\lib\index.js:413:20)
+    at App.connectToDatabase (D:\practice\Food-delivery-app\project\src\app.ts:53:18)
+    at new App (D:\practice\Food-delivery-app\project\src\app.ts:28:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:8:13)
+2023-07-09 18:50:10 error: uncaughtException: connect ECONNREFUSED ::1:27017
+MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at NativeConnection.Connection.openUri (D:\practice\Food-delivery-app\project\node_modules\mongoose\lib\connection.js:825:32)
+    at D:\practice\Food-delivery-app\project\node_modules\mongoose\lib\index.js:414:10
+    at D:\practice\Food-delivery-app\project\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (D:\practice\Food-delivery-app\project\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (D:\practice\Food-delivery-app\project\node_modules\mongoose\lib\index.js:1288:10)
+    at Mongoose.connect (D:\practice\Food-delivery-app\project\node_modules\mongoose\lib\index.js:413:20)
+    at App.connectToDatabase (D:\practice\Food-delivery-app\project\src\app.ts:54:18)
+    at new App (D:\practice\Food-delivery-app\project\src\app.ts:28:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:8:13)
+2023-07-09 19:06:52 error: [POST] /users >> StatusCode:: 400, Message:: email must be an email, password must be longer than or equal to 9 characters
+2023-07-09 19:06:57 error: [POST] /users >> StatusCode:: 400, Message:: email must be an email, password must be longer than or equal to 9 characters
+2023-07-09 19:07:15 error: [POST] /users >> StatusCode:: 400, Message:: email must be an email

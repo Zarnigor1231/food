@@ -1,0 +1,80 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\.fed8305b0eac51a9161d23f31c4fb8083dbe9fb2-audit.json",
+    "files": [
+        {
+            "date": 1688910481740,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-09.log",
+            "hash": "a280e91eeb5270f1640e84c97f25299315618e0daeebb655ddf1c6f98a4490a3"
+        },
+        {
+            "date": 1688971414682,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-10.log",
+            "hash": "582dedc87d13054e7c929cc63f56daed8f0a9d0b2c0e00e45a2ecafd4986c646"
+        },
+        {
+            "date": 1689069231110,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-11.log",
+            "hash": "df7ac65ad5494c79e8b8f12c398f9f9bc33fc3c1222c4fe1698b7723a7bd936d"
+        },
+        {
+            "date": 1689143155809,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-12.log",
+            "hash": "903394d60bcf934827e1443b9f282d0518fe8e6df07c21d89e85a3b03dd43874"
+        },
+        {
+            "date": 1689232202365,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-13.log",
+            "hash": "004acf91ef92aa5bc74f42b3f64a60d278c96fa50122fdb1f08f50ac1ef60bea"
+        },
+        {
+            "date": 1689319475059,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-14.log",
+            "hash": "ff44b952fc684e4f47408015334105f62c9d34d0b3a64624dad64c2225f54a7d"
+        },
+        {
+            "date": 1689361212512,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-15.log",
+            "hash": "cc1950b6705e6e229fcda7000b8e403f152bbc79879136ce19983843d64253cb"
+        },
+        {
+            "date": 1689450079829,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-16.log",
+            "hash": "fbd888a5b0a893525ee544ab6160a787fa7149ce39d45f7a048e1a8a37215b26"
+        },
+        {
+            "date": 1689591309280,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-17.log",
+            "hash": "cb8e012d9d7b8195351bd7d4c379db659e05ed63ba78e96897b368dd4f34de1b"
+        },
+        {
+            "date": 1689748622039,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-19.log",
+            "hash": "62661f5aa7acbb30f1b43a50f38e8c344229b0a1e5300ca75e98777ec94b8380"
+        },
+        {
+            "date": 1689833361121,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-20.log",
+            "hash": "6d79ac7d73d3d4d3b05152a34ac4a2402dec3f681eb187bdd6dcaa24eabdd8f7"
+        },
+        {
+            "date": 1689927969582,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-21.log",
+            "hash": "414a6fc55a257ebc3d032bdce49df8089e887a91d2ab97304d4567f6181e12e4"
+        },
+        {
+            "date": 1690203312993,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-24.log",
+            "hash": "b08e9ac80d52f3519f1276aa48e4d0f0ca526abf065c3afd3d1950a409c3b2da"
+        },
+        {
+            "date": 1690225899307,
+            "name": "D:\\practice\\Food-delivery-app\\project\\src\\logs\\error\\2023-07-25.log",
+            "hash": "823a129e1845dd33dcc3839f88f068d6ca7e5813a41fca073d6edf2d84b70a65"
+        }
+    ],
+    "hashType": "sha256"
+}

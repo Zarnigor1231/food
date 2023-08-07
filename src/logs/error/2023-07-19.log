@@ -1,0 +1,243 @@
+2023-07-19 11:37:03 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at AdminRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\admins.router.ts:24:17)
+    at new AdminRoute (D:\practice\Food-delivery-app\project\src\routes\admins.router.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:20:3)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-19 11:37:31 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at AdminRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\admins.router.ts:24:17)
+    at new AdminRoute (D:\practice\Food-delivery-app\project\src\routes\admins.router.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:20:3)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-19 12:07:46 error: [DELETE] /products/64b12487dfe1b8b73f9a8b1c >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-19 12:15:41 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/products.service.ts[0m:[93m75[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m75[0m     }
+[7m  [0m [91m    ~[0m
+[96msrc/services/products.service.ts[0m:[93m83[0m:[93m1[0m - [91merror[0m[90m TS1005: [0m'}' expected.
+
+[7m83[0m 
+[7m  [0m [91m[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/products.service.ts[0m:[93m75[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m75[0m     }
+[7m  [0m [91m    ~[0m
+[96msrc/services/products.service.ts[0m:[93m83[0m:[93m1[0m - [91merror[0m[90m TS1005: [0m'}' expected.
+
+[7m83[0m 
+[7m  [0m [91m[0m
+
+    at createTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:863:19)
+    at D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-19 12:16:55 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/products.service.ts[0m:[93m69[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m69[0m     }
+[7m  [0m [91m    ~[0m
+[96msrc/services/products.service.ts[0m:[93m77[0m:[93m1[0m - [91merror[0m[90m TS1005: [0m'}' expected.
+
+[7m77[0m 
+[7m  [0m [91m[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/products.service.ts[0m:[93m69[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m69[0m     }
+[7m  [0m [91m    ~[0m
+[96msrc/services/products.service.ts[0m:[93m77[0m:[93m1[0m - [91merror[0m[90m TS1005: [0m'}' expected.
+
+[7m77[0m 
+[7m  [0m [91m[0m
+
+    at createTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:863:19)
+    at D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-19 12:18:46 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/products.service.ts[0m:[93m78[0m:[93m1[0m - [91merror[0m[90m TS1005: [0m'}' expected.
+
+[7m78[0m 
+[7m  [0m [91m[0m
+
+  [96msrc/services/products.service.ts[0m:[93m58[0m:[93m67[0m
+    [7m58[0m   public async deleteProduct(productId: string): Promise<Product> {
+    [7m  [0m [96m                                                                  ~[0m
+    The parser expected to find a '}' to match the '{' token here.
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/products.service.ts[0m:[93m78[0m:[93m1[0m - [91merror[0m[90m TS1005: [0m'}' expected.
+
+[7m78[0m 
+[7m  [0m [91m[0m
+
+  [96msrc/services/products.service.ts[0m:[93m58[0m:[93m67[0m
+    [7m58[0m   public async deleteProduct(productId: string): Promise<Product> {
+    [7m  [0m [96m                                                                  ~[0m
+    The parser expected to find a '}' to match the '{' token here.
+
+    at createTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:863:19)
+    at D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-19 12:19:48 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/products.service.ts[0m:[93m79[0m:[93m1[0m - [91merror[0m[90m TS1005: [0m'}' expected.
+
+[7m79[0m 
+[7m  [0m [91m[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/products.service.ts[0m:[93m79[0m:[93m1[0m - [91merror[0m[90m TS1005: [0m'}' expected.
+
+[7m79[0m 
+[7m  [0m [91m[0m
+
+    at createTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:863:19)
+    at D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-19 12:23:14 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-01212926.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-01212926.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:67:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:23:14 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-01213039.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-01213039.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:67:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:23:14 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-01230107.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-01230107.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:67:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:23:14 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-01213032.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-01213032.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:67:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:23:14 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-02092015.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-02092015.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:67:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:23:14 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-01230118.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-01230118.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:67:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:23:14 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-02093639.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-02093639.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:67:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:23:14 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-02112637.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-02112637.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:67:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:23:14 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-02093628.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-02093628.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:67:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:23:14 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-02112622.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-02112622.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:67:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:26:04 error: [DELETE] /products/64b26c50b9b236820c9b827a >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'files')
+2023-07-19 12:26:07 error: [DELETE] /products/64b26c50b9b236820c9b827a >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'files')
+2023-07-19 12:27:05 error: [DELETE] /products/64b26c50b9b236820c9b827a >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'files')
+2023-07-19 12:27:47 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-02112622.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\services\upload\images\Screenshot2023-07-02112622.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:69:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:29:23 error: uncaughtException: null
+Error: null
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:69:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:31:15 error: uncaughtException: null
+Error: null
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:72:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:33:36 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\upload\images\Screenshot2023-07-02112622.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\upload\images\Screenshot2023-07-02112622.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:73:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:38:24 error: [POST] /products >> StatusCode:: 500, Message:: Unexpected field
+2023-07-19 12:39:13 error: [POST] /products >> StatusCode:: 400, Message:: delivryInfo should not be empty,delivryInfo must be a string, description should not be empty,description must be a string
+2023-07-19 12:39:50 error: uncaughtException: Error: EISDIR: illegal operation on a directory, read
+Error: Error: EISDIR: illegal operation on a directory, read
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:71:17
+    at FSReqCallback.readFileAfterClose [as oncomplete] (node:internal/fs/read_file_context:52:12)
+2023-07-19 12:39:50 error: uncaughtException: Error: EISDIR: illegal operation on a directory, read
+Error: Error: EISDIR: illegal operation on a directory, read
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:71:17
+    at FSReqCallback.readFileAfterClose [as oncomplete] (node:internal/fs/read_file_context:52:12)
+2023-07-19 12:39:50 error: uncaughtException: Error: EISDIR: illegal operation on a directory, read
+Error: Error: EISDIR: illegal operation on a directory, read
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:71:17
+    at FSReqCallback.readFileAfterClose [as oncomplete] (node:internal/fs/read_file_context:52:12)
+2023-07-19 12:40:48 error: [POST] /products >> StatusCode:: 500, Message:: jwt expired
+2023-07-19 12:41:03 error: [POST] /login >> StatusCode:: 409, Message:: This email zare@gmail.com was not found
+2023-07-19 12:41:09 error: [POST] /login >> StatusCode:: 409, Message:: This email zare1@gmail.com was not found
+2023-07-19 12:41:16 error: [POST] /login >> StatusCode:: 409, Message:: This email zare1sdsdsd@gmail.com was not found
+2023-07-19 12:41:17 error: [POST] /login >> StatusCode:: 409, Message:: This email zare1sdsdsd@gmail.com was not found
+2023-07-19 12:41:58 error: [POST] /products >> StatusCode:: 500, Message:: jwt expired
+2023-07-19 12:41:59 error: [POST] /products >> StatusCode:: 500, Message:: jwt expired
+2023-07-19 12:42:00 error: [POST] /products >> StatusCode:: 500, Message:: jwt expired
+2023-07-19 12:44:05 error: [DELETE] /products/64b793d565755b52aa3dad73 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'files')
+2023-07-19 12:44:07 error: [DELETE] /products/64b793d565755b52aa3dad73 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'files')
+2023-07-19 12:44:30 error: [DELETE] /products/64b793d565755b52aa3dad73 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'files')
+2023-07-19 12:44:56 error: [DELETE] /products/64b793d565755b52aa3dad73 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'files')
+2023-07-19 12:45:59 error: uncaughtException: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\upload\images\Screenshot2023-07-01213032.png'
+Error: Error: ENOENT: no such file or directory, unlink 'D:\practice\Food-delivery-app\project\src\upload\images\Screenshot2023-07-01213032.png'
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:71:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:46:14 error: [DELETE] /products/64b13662338f587365289740 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'files')
+2023-07-19 12:46:42 error: [DELETE] /products/64b13662338f587365289740 >> StatusCode:: 409, Message:: Product doesn't exist
+2023-07-19 12:47:44 error: uncaughtException: null
+Error: null
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:70:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:47:44 error: uncaughtException: null
+Error: null
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:70:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:47:44 error: uncaughtException: null
+Error: null
+    at D:\practice\Food-delivery-app\project\src\services\products.service.ts:70:17
+    at FSReqCallback.oncomplete (node:fs:197:23)
+2023-07-19 12:59:39 error: [POST] /products >> StatusCode:: 409, Message:: This name asas already exists

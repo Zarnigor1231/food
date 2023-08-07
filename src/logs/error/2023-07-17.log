@@ -1,0 +1,137 @@
+2023-07-17 16:10:23 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/services/admins.service.ts[0m:[93m68[0m:[93m3[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m68[0m   public async deleteAdmin(AdminId: string): Promise<Admin> {
+[7m  [0m [91m  ~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/services/admins.service.ts[0m:[93m68[0m:[93m3[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m68[0m   public async deleteAdmin(AdminId: string): Promise<Admin> {
+[7m  [0m [91m  ~~~~~~[0m
+
+    at createTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:863:19)
+    at D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-17 16:27:27 error: [POST] /admin >> StatusCode:: 409, Message:: This email zare1122@gmail.com already exists
+2023-07-17 16:27:29 error: [POST] /admin >> StatusCode:: 409, Message:: This email zare1122@gmail.com already exists
+2023-07-17 16:29:18 error: [PUT] /admin/64b525a5426dab846ae492f4 >> StatusCode:: 409, Message:: This email zare1122@gmail.com already exists
+2023-07-17 16:30:11 error: [PUT] /admin/64b2f75eb6c1f1cfb7eaa96d >> StatusCode:: 409, Message:: You are not the required admin
+2023-07-17 16:30:43 error: [DELETE] /admin/64b2f75eb6c1f1cfb7eaa96d >> StatusCode:: 409, Message:: You are not the required admin
+2023-07-17 16:38:28 error: [POST] /admin/login >> StatusCode:: 400, Message:: email should not be empty,email must be an email
+2023-07-17 17:03:12 error: [POST] /confirmOtp >> StatusCode:: 400, Message:: code must be a number conforming to the specified constraints
+2023-07-17 17:03:25 error: [POST] /confirmOtp >> StatusCode:: 400, Message:: code must be a number conforming to the specified constraints
+2023-07-17 17:03:52 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-17 17:03:54 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-17 17:21:07 error: [POST] /favorite >> StatusCode:: 500, Message:: invalid signature
+2023-07-17 17:21:10 error: [POST] /favorite >> StatusCode:: 500, Message:: invalid signature
+2023-07-17 17:21:44 error: [POST] /favorite >> StatusCode:: 500, Message:: invalid signature
+2023-07-17 17:22:01 error: [POST] /favorite >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-17 17:22:37 error: [POST] /favorite >> StatusCode:: 500, Message:: invalid signature
+2023-07-17 17:22:38 error: [POST] /favorite >> StatusCode:: 500, Message:: invalid signature
+2023-07-17 17:23:48 error: [POST] /favorite >> StatusCode:: 500, Message:: invalid signature
+2023-07-17 17:23:49 error: [POST] /favorite >> StatusCode:: 500, Message:: invalid signature
+2023-07-17 17:23:50 error: [POST] /favorite >> StatusCode:: 500, Message:: invalid signature
+2023-07-17 17:28:24 error: [POST] /favorite >> StatusCode:: 400, Message:: userID should not be empty,userID must be a string
+2023-07-17 17:28:57 error: [POST] /favorite >> StatusCode:: 500, Message:: Cast to string failed for value "{
+  _id: new ObjectId("64b53015b3f1246843247e23"),
+  fullName: 'Zarnigor OChilova',
+  email: 'zarnigorochilova7591@gmail.com',
+  phone: 908997591,
+  password: '$2b$10$d/9VCsZdRw3U4.I7J0o/t.Q/Hsa9CPSoD2IJBppimsntG8DLZ4gIW',
+  file: '/images/images.png',
+  createdAt: 2023-07-17T12:12:05.492Z,
+  updatedAt: 2023-07-17T12:12:05.492Z,
+  __v: 0
+}" (type Object) at path "userID" for model "Favorite"
+2023-07-17 17:29:39 error: [POST] /favorite >> StatusCode:: 500, Message:: Cast to string failed for value "{
+  _id: new ObjectId("64b53015b3f1246843247e23"),
+  fullName: 'Zarnigor OChilova',
+  email: 'zarnigorochilova7591@gmail.com',
+  phone: 908997591,
+  password: '$2b$10$d/9VCsZdRw3U4.I7J0o/t.Q/Hsa9CPSoD2IJBppimsntG8DLZ4gIW',
+  file: '/images/images.png',
+  createdAt: 2023-07-17T12:12:05.492Z,
+  updatedAt: 2023-07-17T12:12:05.492Z,
+  __v: 0
+}" (type Object) at path "userID" for model "Favorite"
+2023-07-17 17:31:12 error: [POST] /favorite >> StatusCode:: 500, Message:: Can't use _doc with String.
+2023-07-17 17:32:13 error: [POST] /favorite >> StatusCode:: 500, Message:: Can't use _doc with String.
+2023-07-17 17:32:31 error: [POST] /favorite >> StatusCode:: 500, Message:: Can't use _doc with String.
+2023-07-17 17:32:54 error: [POST] /favorite >> StatusCode:: 500, Message:: Can't use _doc with String.
+2023-07-17 17:33:35 error: [POST] /favorite >> StatusCode:: 500, Message:: Cast to string failed for value "{
+  _id: new ObjectId("64b53015b3f1246843247e23"),
+  fullName: 'Zarnigor OChilova',
+  email: 'zarnigorochilova7591@gmail.com',
+  phone: 908997591,
+  password: '$2b$10$d/9VCsZdRw3U4.I7J0o/t.Q/Hsa9CPSoD2IJBppimsntG8DLZ4gIW',
+  file: '/images/images.png',
+  createdAt: 2023-07-17T12:12:05.492Z,
+  updatedAt: 2023-07-17T12:12:05.492Z,
+  __v: 0
+}" (type Object) at path "userID" for model "Favorite"
+2023-07-17 17:34:17 error: [POST] /favorite >> StatusCode:: 500, Message:: Cast to string failed for value "{
+  _id: new ObjectId("64b53015b3f1246843247e23"),
+  fullName: 'Zarnigor OChilova',
+  email: 'zarnigorochilova7591@gmail.com',
+  phone: 908997591,
+  password: '$2b$10$d/9VCsZdRw3U4.I7J0o/t.Q/Hsa9CPSoD2IJBppimsntG8DLZ4gIW',
+  file: '/images/images.png',
+  createdAt: 2023-07-17T12:12:05.492Z,
+  updatedAt: 2023-07-17T12:12:05.492Z,
+  __v: 0
+}" (type Object) at path "userID" for model "Favorite"
+2023-07-17 17:34:54 error: [POST] /favorite >> StatusCode:: 500, Message:: products_model_1.ProductModel.save is not a function
+2023-07-17 17:36:18 error: [POST] /favorite >> StatusCode:: 500, Message:: Cast to string failed for value "{
+  _id: new ObjectId("64b53015b3f1246843247e23"),
+  fullName: 'Zarnigor OChilova',
+  email: 'zarnigorochilova7591@gmail.com',
+  phone: 908997591,
+  password: '$2b$10$d/9VCsZdRw3U4.I7J0o/t.Q/Hsa9CPSoD2IJBppimsntG8DLZ4gIW',
+  file: '/images/images.png',
+  createdAt: 2023-07-17T12:12:05.492Z,
+  updatedAt: 2023-07-17T12:12:05.492Z,
+  __v: 0
+}" (type Object) at path "userID" for model "Favorite"
+2023-07-17 17:36:36 error: [POST] /favorite >> StatusCode:: 500, Message:: products_model_1.ProductModel.save is not a function
+2023-07-17 17:37:27 error: [POST] /favorite >> StatusCode:: 500, Message:: products_model_1.ProductModel.save is not a function
+2023-07-17 17:41:04 error: [DELETE] /favorite/64b53647d8d51f563106a87e >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-17 17:41:05 error: [DELETE] /favorite/64b53647d8d51f563106a87e >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-17 18:04:13 error: [PUT] /admin/64b5259e426dab846ae492ef >> StatusCode:: 409, Message:: You are not the required admin
+2023-07-17 18:14:07 error: [POST] /favorite >> StatusCode:: 500, Message:: jwt expired
+2023-07-17 18:14:08 error: [POST] /favorite >> StatusCode:: 500, Message:: jwt expired
+2023-07-17 18:26:33 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-17 18:26:42 error: [POST] /signup >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-17 18:26:46 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-17 18:26:47 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-17 18:27:17 error: [POST] /signup >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-17 18:28:47 error: [POST] /signup >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-17 18:33:18 error: [POST] /signup >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-17 18:33:19 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-17 18:33:47 error: [POST] /signup >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-17 18:38:04 error: [POST] /signup >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-17 18:38:05 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-17 18:38:41 error: [POST] /signup >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-17 18:45:16 error: [POST] /signup >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-17 18:45:18 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-17 18:46:25 error: [POST] /signup >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-17 18:55:21 error: [DELETE] /favorite/64b19dd3f08911a5d77f8a86 >> StatusCode:: 409, Message:: Favorite doesn't exist
+2023-07-17 18:56:06 error: [DELETE] /favorite/64b26c50b9b236820c9b827a >> StatusCode:: 409, Message:: Favorite doesn't exist
+2023-07-17 18:56:38 error: [POST] /favorite >> StatusCode:: 409, Message:: This email undefined already exists
+2023-07-17 18:57:57 error: [POST] /favorite >> StatusCode:: 409, Message:: This email undefined already exists
+2023-07-17 18:58:42 error: [POST] /favorite >> StatusCode:: 409, Message:: This email undefined already exists
+2023-07-17 18:59:55 error: [POST] /favorite >> StatusCode:: 500, Message:: favorites_model_1.FavoriteModel.findAdminById is not a function
+2023-07-17 19:01:00 error: [DELETE] /favorite/64b2c2a55ea5f9b61392fefb >> StatusCode:: 409, Message:: Favorite doesn't exist
+2023-07-17 19:01:51 error: [DELETE] /favorite/64b2c2d863883422ad36a595 >> StatusCode:: 409, Message:: Favorite doesn't exist
+2023-07-17 19:02:16 error: [DELETE] /favorite/64b2c2d863883422ad36a595 >> StatusCode:: 409, Message:: Favorite doesn't exist
+2023-07-17 19:03:14 error: [DELETE] /favorite/64b5498602f9cc4c4e74a7cf >> StatusCode:: 409, Message:: Favorite doesn't exist
+2023-07-17 19:03:15 error: [DELETE] /favorite/64b5498602f9cc4c4e74a7cf >> StatusCode:: 409, Message:: Favorite doesn't exist
+2023-07-17 23:46:52 error: [DELETE] /favorite/64b54a418ef707cbc122c196 >> StatusCode:: 500, Message:: jwt expired
+2023-07-17 23:48:29 error: [POST] /signup >> StatusCode:: 409, Message:: invalit token

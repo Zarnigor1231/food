@@ -1,0 +1,421 @@
+2023-07-25 00:11:40 info: =================================
+2023-07-25 00:11:40 info: ======= ENV: development =======
+2023-07-25 00:11:40 info: 🚀 App listening on the port 3000
+2023-07-25 00:11:40 info: =================================
+2023-07-25 00:11:41 error: [POST] /admin >> StatusCode:: 409, Message:: This email zare@gmail.com already exists
+2023-07-25 00:11:41 info: [0mPOST /admin [33m409[0m 93.860 ms - 54[0m
+2023-07-25 00:12:37 info: [0mPOST /admin [32m201[0m 213.008 ms - -[0m
+2023-07-25 00:13:08 info: [0mGET /product [33m404[0m 2.987 ms - 146[0m
+2023-07-25 00:13:09 info: [0mGET /product [33m404[0m 1.346 ms - 146[0m
+2023-07-25 00:13:11 info: [0mGET /products [32m200[0m 34.273 ms - -[0m
+2023-07-25 00:13:58 info: =================================
+2023-07-25 00:13:58 info: ======= ENV: development =======
+2023-07-25 00:13:58 info: 🚀 App listening on the port 3000
+2023-07-25 00:13:58 info: =================================
+2023-07-25 00:14:11 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:14:11 info: [0mGET /products [33m404[0m 17.485 ms - 42[0m
+2023-07-25 00:14:37 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:14:37 info: [0mGET /products [33m404[0m 4.763 ms - 42[0m
+2023-07-25 00:14:41 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:14:41 info: [0mGET /products [33m404[0m 2.887 ms - 42[0m
+2023-07-25 00:14:42 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:14:42 info: [0mGET /products [33m404[0m 3.052 ms - 42[0m
+2023-07-25 00:15:23 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:15:23 info: [0mGET /products [33m404[0m 1.963 ms - 42[0m
+2023-07-25 00:15:24 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:15:24 info: [0mGET /products [33m404[0m 1.846 ms - 42[0m
+2023-07-25 00:15:25 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:15:25 info: [0mGET /products [33m404[0m 1.718 ms - 42[0m
+2023-07-25 00:15:38 error: [GET] /products >> StatusCode:: 401, Message:: Wrong authentication token
+2023-07-25 00:15:38 info: [0mGET /products [33m401[0m 10.130 ms - 40[0m
+2023-07-25 00:15:39 error: [GET] /products >> StatusCode:: 401, Message:: Wrong authentication token
+2023-07-25 00:15:39 info: [0mGET /products [33m401[0m 2.305 ms - 40[0m
+2023-07-25 00:15:55 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:15:55 info: [0mGET /products [33m404[0m 2.375 ms - 42[0m
+2023-07-25 00:15:59 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:15:59 info: [0mGET /products [33m404[0m 1.550 ms - 42[0m
+2023-07-25 00:16:33 info: =================================
+2023-07-25 00:16:34 info: ======= ENV: development =======
+2023-07-25 00:16:34 info: 🚀 App listening on the port 3000
+2023-07-25 00:16:34 info: =================================
+2023-07-25 00:16:34 info: [0mGET /products [32m200[0m 41.952 ms - -[0m
+2023-07-25 00:17:44 info: =================================
+2023-07-25 00:17:44 info: ======= ENV: development =======
+2023-07-25 00:17:44 info: 🚀 App listening on the port 3000
+2023-07-25 00:17:44 info: =================================
+2023-07-25 00:18:20 error: [GET] /users >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:18:20 info: [0mGET /users [33m404[0m 50.014 ms - 42[0m
+2023-07-25 00:18:21 error: [GET] /users >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:18:21 info: [0mGET /users [33m404[0m 3.085 ms - 42[0m
+2023-07-25 00:21:02 info: =================================
+2023-07-25 00:21:02 info: ======= ENV: development =======
+2023-07-25 00:21:02 info: 🚀 App listening on the port 3000
+2023-07-25 00:21:02 info: =================================
+2023-07-25 00:23:07 info: [0mPOST /generateOtpByEmail [32m200[0m 2802.867 ms - 126[0m
+2023-07-25 00:23:38 info: [0mPOST /confirmOtp [32m200[0m 12.766 ms - 36[0m
+2023-07-25 00:24:32 info: [0mPOST /users [33m404[0m 3.264 ms - 145[0m
+2023-07-25 00:24:42 info: [0mPOST /signup [32m201[0m 111.406 ms - -[0m
+2023-07-25 00:27:05 error: [POST] /orders >> StatusCode:: 400, Message:: userID should not be empty,userID must be a string, products must be an array
+2023-07-25 00:27:05 info: [0mPOST /orders [33m400[0m 10.383 ms - 91[0m
+2023-07-25 00:31:09 info: =================================
+2023-07-25 00:31:09 info: ======= ENV: development =======
+2023-07-25 00:31:09 info: 🚀 App listening on the port 3000
+2023-07-25 00:31:09 info: =================================
+2023-07-25 00:31:12 error: [POST] /orders >> StatusCode:: 400, Message:: userID should not be empty,userID must be a string, products must be an array
+2023-07-25 00:31:12 info: [0mPOST /orders [33m400[0m 23.065 ms - 91[0m
+2023-07-25 00:31:25 info: =================================
+2023-07-25 00:31:25 info: ======= ENV: development =======
+2023-07-25 00:31:25 info: 🚀 App listening on the port 3000
+2023-07-25 00:31:25 info: =================================
+2023-07-25 00:31:37 info: =================================
+2023-07-25 00:31:37 info: ======= ENV: development =======
+2023-07-25 00:31:37 info: 🚀 App listening on the port 3000
+2023-07-25 00:31:37 info: =================================
+2023-07-25 00:31:38 error: [POST] /orders >> StatusCode:: 400, Message:: userID must be a string, products must be an array
+2023-07-25 00:31:38 info: [0mPOST /orders [33m400[0m 25.657 ms - 64[0m
+2023-07-25 00:31:46 info: =================================
+2023-07-25 00:31:46 info: ======= ENV: development =======
+2023-07-25 00:31:46 info: 🚀 App listening on the port 3000
+2023-07-25 00:31:46 info: =================================
+2023-07-25 00:31:46 error: [POST] /orders >> StatusCode:: 400, Message:: products must be an array
+2023-07-25 00:31:46 info: [0mPOST /orders [33m400[0m 24.934 ms - 39[0m
+2023-07-25 00:32:01 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-25 00:32:01 info: [0mPOST /orders [31m500[0m 50.677 ms - 73[0m
+2023-07-25 00:32:44 info: =================================
+2023-07-25 00:32:44 info: ======= ENV: development =======
+2023-07-25 00:32:44 info: 🚀 App listening on the port 3000
+2023-07-25 00:32:44 info: =================================
+2023-07-25 00:32:51 info: =================================
+2023-07-25 00:32:51 info: ======= ENV: development =======
+2023-07-25 00:32:51 info: 🚀 App listening on the port 3000
+2023-07-25 00:32:51 info: =================================
+2023-07-25 00:32:54 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-25 00:32:54 info: [0mPOST /orders [31m500[0m 128.482 ms - 73[0m
+2023-07-25 00:36:08 info: =================================
+2023-07-25 00:36:08 info: ======= ENV: development =======
+2023-07-25 00:36:08 info: 🚀 App listening on the port 3000
+2023-07-25 00:36:08 info: =================================
+2023-07-25 00:36:39 info: =================================
+2023-07-25 00:36:39 info: ======= ENV: development =======
+2023-07-25 00:36:39 info: 🚀 App listening on the port 3000
+2023-07-25 00:36:39 info: =================================
+2023-07-25 00:36:45 info: =================================
+2023-07-25 00:36:45 info: ======= ENV: development =======
+2023-07-25 00:36:45 info: 🚀 App listening on the port 3000
+2023-07-25 00:36:45 info: =================================
+2023-07-25 00:37:27 info: =================================
+2023-07-25 00:37:27 info: ======= ENV: development =======
+2023-07-25 00:37:27 info: 🚀 App listening on the port 3000
+2023-07-25 00:37:27 info: =================================
+2023-07-25 00:38:25 info: =================================
+2023-07-25 00:38:25 info: ======= ENV: development =======
+2023-07-25 00:38:25 info: 🚀 App listening on the port 3000
+2023-07-25 00:38:25 info: =================================
+2023-07-25 00:38:26 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-25 00:38:26 info: [0mPOST /orders [31m500[0m 62.511 ms - 73[0m
+2023-07-25 00:39:19 info: =================================
+2023-07-25 00:39:19 info: ======= ENV: development =======
+2023-07-25 00:39:19 info: 🚀 App listening on the port 3000
+2023-07-25 00:39:19 info: =================================
+2023-07-25 00:39:26 info: =================================
+2023-07-25 00:39:26 info: ======= ENV: development =======
+2023-07-25 00:39:26 info: 🚀 App listening on the port 3000
+2023-07-25 00:39:26 info: =================================
+2023-07-25 00:39:33 info: =================================
+2023-07-25 00:39:33 info: ======= ENV: development =======
+2023-07-25 00:39:33 info: 🚀 App listening on the port 3000
+2023-07-25 00:39:33 info: =================================
+2023-07-25 00:39:36 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-25 00:39:36 info: [0mPOST /orders [31m500[0m 48.727 ms - 73[0m
+2023-07-25 00:40:10 info: =================================
+2023-07-25 00:40:10 info: ======= ENV: development =======
+2023-07-25 00:40:10 info: 🚀 App listening on the port 3000
+2023-07-25 00:40:10 info: =================================
+2023-07-25 00:40:11 info: [0mPOST /orders [32m201[0m 117.146 ms - 299[0m
+2023-07-25 00:41:49 info: =================================
+2023-07-25 00:41:49 info: ======= ENV: development =======
+2023-07-25 00:41:49 info: 🚀 App listening on the port 3000
+2023-07-25 00:41:49 info: =================================
+2023-07-25 00:42:30 info: [0mPOST /orders [32m201[0m 126.014 ms - 384[0m
+2023-07-25 00:42:54 info: =================================
+2023-07-25 00:42:54 info: ======= ENV: development =======
+2023-07-25 00:42:54 info: 🚀 App listening on the port 3000
+2023-07-25 00:42:54 info: =================================
+2023-07-25 00:45:08 info: [0mPOST /orders [32m201[0m 104.832 ms - 384[0m
+2023-07-25 00:45:23 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: products.1.count: Cast to Number failed for value "3asasadad" (type string) at path "count", totalSum: Cast to Number failed for value "NaN" (type number) at path "totalSum"
+2023-07-25 00:45:23 info: [0mPOST /orders [31m500[0m 57.690 ms - 220[0m
+2023-07-25 00:46:39 info: [0mPOST /orders [32m201[0m 32.398 ms - 384[0m
+2023-07-25 00:47:00 info: =================================
+2023-07-25 00:47:00 info: ======= ENV: development =======
+2023-07-25 00:47:00 info: 🚀 App listening on the port 3000
+2023-07-25 00:47:00 info: =================================
+2023-07-25 00:47:03 info: [0mPOST /orders [32m201[0m 63.983 ms - 384[0m
+2023-07-25 00:52:02 info: =================================
+2023-07-25 00:52:02 info: ======= ENV: development =======
+2023-07-25 00:52:02 info: 🚀 App listening on the port 3000
+2023-07-25 00:52:02 info: =================================
+2023-07-25 00:52:04 info: [0mPOST /orders [32m201[0m 66.140 ms - 384[0m
+2023-07-25 00:52:30 info: =================================
+2023-07-25 00:52:30 info: ======= ENV: development =======
+2023-07-25 00:52:30 info: 🚀 App listening on the port 3000
+2023-07-25 00:52:30 info: =================================
+2023-07-25 00:52:38 info: =================================
+2023-07-25 00:52:38 info: ======= ENV: development =======
+2023-07-25 00:52:38 info: 🚀 App listening on the port 3000
+2023-07-25 00:52:38 info: =================================
+2023-07-25 00:52:40 info: [0mPOST /orders [32m201[0m 61.944 ms - 384[0m
+2023-07-25 00:53:31 info: [0mPOST /orders [32m201[0m 27.538 ms - 384[0m
+2023-07-25 00:53:32 info: [0mPOST /orders [32m201[0m 22.304 ms - 384[0m
+2023-07-25 00:53:38 info: [0mPOST /orders [32m201[0m 27.851 ms - 385[0m
+2023-07-25 00:55:17 info: =================================
+2023-07-25 00:55:17 info: ======= ENV: development =======
+2023-07-25 00:55:17 info: 🚀 App listening on the port 3000
+2023-07-25 00:55:17 info: =================================
+2023-07-25 00:55:55 info: =================================
+2023-07-25 00:55:55 info: ======= ENV: development =======
+2023-07-25 00:55:55 info: 🚀 App listening on the port 3000
+2023-07-25 00:55:55 info: =================================
+2023-07-25 00:57:24 info: =================================
+2023-07-25 00:57:24 info: ======= ENV: development =======
+2023-07-25 00:57:24 info: 🚀 App listening on the port 3000
+2023-07-25 00:57:24 info: =================================
+2023-07-25 00:57:27 info: [0mPOST /orders [32m201[0m 153.059 ms - 385[0m
+2023-07-25 00:57:44 info: =================================
+2023-07-25 00:57:44 info: ======= ENV: development =======
+2023-07-25 00:57:44 info: 🚀 App listening on the port 3000
+2023-07-25 00:57:44 info: =================================
+2023-07-25 00:57:46 info: [0mPOST /orders [32m201[0m 147.441 ms - 385[0m
+2023-07-25 00:57:54 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: products.1.count: Cast to Number failed for value "33z" (type string) at path "count", totalSum: Cast to Number failed for value "NaN" (type number) at path "totalSum"
+2023-07-25 00:57:54 info: [0mPOST /orders [31m500[0m 48.988 ms - 214[0m
+2023-07-25 00:58:23 info: =================================
+2023-07-25 00:58:23 info: ======= ENV: development =======
+2023-07-25 00:58:23 info: 🚀 App listening on the port 3000
+2023-07-25 00:58:23 info: =================================
+2023-07-25 00:58:24 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: products.1.count: Cast to Number failed for value "33z" (type string) at path "count", totalSum: Cast to Number failed for value "NaN" (type number) at path "totalSum"
+2023-07-25 00:58:24 info: [0mPOST /orders [31m500[0m 60.595 ms - 214[0m
+2023-07-25 00:58:25 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: products.1.count: Cast to Number failed for value "33z" (type string) at path "count", totalSum: Cast to Number failed for value "NaN" (type number) at path "totalSum"
+2023-07-25 00:58:25 info: [0mPOST /orders [31m500[0m 21.999 ms - 214[0m
+2023-07-25 00:58:29 info: [0mPOST /orders [32m201[0m 26.228 ms - 385[0m
+2023-07-25 01:02:33 info: =================================
+2023-07-25 01:02:33 info: ======= ENV: development =======
+2023-07-25 01:02:33 info: 🚀 App listening on the port 3000
+2023-07-25 01:02:33 info: =================================
+2023-07-25 01:04:07 info: =================================
+2023-07-25 01:04:07 info: ======= ENV: development =======
+2023-07-25 01:04:07 info: 🚀 App listening on the port 3000
+2023-07-25 01:04:07 info: =================================
+2023-07-25 01:04:45 info: =================================
+2023-07-25 01:04:45 info: ======= ENV: development =======
+2023-07-25 01:04:45 info: 🚀 App listening on the port 3000
+2023-07-25 01:04:45 info: =================================
+2023-07-25 01:04:53 info: =================================
+2023-07-25 01:04:53 info: ======= ENV: development =======
+2023-07-25 01:04:53 info: 🚀 App listening on the port 3000
+2023-07-25 01:04:53 info: =================================
+2023-07-25 01:05:38 info: =================================
+2023-07-25 01:05:38 info: ======= ENV: development =======
+2023-07-25 01:05:38 info: 🚀 App listening on the port 3000
+2023-07-25 01:05:38 info: =================================
+2023-07-25 01:06:15 info: [0mGET /orders [32m200[0m 70.878 ms - -[0m
+2023-07-25 01:10:46 info: =================================
+2023-07-25 01:10:46 info: ======= ENV: development =======
+2023-07-25 01:10:46 info: 🚀 App listening on the port 3000
+2023-07-25 01:10:46 info: =================================
+2023-07-25 01:11:42 info: =================================
+2023-07-25 01:11:42 info: ======= ENV: development =======
+2023-07-25 01:11:42 info: 🚀 App listening on the port 3000
+2023-07-25 01:11:42 info: =================================
+2023-07-25 01:15:02 info: =================================
+2023-07-25 01:15:02 info: ======= ENV: development =======
+2023-07-25 01:15:02 info: 🚀 App listening on the port 3000
+2023-07-25 01:15:02 info: =================================
+2023-07-25 01:15:21 info: =================================
+2023-07-25 01:15:21 info: ======= ENV: development =======
+2023-07-25 01:15:21 info: 🚀 App listening on the port 3000
+2023-07-25 01:15:21 info: =================================
+2023-07-25 01:15:25 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:15:25 info: [0mGET /orders/1 [31m500[0m 16.901 ms - 65[0m
+2023-07-25 01:15:59 info: =================================
+2023-07-25 01:15:59 info: ======= ENV: development =======
+2023-07-25 01:15:59 info: 🚀 App listening on the port 3000
+2023-07-25 01:15:59 info: =================================
+2023-07-25 01:16:02 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:16:02 info: [0mGET /orders/1 [31m500[0m 22.204 ms - 65[0m
+2023-07-25 01:16:03 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:16:03 info: [0mGET /orders/1 [31m500[0m 5.264 ms - 65[0m
+2023-07-25 01:16:20 info: =================================
+2023-07-25 01:16:20 info: ======= ENV: development =======
+2023-07-25 01:16:20 info: 🚀 App listening on the port 3000
+2023-07-25 01:16:20 info: =================================
+2023-07-25 01:16:33 info: =================================
+2023-07-25 01:16:33 info: ======= ENV: development =======
+2023-07-25 01:16:33 info: 🚀 App listening on the port 3000
+2023-07-25 01:16:33 info: =================================
+2023-07-25 01:16:34 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:16:34 info: [0mGET /orders/1 [31m500[0m 32.902 ms - 65[0m
+2023-07-25 01:16:44 info: =================================
+2023-07-25 01:16:44 info: ======= ENV: development =======
+2023-07-25 01:16:44 info: 🚀 App listening on the port 3000
+2023-07-25 01:16:44 info: =================================
+2023-07-25 01:16:47 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:16:47 info: [0mGET /orders/1 [31m500[0m 15.100 ms - 65[0m
+2023-07-25 01:16:56 info: =================================
+2023-07-25 01:16:56 info: ======= ENV: development =======
+2023-07-25 01:16:56 info: 🚀 App listening on the port 3000
+2023-07-25 01:16:56 info: =================================
+2023-07-25 01:17:05 info: =================================
+2023-07-25 01:17:05 info: ======= ENV: development =======
+2023-07-25 01:17:05 info: 🚀 App listening on the port 3000
+2023-07-25 01:17:05 info: =================================
+2023-07-25 01:17:06 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:17:06 info: [0mGET /orders/1 [31m500[0m 21.700 ms - 65[0m
+2023-07-25 01:17:20 info: =================================
+2023-07-25 01:17:20 info: ======= ENV: development =======
+2023-07-25 01:17:20 info: 🚀 App listening on the port 3000
+2023-07-25 01:17:20 info: =================================
+2023-07-25 01:17:24 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:17:24 info: [0mGET /orders/1 [31m500[0m 42.828 ms - 65[0m
+2023-07-25 01:17:41 info: =================================
+2023-07-25 01:17:41 info: ======= ENV: development =======
+2023-07-25 01:17:41 info: 🚀 App listening on the port 3000
+2023-07-25 01:17:41 info: =================================
+2023-07-25 01:17:42 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:17:43 info: [0mGET /orders/1 [31m500[0m 25.176 ms - 65[0m
+2023-07-25 01:18:16 info: =================================
+2023-07-25 01:18:16 info: ======= ENV: development =======
+2023-07-25 01:18:16 info: 🚀 App listening on the port 3000
+2023-07-25 01:18:16 info: =================================
+2023-07-25 01:18:17 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:18:17 info: [0mGET /orders/1 [31m500[0m 38.631 ms - 65[0m
+2023-07-25 01:18:18 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:18:18 info: [0mGET /orders/1 [31m500[0m 5.123 ms - 65[0m
+2023-07-25 01:18:41 info: =================================
+2023-07-25 01:18:41 info: ======= ENV: development =======
+2023-07-25 01:18:41 info: 🚀 App listening on the port 3000
+2023-07-25 01:18:41 info: =================================
+2023-07-25 01:18:43 info: [0mGET /orders/1 [32m200[0m 37.201 ms - 299[0m
+2023-07-25 01:19:31 info: =================================
+2023-07-25 01:19:31 info: ======= ENV: development =======
+2023-07-25 01:19:31 info: 🚀 App listening on the port 3000
+2023-07-25 01:19:31 info: =================================
+2023-07-25 01:19:40 info: =================================
+2023-07-25 01:19:40 info: ======= ENV: development =======
+2023-07-25 01:19:40 info: 🚀 App listening on the port 3000
+2023-07-25 01:19:40 info: =================================
+2023-07-25 01:19:50 info: =================================
+2023-07-25 01:19:50 info: ======= ENV: development =======
+2023-07-25 01:19:50 info: 🚀 App listening on the port 3000
+2023-07-25 01:19:50 info: =================================
+2023-07-25 01:19:51 info: [0mGET /orders/1 [32m200[0m 69.032 ms - 299[0m
+2023-07-25 01:20:05 info: =================================
+2023-07-25 01:20:05 info: ======= ENV: development =======
+2023-07-25 01:20:05 info: 🚀 App listening on the port 3000
+2023-07-25 01:20:05 info: =================================
+2023-07-25 01:20:20 info: =================================
+2023-07-25 01:20:20 info: ======= ENV: development =======
+2023-07-25 01:20:20 info: 🚀 App listening on the port 3000
+2023-07-25 01:20:20 info: =================================
+2023-07-25 01:20:32 info: [0mGET /orders [32m200[0m 89.621 ms - 299[0m
+2023-07-25 01:20:33 info: [0mGET /orders [32m200[0m 20.934 ms - 299[0m
+2023-07-25 01:21:59 info: =================================
+2023-07-25 01:21:59 info: ======= ENV: development =======
+2023-07-25 01:21:59 info: 🚀 App listening on the port 3000
+2023-07-25 01:21:59 info: =================================
+2023-07-25 01:24:01 info: =================================
+2023-07-25 01:24:01 info: ======= ENV: development =======
+2023-07-25 01:24:01 info: 🚀 App listening on the port 3000
+2023-07-25 01:24:01 info: =================================
+2023-07-25 01:26:55 info: =================================
+2023-07-25 01:26:55 info: ======= ENV: development =======
+2023-07-25 01:26:55 info: 🚀 App listening on the port 3000
+2023-07-25 01:26:55 info: =================================
+2023-07-25 01:27:21 info: =================================
+2023-07-25 01:27:21 info: ======= ENV: development =======
+2023-07-25 01:27:21 info: 🚀 App listening on the port 3000
+2023-07-25 01:27:21 info: =================================
+2023-07-25 01:27:24 info: =================================
+2023-07-25 01:27:24 info: ======= ENV: development =======
+2023-07-25 01:27:24 info: 🚀 App listening on the port 3000
+2023-07-25 01:27:24 info: =================================
+2023-07-25 01:27:34 info: =================================
+2023-07-25 01:27:34 info: ======= ENV: development =======
+2023-07-25 01:27:34 info: 🚀 App listening on the port 3000
+2023-07-25 01:27:34 info: =================================
+2023-07-25 01:29:23 info: =================================
+2023-07-25 01:29:23 info: ======= ENV: development =======
+2023-07-25 01:29:23 info: 🚀 App listening on the port 3000
+2023-07-25 01:29:23 info: =================================
+2023-07-25 01:31:31 info: =================================
+2023-07-25 01:31:31 info: ======= ENV: development =======
+2023-07-25 01:31:31 info: 🚀 App listening on the port 3000
+2023-07-25 01:31:31 info: =================================
+2023-07-25 11:14:10 info: =================================
+2023-07-25 11:14:10 info: ======= ENV: development =======
+2023-07-25 11:14:10 info: 🚀 App listening on the port 3000
+2023-07-25 11:14:10 info: =================================
+2023-07-25 11:17:21 info: =================================
+2023-07-25 11:17:21 info: ======= ENV: development =======
+2023-07-25 11:17:21 info: 🚀 App listening on the port 3000
+2023-07-25 11:17:21 info: =================================
+2023-07-25 11:19:33 info: =================================
+2023-07-25 11:19:33 info: ======= ENV: development =======
+2023-07-25 11:19:33 info: 🚀 App listening on the port 3000
+2023-07-25 11:19:33 info: =================================
+2023-07-25 11:19:46 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:19:46 info: [0mGET /orders [33m404[0m 19.227 ms - 42[0m
+2023-07-25 11:19:47 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:19:47 info: [0mGET /orders [33m404[0m 3.367 ms - 42[0m
+2023-07-25 11:20:18 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:20:18 info: [0mGET /orders [33m404[0m 2.049 ms - 42[0m
+2023-07-25 11:20:19 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:20:19 info: [0mGET /orders [33m404[0m 2.258 ms - 42[0m
+2023-07-25 11:21:33 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:21:33 info: [0mGET /orders [33m404[0m 2.768 ms - 42[0m
+2023-07-25 11:21:34 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:21:34 info: [0mGET /orders [33m404[0m 1.639 ms - 42[0m
+2023-07-25 11:21:34 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:21:34 info: [0mGET /orders [33m404[0m 1.652 ms - 42[0m
+2023-07-25 11:21:35 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:21:35 info: [0mGET /orders [33m404[0m 2.978 ms - 42[0m
+2023-07-25 11:22:52 error: [POST] /signup >> StatusCode:: 409, Message:: invalit token
+2023-07-25 11:22:52 info: [0mPOST /signup [33m409[0m 11.449 ms - 27[0m
+2023-07-25 11:23:29 info: [0mPOST /generateOtpByEmail [32m200[0m 1422.465 ms - 126[0m
+2023-07-25 11:23:56 info: [0mPOST /confirmOtp [32m200[0m 13.023 ms - 36[0m
+2023-07-25 11:24:00 info: [0mPOST /signup [32m201[0m 85.621 ms - -[0m
+2023-07-25 11:24:08 error: [GET] /orders >> StatusCode:: 409, Message:: Order doesn't exist
+2023-07-25 11:24:08 info: [0mGET /orders [33m409[0m 14.412 ms - 33[0m
+2023-07-25 11:24:42 info: [0mPOST /orders [32m201[0m 20.361 ms - 385[0m
+2023-07-25 11:54:36 info: =================================
+2023-07-25 11:54:36 info: ======= ENV: development =======
+2023-07-25 11:54:36 info: 🚀 App listening on the port 3000
+2023-07-25 11:54:36 info: =================================
+2023-07-25 11:55:07 info: =================================
+2023-07-25 11:55:07 info: ======= ENV: development =======
+2023-07-25 11:55:07 info: 🚀 App listening on the port 3000
+2023-07-25 11:55:07 info: =================================
+2023-07-25 11:57:21 info: =================================
+2023-07-25 11:57:21 info: ======= ENV: development =======
+2023-07-25 11:57:21 info: 🚀 App listening on the port 3000
+2023-07-25 11:57:21 info: =================================
+2023-07-25 11:57:23 info: [0mPOST /orders [32m201[0m 55.539 ms - 385[0m
+2023-07-25 11:57:35 info: =================================
+2023-07-25 11:57:35 info: ======= ENV: development =======
+2023-07-25 11:57:35 info: 🚀 App listening on the port 3000
+2023-07-25 11:57:35 info: =================================
+2023-07-25 12:01:51 info: =================================
+2023-07-25 12:01:51 info: ======= ENV: development =======
+2023-07-25 12:01:51 info: 🚀 App listening on the port 3000
+2023-07-25 12:01:51 info: =================================
+2023-07-25 12:01:54 info: =================================
+2023-07-25 12:01:54 info: ======= ENV: development =======
+2023-07-25 12:01:54 info: 🚀 App listening on the port 3000
+2023-07-25 12:01:54 info: =================================
+2023-07-25 12:08:09 info: =================================
+2023-07-25 12:08:09 info: ======= ENV: development =======
+2023-07-25 12:08:09 info: 🚀 App listening on the port 3000
+2023-07-25 12:08:09 info: =================================
+2023-07-25 12:09:59 info: =================================
+2023-07-25 12:09:59 info: ======= ENV: development =======
+2023-07-25 12:09:59 info: 🚀 App listening on the port 3000
+2023-07-25 12:09:59 info: =================================
+2023-07-25 12:10:01 info: [0mPOST /orders [32m201[0m 60.727 ms - 384[0m

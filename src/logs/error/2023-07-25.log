@@ -1,0 +1,173 @@
+2023-07-25 00:11:41 error: [POST] /admin >> StatusCode:: 409, Message:: This email zare@gmail.com already exists
+2023-07-25 00:14:11 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:14:37 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:14:41 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:14:42 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:15:23 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:15:24 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:15:25 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:15:38 error: [GET] /products >> StatusCode:: 401, Message:: Wrong authentication token
+2023-07-25 00:15:39 error: [GET] /products >> StatusCode:: 401, Message:: Wrong authentication token
+2023-07-25 00:15:55 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:15:59 error: [GET] /products >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:18:20 error: [GET] /users >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:18:21 error: [GET] /users >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 00:27:05 error: [POST] /orders >> StatusCode:: 400, Message:: userID should not be empty,userID must be a string, products must be an array
+2023-07-25 00:31:12 error: [POST] /orders >> StatusCode:: 400, Message:: userID should not be empty,userID must be a string, products must be an array
+2023-07-25 00:31:38 error: [POST] /orders >> StatusCode:: 400, Message:: userID must be a string, products must be an array
+2023-07-25 00:31:46 error: [POST] /orders >> StatusCode:: 400, Message:: products must be an array
+2023-07-25 00:32:01 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-25 00:32:54 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-25 00:38:26 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-25 00:39:36 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-25 00:45:23 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: products.1.count: Cast to Number failed for value "3asasadad" (type string) at path "count", totalSum: Cast to Number failed for value "NaN" (type number) at path "totalSum"
+2023-07-25 00:55:06 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/dtos/orders.dto.ts[0m:[93m5[0m:[93m15[0m - [91merror[0m[90m TS1146: [0mDeclaration expected.
+
+[7m5[0m   @IsMongoId() ;
+[7m [0m [91m              [0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/dtos/orders.dto.ts[0m:[93m5[0m:[93m15[0m - [91merror[0m[90m TS1146: [0mDeclaration expected.
+
+[7m5[0m   @IsMongoId() ;
+[7m [0m [91m              [0m
+
+    at createTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:863:19)
+    at D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-25 00:55:19 error: uncaughtException: Cannot convert undefined or null to object
+TypeError: Cannot convert undefined or null to object
+    at Function.values (<anonymous>)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:23:71
+    at Array.map (<anonymous>)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:23:32
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 00:55:58 error: uncaughtException: Cannot convert undefined or null to object
+TypeError: Cannot convert undefined or null to object
+    at Function.values (<anonymous>)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:23:71
+    at Array.map (<anonymous>)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:23:32
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 00:57:54 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: products.1.count: Cast to Number failed for value "33z" (type string) at path "count", totalSum: Cast to Number failed for value "NaN" (type number) at path "totalSum"
+2023-07-25 00:58:24 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: products.1.count: Cast to Number failed for value "33z" (type string) at path "count", totalSum: Cast to Number failed for value "NaN" (type number) at path "totalSum"
+2023-07-25 00:58:25 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: products.1.count: Cast to Number failed for value "33z" (type string) at path "count", totalSum: Cast to Number failed for value "NaN" (type number) at path "totalSum"
+2023-07-25 01:11:51 error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as get] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at OrderRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\orders.router.ts:19:17)
+    at new OrderRoute (D:\practice\Food-delivery-app\project\src\routes\orders.router.ts:14:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:22:3)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-25 01:13:38 error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as get] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at OrderRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\orders.router.ts:19:17)
+    at new OrderRoute (D:\practice\Food-delivery-app\project\src\routes\orders.router.ts:14:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:22:3)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-25 01:14:23 error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as get] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at OrderRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\orders.router.ts:19:17)
+    at new OrderRoute (D:\practice\Food-delivery-app\project\src\routes\orders.router.ts:14:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:22:3)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-25 01:14:32 error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as get] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at OrderRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\orders.router.ts:19:17)
+    at new OrderRoute (D:\practice\Food-delivery-app\project\src\routes\orders.router.ts:14:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:22:3)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-25 01:15:25 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:16:02 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:16:03 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:16:34 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:16:47 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:17:06 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:17:24 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:17:42 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:18:17 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 01:18:18 error: [GET] /orders/1 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-25 11:19:46 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:19:47 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:20:18 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:20:19 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:21:33 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:21:34 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:21:34 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:21:35 error: [GET] /orders >> StatusCode:: 404, Message:: Authentication token missing
+2023-07-25 11:22:52 error: [POST] /signup >> StatusCode:: 409, Message:: invalit token
+2023-07-25 11:24:08 error: [GET] /orders >> StatusCode:: 409, Message:: Order doesn't exist
+2023-07-25 11:55:59 error: uncaughtException: Cannot convert undefined or null to object
+TypeError: Cannot convert undefined or null to object
+    at Function.values (<anonymous>)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:23:71
+    at Array.map (<anonymous>)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:23:32
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 12:01:56 error: uncaughtException: Cannot convert undefined or null to object
+TypeError: Cannot convert undefined or null to object
+    at Function.values (<anonymous>)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:23:71
+    at Array.map (<anonymous>)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:23:32
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-25 12:07:55 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/dtos/orders.dto.ts[0m:[93m15[0m:[93m40[0m - [91merror[0m[90m TS1005: [0m';' expected.
+
+[7m15[0m   @ValidateIf(obj => {console.log(obj) return true})
+[7m  [0m [91m                                       ~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/dtos/orders.dto.ts[0m:[93m15[0m:[93m40[0m - [91merror[0m[90m TS1005: [0m';' expected.
+
+[7m15[0m   @ValidateIf(obj => {console.log(obj) return true})
+[7m  [0m [91m                                       ~~~~~~[0m
+
+    at createTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:863:19)
+    at D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2023-07-25 12:08:12 error: uncaughtException: Cannot convert undefined or null to object
+TypeError: Cannot convert undefined or null to object
+    at Function.values (<anonymous>)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:23:71
+    at Array.map (<anonymous>)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:23:32
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)

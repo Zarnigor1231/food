@@ -1,0 +1,6 @@
+2023-07-24 17:57:39 error: [POST] /generateOtpByEmail >> StatusCode:: 400, Message:: email must be an email
+2023-07-24 17:58:10 error: [POST] /generateOtpByEmail >> StatusCode:: 400, Message:: email must be an email
+2023-07-24 18:00:26 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-24 18:00:49 error: [POST] /signup >> StatusCode:: 400, Message:: phone must be a valid phone number
+2023-07-24 18:00:55 error: [POST] /signup >> StatusCode:: 400, Message:: phone must be a valid phone number
+2023-07-24 18:01:21 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists

@@ -1,0 +1,119 @@
+2023-07-20 11:09:23 info: =================================
+2023-07-20 11:09:23 info: ======= ENV: development =======
+2023-07-20 11:09:23 info: 🚀 App listening on the port 3000
+2023-07-20 11:09:23 info: =================================
+2023-07-20 11:09:53 info: [0mGET /products [32m200[0m 113.281 ms - -[0m
+2023-07-20 11:10:44 error: [PUT] /products/64b19d26a85f111be631c3e7 >> StatusCode:: 500, Message:: jwt expired
+2023-07-20 11:10:44 info: [0mPUT /products/64b19d26a85f111be631c3e7 [31m500[0m 19.521 ms - 25[0m
+2023-07-20 11:14:16 info: =================================
+2023-07-20 11:14:16 info: ======= ENV: development =======
+2023-07-20 11:14:16 info: 🚀 App listening on the port 3000
+2023-07-20 11:14:16 info: =================================
+2023-07-20 11:16:13 info: =================================
+2023-07-20 11:16:13 info: ======= ENV: development =======
+2023-07-20 11:16:13 info: 🚀 App listening on the port 3000
+2023-07-20 11:16:13 info: =================================
+2023-07-20 11:16:43 info: =================================
+2023-07-20 11:16:43 info: ======= ENV: development =======
+2023-07-20 11:16:43 info: 🚀 App listening on the port 3000
+2023-07-20 11:16:43 info: =================================
+2023-07-20 11:17:38 info: =================================
+2023-07-20 11:17:38 info: ======= ENV: development =======
+2023-07-20 11:17:38 info: 🚀 App listening on the port 3000
+2023-07-20 11:17:38 info: =================================
+2023-07-20 11:18:49 info: =================================
+2023-07-20 11:18:49 info: ======= ENV: development =======
+2023-07-20 11:18:49 info: 🚀 App listening on the port 3000
+2023-07-20 11:18:49 info: =================================
+2023-07-20 11:19:50 info: [0mPOST /login-admin [32m200[0m 351.980 ms - 175[0m
+2023-07-20 11:20:00 error: [PUT] /products/64b19d26a85f111be631c3e7 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-20 11:20:00 info: [0mPUT /products/64b19d26a85f111be631c3e7 [31m500[0m 10.759 ms - 65[0m
+2023-07-20 11:20:36 error: [PUT] /products/64b19d26a85f111be631c3e7 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-20 11:20:36 info: [0mPUT /products/64b19d26a85f111be631c3e7 [31m500[0m 7.034 ms - 65[0m
+2023-07-20 11:23:02 info: =================================
+2023-07-20 11:23:02 info: ======= ENV: development =======
+2023-07-20 11:23:02 info: 🚀 App listening on the port 3000
+2023-07-20 11:23:02 info: =================================
+2023-07-20 11:23:07 error: [PUT] /products/64b19d26a85f111be631c3e7 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-20 11:23:07 info: [0mPUT /products/64b19d26a85f111be631c3e7 [31m500[0m 25.118 ms - 65[0m
+2023-07-20 11:23:08 error: [PUT] /products/64b19d26a85f111be631c3e7 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading '_id')
+2023-07-20 11:23:08 info: [0mPUT /products/64b19d26a85f111be631c3e7 [31m500[0m 6.847 ms - 65[0m
+2023-07-20 11:24:35 info: =================================
+2023-07-20 11:24:35 info: ======= ENV: development =======
+2023-07-20 11:24:35 info: 🚀 App listening on the port 3000
+2023-07-20 11:24:35 info: =================================
+2023-07-20 11:24:40 info: [0mPUT /products/64b19d26a85f111be631c3e7 [33m403[0m 35.690 ms - 50[0m
+2023-07-20 11:25:19 info: =================================
+2023-07-20 11:25:19 info: ======= ENV: development =======
+2023-07-20 11:25:19 info: 🚀 App listening on the port 3000
+2023-07-20 11:25:19 info: =================================
+2023-07-20 11:25:20 info: [0mPUT /products/64b19d26a85f111be631c3e7 [33m403[0m 38.556 ms - 50[0m
+2023-07-20 11:27:15 info: =================================
+2023-07-20 11:27:15 info: ======= ENV: development =======
+2023-07-20 11:27:15 info: 🚀 App listening on the port 3000
+2023-07-20 11:27:15 info: =================================
+2023-07-20 11:31:06 error: [PUT] /products/64b19d26a85f111be631c3e7 >> StatusCode:: 400, Message:: price must be a number conforming to the specified constraints
+2023-07-20 11:31:06 info: [0mPUT /products/64b19d26a85f111be631c3e7 [33m400[0m 46.740 ms - 76[0m
+2023-07-20 11:31:21 error: [PUT] /products/64b19d26a85f111be631c3e7 >> StatusCode:: 400, Message:: price must be a number conforming to the specified constraints
+2023-07-20 11:31:21 info: [0mPUT /products/64b19d26a85f111be631c3e7 [33m400[0m 19.931 ms - 76[0m
+2023-07-20 11:32:13 info: =================================
+2023-07-20 11:32:13 info: ======= ENV: development =======
+2023-07-20 11:32:13 info: 🚀 App listening on the port 3000
+2023-07-20 11:32:13 info: =================================
+2023-07-20 11:32:16 error: [PUT] /products/64b19d26a85f111be631c3e7 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'includes')
+2023-07-20 11:32:16 info: [0mPUT /products/64b19d26a85f111be631c3e7 [31m500[0m 66.303 ms - 70[0m
+2023-07-20 11:34:37 info: =================================
+2023-07-20 11:34:37 info: ======= ENV: development =======
+2023-07-20 11:34:37 info: 🚀 App listening on the port 3000
+2023-07-20 11:34:37 info: =================================
+2023-07-20 11:34:44 error: [PUT] /products/64b19d26a85f111be631c3e7 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'push')
+2023-07-20 11:34:44 info: [0mPUT /products/64b19d26a85f111be631c3e7 [31m500[0m 59.620 ms - 66[0m
+2023-07-20 11:34:46 error: [PUT] /products/64b19d26a85f111be631c3e7 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'push')
+2023-07-20 11:34:46 info: [0mPUT /products/64b19d26a85f111be631c3e7 [31m500[0m 21.329 ms - 66[0m
+2023-07-20 11:36:10 info: =================================
+2023-07-20 11:36:10 info: ======= ENV: development =======
+2023-07-20 11:36:10 info: 🚀 App listening on the port 3000
+2023-07-20 11:36:10 info: =================================
+2023-07-20 11:36:13 info: [0mPUT /products/64b19d26a85f111be631c3e7 [32m200[0m 109.562 ms - 487[0m
+2023-07-20 11:37:34 info: [0mPUT /products/64b19d26a85f111be631c3e7 [32m200[0m 28.521 ms - 326[0m
+2023-07-20 11:38:25 info: =================================
+2023-07-20 11:38:25 info: ======= ENV: development =======
+2023-07-20 11:38:25 info: 🚀 App listening on the port 3000
+2023-07-20 11:38:25 info: =================================
+2023-07-20 11:38:42 info: [0mPUT /products/64b19d26a85f111be631c3e7 [32m200[0m 87.965 ms - 487[0m
+2023-07-20 11:39:26 info: [0mPUT /products/64b19d26a85f111be631c3e7 [32m200[0m 21.718 ms - 326[0m
+2023-07-20 11:41:36 info: =================================
+2023-07-20 11:41:36 info: ======= ENV: development =======
+2023-07-20 11:41:36 info: 🚀 App listening on the port 3000
+2023-07-20 11:41:36 info: =================================
+2023-07-20 11:41:42 info: [0mPUT /products/64b19d26a85f111be631c3e7 [32m200[0m 48.664 ms - 326[0m
+2023-07-20 11:41:43 info: [0mPUT /products/64b19d26a85f111be631c3e7 [32m200[0m 21.616 ms - 326[0m
+2023-07-20 11:41:45 info: [0mPUT /products/64b19d26a85f111be631c3e7 [32m200[0m 23.872 ms - 326[0m
+2023-07-20 11:42:24 info: =================================
+2023-07-20 11:42:24 info: ======= ENV: development =======
+2023-07-20 11:42:24 info: 🚀 App listening on the port 3000
+2023-07-20 11:42:24 info: =================================
+2023-07-20 11:42:26 info: [0mPUT /products/64b19d26a85f111be631c3e7 [32m200[0m 64.064 ms - 326[0m
+2023-07-20 11:45:10 info: =================================
+2023-07-20 11:45:10 info: ======= ENV: development =======
+2023-07-20 11:45:10 info: 🚀 App listening on the port 3000
+2023-07-20 11:45:10 info: =================================
+2023-07-20 11:45:18 info: [0mPUT /products/64b19d26a85f111be631c3e7 [32m200[0m 56.474 ms - 379[0m
+2023-07-20 11:45:52 info: =================================
+2023-07-20 11:45:52 info: ======= ENV: development =======
+2023-07-20 11:45:52 info: 🚀 App listening on the port 3000
+2023-07-20 11:45:52 info: =================================
+2023-07-20 11:49:15 info: =================================
+2023-07-20 11:49:15 info: ======= ENV: development =======
+2023-07-20 11:49:15 info: 🚀 App listening on the port 3000
+2023-07-20 11:49:15 info: =================================
+2023-07-20 11:49:30 info: [0mPUT /products/64b19d26a85f111be631c3e7 [32m200[0m 84.161 ms - 487[0m
+2023-07-20 11:50:12 info: [0mPUT /products/64b19d26a85f111be631c3e7 [32m200[0m 44.522 ms - 541[0m
+2023-07-20 12:00:19 info: =================================
+2023-07-20 12:00:19 info: ======= ENV: development =======
+2023-07-20 12:00:19 info: 🚀 App listening on the port 3000
+2023-07-20 12:00:19 info: =================================
+2023-07-20 12:00:30 info: =================================
+2023-07-20 12:00:30 info: ======= ENV: development =======
+2023-07-20 12:00:30 info: 🚀 App listening on the port 3000
+2023-07-20 12:00:30 info: =================================

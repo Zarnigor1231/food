@@ -1,0 +1,246 @@
+2023-07-21 13:26:10 info: =================================
+2023-07-21 13:26:10 info: ======= ENV: development =======
+2023-07-21 13:26:10 info: 🚀 App listening on the port 3000
+2023-07-21 13:26:10 info: =================================
+2023-07-21 13:26:43 info: [0mGET /users [32m200[0m 41.127 ms - 357[0m
+2023-07-21 13:29:17 info: =================================
+2023-07-21 13:29:17 info: ======= ENV: development =======
+2023-07-21 13:29:17 info: 🚀 App listening on the port 3000
+2023-07-21 13:29:17 info: =================================
+2023-07-21 13:29:22 info: =================================
+2023-07-21 13:29:22 info: ======= ENV: development =======
+2023-07-21 13:29:22 info: 🚀 App listening on the port 3000
+2023-07-21 13:29:22 info: =================================
+2023-07-21 13:29:24 info: [0mGET /users [32m200[0m 24.391 ms - 197[0m
+2023-07-21 13:29:25 info: [0mGET /users [32m200[0m 5.567 ms - 197[0m
+2023-07-21 13:29:38 info: =================================
+2023-07-21 13:29:38 info: ======= ENV: development =======
+2023-07-21 13:29:38 info: 🚀 App listening on the port 3000
+2023-07-21 13:29:38 info: =================================
+2023-07-21 13:29:40 info: [0mGET /users [32m200[0m 19.749 ms - 197[0m
+2023-07-21 13:29:41 info: [0mGET /users [32m200[0m 5.189 ms - 197[0m
+2023-07-21 13:29:42 info: [0mGET /users [32m200[0m 5.234 ms - 197[0m
+2023-07-21 13:29:42 info: [0mGET /users [32m200[0m 8.391 ms - 197[0m
+2023-07-21 13:29:43 info: [0mGET /users [32m200[0m 4.749 ms - 197[0m
+2023-07-21 13:30:04 info: =================================
+2023-07-21 13:30:04 info: ======= ENV: development =======
+2023-07-21 13:30:04 info: 🚀 App listening on the port 3000
+2023-07-21 13:30:04 info: =================================
+2023-07-21 13:30:06 info: [0mGET /users [32m200[0m 21.743 ms - 197[0m
+2023-07-21 13:30:07 info: [0mGET /users [32m200[0m 5.189 ms - 197[0m
+2023-07-21 13:30:07 info: [0mGET /users [32m200[0m 5.894 ms - 197[0m
+2023-07-21 13:31:29 info: =================================
+2023-07-21 13:31:29 info: ======= ENV: development =======
+2023-07-21 13:31:29 info: 🚀 App listening on the port 3000
+2023-07-21 13:31:29 info: =================================
+2023-07-21 13:31:48 info: [0mGET /users [32m200[0m 17.988 ms - 197[0m
+2023-07-21 13:32:36 info: =================================
+2023-07-21 13:32:36 info: ======= ENV: development =======
+2023-07-21 13:32:36 info: 🚀 App listening on the port 3000
+2023-07-21 13:32:36 info: =================================
+2023-07-21 13:32:41 info: [0mGET /users/64b58d9a710de2cad5b404a0 [32m200[0m 20.584 ms - 195[0m
+2023-07-21 13:32:45 info: [0mGET /users/64b58d9a710de2cad5b404a0 [32m200[0m 9.339 ms - 195[0m
+2023-07-21 13:32:51 info: [0mGET /users [32m200[0m 11.776 ms - 197[0m
+2023-07-21 13:37:27 info: =================================
+2023-07-21 13:37:27 info: ======= ENV: development =======
+2023-07-21 13:37:27 info: 🚀 App listening on the port 3000
+2023-07-21 13:37:27 info: =================================
+2023-07-21 13:39:40 info: =================================
+2023-07-21 13:39:40 info: ======= ENV: development =======
+2023-07-21 13:39:40 info: 🚀 App listening on the port 3000
+2023-07-21 13:39:40 info: =================================
+2023-07-21 13:40:37 info: [0mPOST /lgenerateOtpByEmail [33m404[0m 38.118 ms - 159[0m
+2023-07-21 13:40:59 info: [0mPOST /generateOtpByEmail [32m200[0m 6916.556 ms - 126[0m
+2023-07-21 13:41:41 info: [0mPOST /confirmOtp [32m200[0m 13.297 ms - 24[0m
+2023-07-21 13:41:57 info: [0mPOST /confirmOtp [32m200[0m 4.923 ms - 24[0m
+2023-07-21 13:41:58 info: [0mPOST /confirmOtp [32m200[0m 6.085 ms - 24[0m
+2023-07-21 13:44:05 info: =================================
+2023-07-21 13:44:05 info: ======= ENV: development =======
+2023-07-21 13:44:05 info: 🚀 App listening on the port 3000
+2023-07-21 13:44:05 info: =================================
+2023-07-21 13:44:06 error: [POST] /confirmOtp >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-21 13:44:06 info: [0mPOST /confirmOtp [33m409[0m 30.418 ms - 69[0m
+2023-07-21 13:45:21 info: [0mPOST /singup [33m404[0m 7.086 ms - 146[0m
+2023-07-21 13:45:30 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-21 13:45:30 info: [0mPOST /signup [33m400[0m 10.260 ms - 67[0m
+2023-07-21 13:46:13 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: phone: Validator failed for path `phone` with value `12121212`
+2023-07-21 13:46:13 info: [0mPOST /signup [31m500[0m 243.175 ms - 100[0m
+2023-07-21 13:46:44 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: phone: Validator failed for path `phone` with value `908997591`
+2023-07-21 13:46:44 info: [0mPOST /signup [31m500[0m 149.808 ms - 101[0m
+2023-07-21 13:46:46 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: phone: Validator failed for path `phone` with value `908997591`
+2023-07-21 13:46:46 info: [0mPOST /signup [31m500[0m 149.528 ms - 101[0m
+2023-07-21 13:48:06 info: =================================
+2023-07-21 13:48:06 info: ======= ENV: development =======
+2023-07-21 13:48:06 info: 🚀 App listening on the port 3000
+2023-07-21 13:48:06 info: =================================
+2023-07-21 13:48:08 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: phone: Validator failed for path `phone` with value `908997591`
+2023-07-21 13:48:08 info: [0mPOST /signup [31m500[0m 149.660 ms - 101[0m
+2023-07-21 13:48:09 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: phone: Validator failed for path `phone` with value `908997591`
+2023-07-21 13:48:09 info: [0mPOST /signup [31m500[0m 81.741 ms - 101[0m
+2023-07-21 13:48:50 info: =================================
+2023-07-21 13:48:50 info: ======= ENV: development =======
+2023-07-21 13:48:50 info: 🚀 App listening on the port 3000
+2023-07-21 13:48:50 info: =================================
+2023-07-21 13:49:11 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: phone: Validator failed for path `phone` with value `908997591`
+2023-07-21 13:49:11 info: [0mPOST /signup [31m500[0m 235.953 ms - 101[0m
+2023-07-21 13:51:02 info: =================================
+2023-07-21 13:51:02 info: ======= ENV: development =======
+2023-07-21 13:51:02 info: 🚀 App listening on the port 3000
+2023-07-21 13:51:02 info: =================================
+2023-07-21 13:51:04 info: [0mPOST /signup [32m201[0m 113.805 ms - -[0m
+2023-07-21 13:52:00 info: =================================
+2023-07-21 13:52:00 info: ======= ENV: development =======
+2023-07-21 13:52:00 info: 🚀 App listening on the port 3000
+2023-07-21 13:52:00 info: =================================
+2023-07-21 13:52:20 info: [0mPUT /users/64ba46f8f0596501c94bd123 [32m200[0m 74.017 ms - 298[0m
+2023-07-21 13:52:32 info: [0mGET /images/images.png [32m200[0m 13.406 ms - 1845[0m
+2023-07-21 13:52:56 error: [PUT] /users/64ba46f8f0596501c94bd123 >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-21 13:52:56 info: [0mPUT /users/64ba46f8f0596501c94bd123 [33m400[0m 8.092 ms - 67[0m
+2023-07-21 13:53:05 info: [0mPUT /users/64ba46f8f0596501c94bd123 [32m200[0m 14.141 ms - 294[0m
+2023-07-21 13:54:35 info: =================================
+2023-07-21 13:54:35 info: ======= ENV: development =======
+2023-07-21 13:54:35 info: 🚀 App listening on the port 3000
+2023-07-21 13:54:35 info: =================================
+2023-07-21 18:15:46 info: =================================
+2023-07-21 18:15:46 info: ======= ENV: development =======
+2023-07-21 18:15:46 info: 🚀 App listening on the port 3000
+2023-07-21 18:15:46 info: =================================
+2023-07-21 18:15:57 info: [0mGET /products [32m200[0m 109.636 ms - -[0m
+2023-07-21 18:17:47 info: =================================
+2023-07-21 18:17:47 info: ======= ENV: development =======
+2023-07-21 18:17:47 info: 🚀 App listening on the port 3000
+2023-07-21 18:17:47 info: =================================
+2023-07-21 18:21:36 info: =================================
+2023-07-21 18:21:36 info: ======= ENV: development =======
+2023-07-21 18:21:36 info: 🚀 App listening on the port 3000
+2023-07-21 18:21:36 info: =================================
+2023-07-21 18:22:03 info: =================================
+2023-07-21 18:22:03 info: ======= ENV: development =======
+2023-07-21 18:22:03 info: 🚀 App listening on the port 3000
+2023-07-21 18:22:03 info: =================================
+2023-07-21 18:22:50 info: =================================
+2023-07-21 18:22:50 info: ======= ENV: development =======
+2023-07-21 18:22:50 info: 🚀 App listening on the port 3000
+2023-07-21 18:22:50 info: =================================
+2023-07-21 18:24:59 info: =================================
+2023-07-21 18:24:59 info: ======= ENV: development =======
+2023-07-21 18:24:59 info: 🚀 App listening on the port 3000
+2023-07-21 18:24:59 info: =================================
+2023-07-21 18:26:23 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:26:23 info: [0mPOST /products [31m500[0m 21.433 ms - 72[0m
+2023-07-21 18:26:54 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:26:54 info: [0mPOST /products [31m500[0m 6.028 ms - 72[0m
+2023-07-21 18:26:55 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:26:55 info: [0mPOST /products [31m500[0m 2.769 ms - 72[0m
+2023-07-21 18:26:55 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:26:55 info: [0mPOST /products [31m500[0m 3.186 ms - 72[0m
+2023-07-21 18:27:34 info: =================================
+2023-07-21 18:27:34 info: ======= ENV: development =======
+2023-07-21 18:27:34 info: 🚀 App listening on the port 3000
+2023-07-21 18:27:34 info: =================================
+2023-07-21 18:27:38 info: =================================
+2023-07-21 18:27:38 info: ======= ENV: development =======
+2023-07-21 18:27:38 info: 🚀 App listening on the port 3000
+2023-07-21 18:27:38 info: =================================
+2023-07-21 18:27:40 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:27:40 info: [0mPOST /products [31m500[0m 10.742 ms - 72[0m
+2023-07-21 18:27:41 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:27:41 info: [0mPOST /products [31m500[0m 3.938 ms - 72[0m
+2023-07-21 18:27:42 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:27:42 info: [0mPOST /products [31m500[0m 4.926 ms - 72[0m
+2023-07-21 18:27:43 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:27:43 info: [0mPOST /products [31m500[0m 3.487 ms - 72[0m
+2023-07-21 18:27:47 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:27:47 info: [0mPOST /products [31m500[0m 3.663 ms - 72[0m
+2023-07-21 18:27:48 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:27:48 info: [0mPOST /products [31m500[0m 3.623 ms - 72[0m
+2023-07-21 18:28:16 info: =================================
+2023-07-21 18:28:16 info: ======= ENV: development =======
+2023-07-21 18:28:16 info: 🚀 App listening on the port 3000
+2023-07-21 18:28:16 info: =================================
+2023-07-21 18:28:19 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:28:19 info: [0mPOST /products [31m500[0m 9.660 ms - 72[0m
+2023-07-21 18:28:19 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:28:19 info: [0mPOST /products [31m500[0m 5.541 ms - 72[0m
+2023-07-21 18:29:04 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:29:04 info: [0mPOST /products [31m500[0m 2.571 ms - 72[0m
+2023-07-21 18:29:05 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:29:05 info: [0mPOST /products [31m500[0m 2.226 ms - 72[0m
+2023-07-21 18:29:05 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:29:05 info: [0mPOST /products [31m500[0m 3.807 ms - 72[0m
+2023-07-21 18:29:19 info: =================================
+2023-07-21 18:29:19 info: ======= ENV: development =======
+2023-07-21 18:29:19 info: 🚀 App listening on the port 3000
+2023-07-21 18:29:19 info: =================================
+2023-07-21 18:29:20 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:29:20 info: [0mPOST /products [31m500[0m 23.581 ms - 72[0m
+2023-07-21 18:29:21 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:29:21 info: [0mPOST /products [31m500[0m 7.404 ms - 72[0m
+2023-07-21 18:29:46 info: =================================
+2023-07-21 18:29:46 info: ======= ENV: development =======
+2023-07-21 18:29:46 info: 🚀 App listening on the port 3000
+2023-07-21 18:29:46 info: =================================
+2023-07-21 18:30:14 info: =================================
+2023-07-21 18:30:14 info: ======= ENV: development =======
+2023-07-21 18:30:14 info: 🚀 App listening on the port 3000
+2023-07-21 18:30:14 info: =================================
+2023-07-21 18:30:15 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:30:15 info: [0mPOST /products [31m500[0m 9.304 ms - 72[0m
+2023-07-21 18:31:30 info: =================================
+2023-07-21 18:31:30 info: ======= ENV: development =======
+2023-07-21 18:31:30 info: 🚀 App listening on the port 3000
+2023-07-21 18:31:30 info: =================================
+2023-07-21 18:31:42 info: =================================
+2023-07-21 18:31:42 info: ======= ENV: development =======
+2023-07-21 18:31:42 info: 🚀 App listening on the port 3000
+2023-07-21 18:31:42 info: =================================
+2023-07-21 18:31:44 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:31:44 info: [0mPOST /products [31m500[0m 9.538 ms - 72[0m
+2023-07-21 18:31:45 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:31:45 info: [0mPOST /products [31m500[0m 4.544 ms - 72[0m
+2023-07-21 18:31:45 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:31:45 info: [0mPOST /products [31m500[0m 2.492 ms - 72[0m
+2023-07-21 18:34:24 error: [POST] /login-admin >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-21 18:34:24 info: [0mPOST /login-admin [33m400[0m 40.455 ms - 67[0m
+2023-07-21 18:34:29 error: [POST] /login-admin >> StatusCode:: 409, Message:: Password is not matching
+2023-07-21 18:34:29 info: [0mPOST /login-admin [33m409[0m 239.380 ms - 38[0m
+2023-07-21 18:34:59 error: [POST] /admin >> StatusCode:: 409, Message:: This email zarezare@gmail.com already exists
+2023-07-21 18:34:59 info: [0mPOST /admin [33m409[0m 9.393 ms - 58[0m
+2023-07-21 18:35:05 info: [0mPOST /admin [32m201[0m 184.992 ms - -[0m
+2023-07-21 18:37:23 info: [0mPOST /products [33m403[0m 8.550 ms - 50[0m
+2023-07-21 18:37:26 info: [0mPOST /products [33m403[0m 4.802 ms - 50[0m
+2023-07-21 18:37:27 info: [0mPOST /products [33m403[0m 5.260 ms - 50[0m
+2023-07-21 18:37:27 info: [0mPOST /products [33m403[0m 4.774 ms - 50[0m
+2023-07-21 18:37:28 info: [0mPOST /products [33m403[0m 8.635 ms - 50[0m
+2023-07-21 18:38:28 info: [0mPOST /products [33m403[0m 5.038 ms - 50[0m
+2023-07-21 18:38:55 info: =================================
+2023-07-21 18:38:55 info: ======= ENV: development =======
+2023-07-21 18:38:55 info: 🚀 App listening on the port 3000
+2023-07-21 18:38:55 info: =================================
+2023-07-21 18:38:55 info: [0mPOST /products [33m403[0m 19.753 ms - 50[0m
+2023-07-21 18:39:23 info: =================================
+2023-07-21 18:39:23 info: ======= ENV: development =======
+2023-07-21 18:39:23 info: 🚀 App listening on the port 3000
+2023-07-21 18:39:23 info: =================================
+2023-07-21 18:39:25 info: [0mPOST /products [32m201[0m 118.428 ms - 438[0m
+2023-07-21 18:40:05 info: =================================
+2023-07-21 18:40:05 info: ======= ENV: development =======
+2023-07-21 18:40:05 info: 🚀 App listening on the port 3000
+2023-07-21 18:40:05 info: =================================
+2023-07-21 18:40:11 info: =================================
+2023-07-21 18:40:11 info: ======= ENV: development =======
+2023-07-21 18:40:11 info: 🚀 App listening on the port 3000
+2023-07-21 18:40:11 info: =================================
+2023-07-21 18:40:47 info: =================================
+2023-07-21 18:40:47 info: ======= ENV: development =======
+2023-07-21 18:40:47 info: 🚀 App listening on the port 3000
+2023-07-21 18:40:47 info: =================================
+2023-07-21 18:40:56 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'push')
+2023-07-21 18:40:56 info: [0mPOST /products [31m500[0m 76.816 ms - 66[0m
+2023-07-21 18:40:57 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'push')
+2023-07-21 18:40:57 info: [0mPOST /products [31m500[0m 33.325 ms - 66[0m
+2023-07-21 18:42:28 info: =================================
+2023-07-21 18:42:28 info: ======= ENV: development =======
+2023-07-21 18:42:28 info: 🚀 App listening on the port 3000
+2023-07-21 18:42:28 info: =================================
+2023-07-21 18:42:29 info: [0mPOST /products [32m201[0m 71.356 ms - 440[0m

@@ -1,0 +1,109 @@
+2023-07-14 12:26:53 error: [POST] /passRecovery >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2023-07-14 13:29:18 error: [POST] /products >> StatusCode:: 400, Message:: name must be an email, price must be a number conforming to the specified constraints, files should not be empty,files must be a string, description should not be empty,description must be a string
+2023-07-14 13:30:51 error: [POST] /products >> StatusCode:: 400, Message:: name must be an email, price must be a number conforming to the specified constraints, files should not be empty,files must be a string, description should not be empty,description must be a string
+2023-07-14 13:30:52 error: [POST] /products >> StatusCode:: 400, Message:: name must be an email, price must be a number conforming to the specified constraints, files should not be empty,files must be a string, description should not be empty,description must be a string
+2023-07-14 13:36:59 error: [POST] /products >> StatusCode:: 400, Message:: name should not be empty,name must be an email, price should not be empty,price must be a number conforming to the specified constraints, files should not be empty,files must be a string, delivryInfo should not be empty,delivryInfo must be a string, description should not be empty,description must be a string
+2023-07-14 13:37:01 error: [POST] /products >> StatusCode:: 400, Message:: name should not be empty,name must be an email, price should not be empty,price must be a number conforming to the specified constraints, files should not be empty,files must be a string, delivryInfo should not be empty,delivryInfo must be a string, description should not be empty,description must be a string
+2023-07-14 13:37:05 error: [POST] /products >> StatusCode:: 400, Message:: name must be an email, price must be a number conforming to the specified constraints, files should not be empty,files must be a string, description should not be empty,description must be a string
+2023-07-14 13:37:22 error: [POST] /products >> StatusCode:: 400, Message:: name must be an email, price must be a number conforming to the specified constraints, files should not be empty,files must be a string
+2023-07-14 13:39:25 error: [POST] /products >> StatusCode:: 400, Message:: price must be a number conforming to the specified constraints, files should not be empty,files must be a number string
+2023-07-14 13:39:48 error: [POST] /products >> StatusCode:: 400, Message:: price must be a number conforming to the specified constraints
+2023-07-14 13:46:56 error: [POST] /category >> StatusCode:: 500, Message:: document must have an _id before saving
+2023-07-14 13:50:05 error: [GET] /category/64b10c0622f744b25377dce3 >> StatusCode:: 409, Message:: Category doesn't exist
+2023-07-14 14:03:09 error: [POST] /products >> StatusCode:: 409, Message:: This name sss already exists
+2023-07-14 14:04:03 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:05:05 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:08 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:09 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:10 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:12 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:14 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:14 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:15 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:13:04 error: [GET] /products >> StatusCode:: 500, Message:: Cannot populate path `category1` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-14 14:14:27 error: [POST] /products >> StatusCode:: 500, Message:: Product validation failed: category: Path `category` is required.
+2023-07-14 14:14:53 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:15:12 error: uncaughtException: read ECONNRESET
+Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-07-14 14:18:29 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:20:15 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:29:35 error: [POST] /products >> StatusCode:: 400, Message:: description should not be empty,description must be a string
+2023-07-14 14:29:46 error: [POST] /products >> StatusCode:: 409, Message:: This name asasas already exists
+2023-07-14 14:29:58 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:29:59 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:00 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:01 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:01 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:02 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:02 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:04 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:04 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:06 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 15:28:37 error: [POST] /products >> StatusCode:: 500, Message:: D:\practice\Food-delivery-app\project\src\controllers/images//images/Screenshot2023-07-01213032.png: unable to open for write
+windows error: The system cannot find the file specified.
+2023-07-14 15:30:10 error: [POST] /products >> StatusCode:: 500, Message:: D:\practice\Food-delivery-app\project\src\controllers../upload/images/Screenshot2023-07-01213032.png: unable to open for write
+windows error: The system cannot find the file specified.
+2023-07-14 15:30:15 error: [POST] /products >> StatusCode:: 500, Message:: D:\practice\Food-delivery-app\project\src\controllers../upload/images/Screenshot2023-07-01213032.png: unable to open for write
+windows error: The system cannot find the file specified.
+2023-07-14 15:33:37 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsd already exists
+2023-07-14 15:35:48 error: [POST] /products >> StatusCode:: 500, Message:: Unexpected field
+2023-07-14 15:39:17 error: [PUT] /products/64b1250b9f93c5ed2e45f27d >> StatusCode:: 400, Message:: name should not be empty,name must be a string, price should not be empty,price must be a number string, delivryInfo should not be empty,delivryInfo must be a string, description should not be empty,description must be a string
+2023-07-14 15:55:21 error: [POST] /admin >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number string
+2023-07-14 15:56:55 error: [POST] /admin >> StatusCode:: 400, Message:: emial should not be empty,emial must be an email
+2023-07-14 15:57:22 error: [POST] /admin >> StatusCode:: 400, Message:: emial should not be empty,emial must be an email
+2023-07-14 15:57:23 error: [POST] /admin >> StatusCode:: 400, Message:: emial should not be empty,emial must be an email
+2023-07-14 15:58:35 error: [PUT] /admin/64b12a30df1e88de05104af3 >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-14 15:58:48 error: [DELETE] /admin/64b12a30df1e88de05104af3 >> StatusCode:: 409, Message:: Admin doesn't exist
+2023-07-14 16:19:22 error: [POST] /admin >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'email')
+2023-07-14 16:19:57 error: [POST] /admin >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'email')
+2023-07-14 16:20:46 error: [POST] /admin >> StatusCode:: 409, Message:: This email zaassasre@gmail.com already exists
+2023-07-14 16:21:09 error: [POST] /admin >> StatusCode:: 409, Message:: This email zaassasre@gmail.com already exists
+2023-07-14 16:21:34 error: [POST] /admin >> StatusCode:: 409, Message:: This email zaassasre@gmail.com already exists
+2023-07-14 16:22:01 error: [POST] /admin >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'email')
+2023-07-14 16:22:08 error: [POST] /admin >> StatusCode:: 409, Message:: This email zaassasre@gmail.com already exists
+2023-07-14 16:35:48 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsds already exists
+2023-07-14 16:35:49 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsds already exists
+2023-07-14 16:36:14 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsds already exists
+2023-07-14 16:36:19 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsds already exists
+2023-07-14 16:36:22 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsds already exists
+2023-07-14 16:36:24 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsds already exists
+2023-07-14 16:36:40 error: [DELETE] /products/64b1163e32a6be1c1dbdbcb1 >> StatusCode:: 409, Message:: Product doesn't exist
+2023-07-14 16:43:45 error: [POST] /products >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 17:12:30 error: [POST] /admin >> StatusCode:: 409, Message:: This email zaassasrsqe@gmail.com already exists
+2023-07-14 17:13:19 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:14:18 error: [POST] /products >> StatusCode:: 500, Message:: secret or public key must be provided
+2023-07-14 17:16:12 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:13 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:13 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:15 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:16 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:16 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:37 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:38 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:17:20 error: [POST] /admin >> StatusCode:: 409, Message:: This email Zarnigor@gmail.com already exists
+2023-07-14 17:17:20 error: [POST] /admin >> StatusCode:: 409, Message:: This email Zarnigor@gmail.com already exists
+2023-07-14 17:18:14 error: [POST] /products >> StatusCode:: 400, Message:: name should not be empty,name must be a string, price should not be empty,price must be a number string, delivryInfo should not be empty,delivryInfo must be a string, description should not be empty,description must be a string
+2023-07-14 17:18:45 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsdsjkljdsds already exists
+2023-07-14 17:18:54 error: [POST] /products >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 17:19:32 error: [DELETE] /products/64b1163e32a6be1c1dbdbcb1 >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 17:19:34 error: [DELETE] /products/64b1163e32a6be1c1dbdbcb1 >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 20:46:02 error: [POST] /favorite >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 20:46:53 error: [POST] /favorite >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 20:47:15 error: [POST] /favorite >> StatusCode:: 400, Message:: name should not be empty,name must be a string
+2023-07-14 20:52:50 error: [POST] /favorite >> StatusCode:: 400, Message:: name should not be empty,name must be a string
+2023-07-14 20:52:52 error: [POST] /favorite >> StatusCode:: 400, Message:: name should not be empty,name must be a string
+2023-07-14 20:54:06 error: [POST] /favorite >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string
+2023-07-14 20:54:50 error: [GET] /favorite >> StatusCode:: 500, Message:: Cannot populate path `peoductID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-14 20:55:03 error: [GET] /favorite >> StatusCode:: 500, Message:: Cannot populate path `peoductID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-14 20:55:35 error: [GET] /favorite >> StatusCode:: 500, Message:: Cannot populate path `peoductID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-14 20:55:38 error: [GET] /favorite >> StatusCode:: 500, Message:: Cannot populate path `peoductID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-14 20:56:49 error: [GET] /favorite >> StatusCode:: 500, Message:: Cannot populate path `peoductID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-14 23:56:42 error: [POST] /products >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 23:57:22 error: [POST] /products >> StatusCode:: 400, Message:: files should not be empty,files must be a string, favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:58:30 error: [POST] /products >> StatusCode:: 400, Message:: files should not be empty,files must be a string, favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:58:39 error: [POST] /products >> StatusCode:: 400, Message:: files should not be empty,files must be a string, favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:58:40 error: [POST] /products >> StatusCode:: 400, Message:: files should not be empty,files must be a string, favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:59:03 error: [POST] /products >> StatusCode:: 400, Message:: files should not be empty,files must be an array, favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:59:28 error: [POST] /products >> StatusCode:: 400, Message:: files should not be empty, favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:59:45 error: [POST] /products >> StatusCode:: 400, Message:: favorite should not be empty,favorite must be a number conforming to the specified constraints

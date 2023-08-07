@@ -1,0 +1,352 @@
+2023-07-15 00:00:18 error: [POST] /products >> StatusCode:: 400, Message:: favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-15 00:00:30 error: [POST] /products >> StatusCode:: 400, Message:: favorite must be a number conforming to the specified constraints
+2023-07-15 00:00:40 error: [POST] /products >> StatusCode:: 409, Message:: This name 12121212 already exists
+2023-07-15 00:01:00 error: uncaughtException: connect ETIMEDOUT 217.69.139.160:465
+Error: connect ETIMEDOUT 217.69.139.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:03:12 error: uncaughtException: connect ETIMEDOUT 94.100.180.160:465
+Error: connect ETIMEDOUT 94.100.180.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:04:00 error: [POST] /products >> StatusCode:: 409, Message:: This name 1313131 already exists
+2023-07-15 00:04:20 error: uncaughtException: connect ETIMEDOUT 94.100.180.160:465
+Error: connect ETIMEDOUT 94.100.180.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:05:07 error: [POST] /products >> StatusCode:: 400, Message:: favorite must be a number conforming to the specified constraints
+2023-07-15 00:05:21 error: [POST] /products >> StatusCode:: 400, Message:: favorite must be a number conforming to the specified constraints
+2023-07-15 00:05:26 error: uncaughtException: connect ETIMEDOUT 94.100.180.160:465
+Error: connect ETIMEDOUT 94.100.180.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:05:38 error: [POST] /products >> StatusCode:: 409, Message:: This name 1313131q already exists
+2023-07-15 00:05:57 error: uncaughtException: connect ETIMEDOUT 217.69.139.160:465
+Error: connect ETIMEDOUT 217.69.139.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:06:46 error: uncaughtException: connect ETIMEDOUT 94.100.180.160:465
+Error: connect ETIMEDOUT 94.100.180.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:07:53 error: uncaughtException: connect ETIMEDOUT 217.69.139.160:465
+Error: connect ETIMEDOUT 217.69.139.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:08:17 error: [POST] /products >> StatusCode:: 409, Message:: This name 1312121212 already exists
+2023-07-15 00:08:36 error: uncaughtException: connect ETIMEDOUT 94.100.180.160:465
+Error: connect ETIMEDOUT 94.100.180.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:09:48 error: uncaughtException: connect ETIMEDOUT 94.100.180.160:465
+Error: connect ETIMEDOUT 94.100.180.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:10:24 error: uncaughtException: connect ETIMEDOUT 94.100.180.160:465
+Error: connect ETIMEDOUT 94.100.180.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:11:03 error: uncaughtException: connect ETIMEDOUT 217.69.139.160:465
+Error: connect ETIMEDOUT 217.69.139.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:11:35 error: uncaughtException: connect ETIMEDOUT 217.69.139.160:465
+Error: connect ETIMEDOUT 217.69.139.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:12:13 error: uncaughtException: connect ETIMEDOUT 217.69.139.160:465
+Error: connect ETIMEDOUT 217.69.139.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:13:25 error: uncaughtException: connect ETIMEDOUT 94.100.180.160:465
+Error: connect ETIMEDOUT 94.100.180.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:13:45 error: [POST] /favorite >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'favorites')
+2023-07-15 00:13:50 error: [POST] /favorite >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'favorites')
+2023-07-15 00:14:01 error: uncaughtException: connect ETIMEDOUT 217.69.139.160:465
+Error: connect ETIMEDOUT 217.69.139.160:465
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1300:16)
+2023-07-15 00:15:44 error: [POST] /favorite >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'favorites')
+2023-07-15 00:16:02 error: [POST] /favorite >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'favorites')
+2023-07-15 00:16:32 error: [POST] /favorite >> StatusCode:: 409, Message:: This email 64b0f8959543bd3f876eb8b4 already exists
+2023-07-15 00:17:55 error: [POST] /favorite >> StatusCode:: 409, Message:: This email 64b0f8959543bd3f876eb8b4 already exists
+2023-07-15 00:22:45 error: [DELETE] /favorite/64b19fe28fc7d679f11972ae >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'favorites')
+2023-07-15 00:22:49 error: [DELETE] /favorite/64b19fe28fc7d679f11972ae >> StatusCode:: 409, Message:: Favorite doesn't exist
+2023-07-15 00:23:52 error: [DELETE] /favorite/64b19fe28fc7d679f11972ae >> StatusCode:: 409, Message:: Favorite doesn't exist
+2023-07-15 00:24:08 error: [DELETE] /favorite/64b19fe28fc7d679f11972ae >> StatusCode:: 409, Message:: Favorite doesn't exist
+2023-07-15 00:35:20 error: [POST] /orders >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number string, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-15 00:41:35 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count must be a number string, totalSum should not be empty,totalSum must be a number string
+2023-07-15 00:41:50 error: [POST] /orders >> StatusCode:: 400, Message:: count must be a number string, totalSum should not be empty,totalSum must be a number string
+2023-07-15 00:42:01 error: [POST] /orders >> StatusCode:: 400, Message:: totalSum should not be empty,totalSum must be a number string
+2023-07-15 00:42:29 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: totalSum: Path `totalSum` is required.
+2023-07-15 01:02:59 error: [POST] /signup >> StatusCode:: 400, Message:: phone must be a number string
+2023-07-15 01:04:49 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-15 01:04:53 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-15 01:04:58 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-15 01:04:59 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-15 01:05:53 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-15 01:06:19 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-15 01:11:36 error: [GET] /images/images.png >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'D:\practice\Food-delivery-app\project\src\upload\images\images.png'
+2023-07-15 01:13:36 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:20:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:14:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:15:3)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-15 01:14:50 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:20:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:14:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:15:3)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-15 01:18:20 error: [POST] /generatePassRecovery >> StatusCode:: 400, Message:: Unexpected token } in JSON at position 53
+2023-07-15 01:18:25 error: [POST] /generatePassRecovery >> StatusCode:: 400, Message:: email should not be empty,email must be an email
+2023-07-15 01:18:38 error: [POST] /generatePassRecovery >> StatusCode:: 400, Message:: email should not be empty,email must be an email
+2023-07-15 01:19:40 error: [POST] /passRecovery >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2023-07-15 01:20:02 error: [POST] /passRecovery >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2023-07-15 01:20:04 error: [POST] /passRecovery >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2023-07-15 01:21:12 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-15 01:21:33 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-15 01:21:46 error: [POST] /generatePassRecovery >> StatusCode:: 400, Message:: Unexpected token } in JSON at position 52
+2023-07-15 01:21:54 error: [POST] /generatePassRecovery >> StatusCode:: 400, Message:: Unexpected token } in JSON at position 52
+2023-07-15 01:22:18 error: [POST] /passRecovery >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2023-07-15 01:22:29 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-15 01:23:57 error: [POST] /generatePassRecovery >> StatusCode:: 400, Message:: Unexpected token } in JSON at position 51
+2023-07-15 01:24:39 error: [POST] /passRecovery >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2023-07-15 01:24:58 error: [POST] /logout >> StatusCode:: 401, Message:: Wrong authentication token
+2023-07-15 12:36:57 error: [POST] /login >> StatusCode:: 400, Message:: password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-15 12:37:03 error: [POST] /login >> StatusCode:: 400, Message:: password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-15 12:37:04 error: [POST] /login >> StatusCode:: 400, Message:: password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-15 12:40:39 error: [POST] /login >> StatusCode:: 400, Message:: password should not be empty,password must be a string
+2023-07-15 12:41:08 error: [POST] /login >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com was not found
+2023-07-15 12:41:10 error: [POST] /login >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com was not found
+2023-07-15 12:42:24 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-15 12:42:57 error: [POST] /confirmOtp >> StatusCode:: 409, Message:: This code 4834 incorrect
+2023-07-15 12:43:00 error: [POST] /confirmOtp >> StatusCode:: 409, Message:: This code 4834 incorrect
+2023-07-15 12:43:01 error: [POST] /confirmOtp >> StatusCode:: 409, Message:: This code 4834 incorrect
+2023-07-15 12:43:33 error: [POST] /login >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com was not found
+2023-07-15 12:43:37 error: [POST] /login >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com was not found
+2023-07-15 12:47:26 error: [POST] /passRecovery >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2023-07-15 14:51:22 error: [POST] /category >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-15 14:51:28 error: [POST] /category >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-15 14:56:19 error: [POST] /favorite >> StatusCode:: 409, Message:: This email 64b24ea4d2e2a2143e80a4d9 already exists
+2023-07-15 14:56:24 error: [POST] /favorite >> StatusCode:: 409, Message:: This email 64b24ea4d2e2a2143e80a4d9 already exists
+2023-07-15 14:58:22 error: [POST] /favorite >> StatusCode:: 500, Message:: products_model_1.ProductModel.save is not a function
+2023-07-15 14:58:30 error: [POST] /favorite >> StatusCode:: 500, Message:: products_model_1.ProductModel.save is not a function
+2023-07-15 15:19:48 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 15:23:16 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:26:30 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:27:35 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:27:50 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:27:54 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:28:02 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:28:12 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:29:00 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:32:26 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:32:54 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:36:06 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:37:02 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:40:53 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:43:04 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:46:22 error: uncaughtException: p.split is not a function
+TypeError: p.split is not a function
+    at D:\practice\Food-delivery-app\project\src\services\orders.service.ts:25:21
+    at Array.map (<anonymous>)
+    at OrdersService.createOrders (D:\practice\Food-delivery-app\project\src\services\orders.service.ts:23:25)
+    at OrdersController.createOrders (D:\practice\Food-delivery-app\project\src\controllers\orders.controller.ts:34:57)
+    at Layer.handle [as handle_request] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:144:13)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:20:9
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-15 15:46:22 error: uncaughtException: p.split is not a function
+TypeError: p.split is not a function
+    at D:\practice\Food-delivery-app\project\src\services\orders.service.ts:25:21
+    at Array.map (<anonymous>)
+    at OrdersService.createOrders (D:\practice\Food-delivery-app\project\src\services\orders.service.ts:23:25)
+    at OrdersController.createOrders (D:\practice\Food-delivery-app\project\src\controllers\orders.controller.ts:34:57)
+    at Layer.handle [as handle_request] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:144:13)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:20:9
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-15 15:46:22 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:46:33 error: uncaughtException: p.split is not a function
+TypeError: p.split is not a function
+    at D:\practice\Food-delivery-app\project\src\services\orders.service.ts:25:21
+    at Array.map (<anonymous>)
+    at OrdersService.createOrders (D:\practice\Food-delivery-app\project\src\services\orders.service.ts:23:25)
+    at OrdersController.createOrders (D:\practice\Food-delivery-app\project\src\controllers\orders.controller.ts:34:57)
+    at Layer.handle [as handle_request] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:144:13)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:20:9
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-15 15:46:33 error: uncaughtException: p.split is not a function
+TypeError: p.split is not a function
+    at D:\practice\Food-delivery-app\project\src\services\orders.service.ts:25:21
+    at Array.map (<anonymous>)
+    at OrdersService.createOrders (D:\practice\Food-delivery-app\project\src\services\orders.service.ts:23:25)
+    at OrdersController.createOrders (D:\practice\Food-delivery-app\project\src\controllers\orders.controller.ts:34:57)
+    at Layer.handle [as handle_request] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:144:13)
+    at D:\practice\Food-delivery-app\project\src\middlewares\validation.middleware.ts:20:9
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-15 15:46:33 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:47:28 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:47:50 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:51:03 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:51:58 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:54:58 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:55:11 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:55:37 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:58:14 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 15:59:38 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 16:13:13 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:41:42 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:42:29 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:42:58 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:42:59 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:43:13 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:43:59 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:44:41 error: [POST] /orders >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Product"
+2023-07-15 19:45:33 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:45:55 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:46:15 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:46:29 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:46:42 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:47:42 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:48:16 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 19:49:00 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-15 19:49:49 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-15 19:50:04 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-15 19:50:13 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-15 19:50:48 error: [POST] /orders >> StatusCode:: 500, Message:: Order validation failed: userID: Path `userID` is required.
+2023-07-15 19:55:53 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 19:56:06 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 19:57:00 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 19:57:01 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 19:59:11 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 19:59:45 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 19:59:46 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 19:59:47 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 19:59:48 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 20:01:09 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 20:01:27 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 20:01:42 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string, count should not be empty,count must be a number string
+2023-07-15 20:02:06 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a number string, count should not be empty,count must be a number string
+2023-07-15 20:02:07 error: [POST] /orders >> StatusCode:: 400, Message:: productID should not be empty,productID must be a number string, count should not be empty,count must be a number string
+2023-07-15 20:02:35 error: [POST] /orders >> StatusCode:: 400, Message:: count should not be empty,count must be a number string
+2023-07-15 20:03:21 error: [POST] /orders >> StatusCode:: 400, Message:: count should not be empty,count must be a number string
+2023-07-15 20:03:22 error: [POST] /orders >> StatusCode:: 400, Message:: count should not be empty,count must be a number string
+2023-07-15 20:03:23 error: [POST] /orders >> StatusCode:: 400, Message:: count should not be empty,count must be a number string
+2023-07-15 20:03:23 error: [POST] /orders >> StatusCode:: 400, Message:: count should not be empty,count must be a number string
+2023-07-15 20:03:43 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 20:04:12 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 20:04:35 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 20:04:40 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 20:04:57 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 20:05:28 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 20:06:33 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 20:06:58 error: [POST] /orders >> StatusCode:: 409, Message:: There are no product with undefined such
+2023-07-15 20:12:07 error: [GET] /orders >> StatusCode:: 500, Message:: Cannot populate path `productID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-15 20:12:13 error: [GET] /orders >> StatusCode:: 500, Message:: Cannot populate path `productID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-15 20:12:41 error: [GET] /orders >> StatusCode:: 500, Message:: Cannot populate path `productID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-15 20:12:42 error: [GET] /orders >> StatusCode:: 500, Message:: Cannot populate path `productID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-15 20:30:27 error: [POST] /products >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-15 20:30:32 error: [POST] /products >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-15 20:30:47 error: [POST] /products >> StatusCode:: 400, Message:: name should not be empty,name must be a string, price should not be empty,price must be a number string, delivryInfo should not be empty,delivryInfo must be a string, description should not be empty,description must be a string, category should not be empty,category must be a string
+2023-07-15 20:38:51 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number string, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-15 20:46:18 error: [POST] /products >> StatusCode:: 400, Message:: name should not be empty,name must be a string
+2023-07-15 20:46:29 error: [POST] /products >> StatusCode:: 400, Message:: name should not be empty,name must be a string
+2023-07-15 20:49:11 error: [POST] /products >> StatusCode:: 500, Message:: Unexpected field
+2023-07-15 20:51:13 error: [POST] /products >> StatusCode:: 500, Message:: Unexpected field
+2023-07-15 20:51:14 error: [POST] /products >> StatusCode:: 500, Message:: Unexpected field
+2023-07-15 20:51:14 error: [POST] /products >> StatusCode:: 500, Message:: Unexpected field
+2023-07-15 21:01:22 error: [POST] /products >> StatusCode:: 409, Message:: This name qwqwqw already exists
+2023-07-15 21:29:55 error: [POST] /generateOtpByEmail >> StatusCode:: 400, Message:: email should not be empty,email must be an email
+2023-07-15 21:31:39 error: [POST] /signup >> StatusCode:: 400, Message:: phone should not be empty,phone must be a number string
+2023-07-15 21:31:57 error: [POST] /signup >> StatusCode:: 400, Message:: phone must be a number string
+2023-07-15 21:32:28 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:33:27 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:33:29 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:34:25 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:34:26 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:35:53 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:35:54 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:35:56 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:37:43 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:38:06 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:38:07 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:38:07 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:39:02 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:39:02 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:39:31 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:39:32 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:39:49 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:39:50 error: [PUT] /users/64b24ea4d2e2a2143e80a4d9 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:40:46 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:40:47 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:40:48 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:40:49 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:40:51 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:40:51 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:41:47 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:41:48 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:41:48 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:42:26 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:42:27 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:42:27 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:43:24 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:43:25 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:43:26 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:43:51 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 400, Message:: phone should not be empty,phone must be a number string, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-15 21:45:38 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:45:42 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:46:16 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:46:19 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:46:48 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:47:03 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'originalname')
+2023-07-15 21:47:32 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'buffer')
+2023-07-15 21:47:51 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Invalid input
+2023-07-15 21:47:54 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Invalid input
+2023-07-15 21:49:39 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Invalid input
+2023-07-15 21:49:40 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 500, Message:: Invalid input
+2023-07-15 21:52:49 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 400, Message:: password must be a string, newPassword must be a string
+2023-07-15 21:52:50 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 400, Message:: password must be a string, newPassword must be a string
+2023-07-15 21:52:51 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 400, Message:: password must be a string, newPassword must be a string
+2023-07-15 21:52:53 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 400, Message:: password must be a string, newPassword must be a string
+2023-07-15 21:56:16 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 400, Message:: file should not be empty,file must be a string
+2023-07-15 21:56:17 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 400, Message:: file should not be empty,file must be a string
+2023-07-15 21:56:22 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 400, Message:: file should not be empty,file must be a string
+2023-07-15 22:04:52 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:05:00 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:05:01 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:05:01 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:05:03 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:07:54 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:08:28 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:08:29 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:08:31 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:08:31 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:08:32 error: [PUT] /users/64b2ca012202f5e086c15010 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:14:30 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-15 22:14:34 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: newPassword: Path `newPassword` is required.
+2023-07-15 22:15:16 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:15:39 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:16:23 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:16:51 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:16:52 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:27:31 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:27:33 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:27:34 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:29:32 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-15 22:29:33 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-15 22:30:08 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'password')
+2023-07-15 22:30:14 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'password')
+2023-07-15 22:34:20 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 400, Message:: newPassword must be shorter than or equal to 32 characters,newPassword must be longer than or equal to 9 characters,newPassword should not be empty,newPassword must be a string
+2023-07-15 22:34:45 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'password')
+2023-07-15 22:34:48 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'password')
+2023-07-15 22:35:28 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'password')
+2023-07-15 22:35:29 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'password')
+2023-07-15 22:36:12 error: [PUT] /users/64b2d40ec7964695f8843b07 >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'password')
+2023-07-15 22:38:31 error: [PUT] /users/64b2d7866b23ef636d8b4973 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:38:32 error: [PUT] /users/64b2d7866b23ef636d8b4973 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:38:33 error: [PUT] /users/64b2d7866b23ef636d8b4973 >> StatusCode:: 409, Message:: Password is not matching
+2023-07-15 22:39:42 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching

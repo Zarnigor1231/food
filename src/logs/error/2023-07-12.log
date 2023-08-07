@@ -1,0 +1,160 @@
+2023-07-12 11:25:56 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1485:16)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (D:\practice\Food-delivery-app\project\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\practice\Food-delivery-app\project\src\app.ts:36:14)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+2023-07-12 11:27:25 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1485:16)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (D:\practice\Food-delivery-app\project\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\practice\Food-delivery-app\project\src\app.ts:36:14)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+2023-07-12 11:27:34 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1485:16)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (D:\practice\Food-delivery-app\project\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\practice\Food-delivery-app\project\src\app.ts:36:14)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+2023-07-12 11:27:39 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1485:16)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (D:\practice\Food-delivery-app\project\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\practice\Food-delivery-app\project\src\app.ts:36:14)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+2023-07-12 12:22:12 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1485:16)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (D:\practice\Food-delivery-app\project\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\practice\Food-delivery-app\project\src\app.ts:36:14)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+2023-07-12 12:26:32 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1485:16)
+    at listenInCluster (node:net:1533:12)
+    at Server.listen (node:net:1621:7)
+    at Function.listen (D:\practice\Food-delivery-app\project\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\practice\Food-delivery-app\project\src\app.ts:36:14)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:11:5)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+2023-07-12 12:34:40 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 12:35:36 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 14:32:22 error: [POST] /signup >> StatusCode:: 409, Message:: invalit token
+2023-07-12 14:34:10 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 14:34:56 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 14:35:35 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 14:39:58 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 14:40:19 error: [POST] /confirmOtp >> StatusCode:: 409, Message:: This code 5547 incorrect
+2023-07-12 14:41:06 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-12 14:49:22 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 15:01:31 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 15:01:32 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 15:01:33 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 15:01:34 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 15:02:06 error: [POST] /confirmOtp >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-12 15:02:19 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 15:05:41 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: email: Path `email` is required.
+2023-07-12 15:07:18 error: [POST] /confirmOtp >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-12 15:09:59 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-12 17:39:18 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-12 17:39:33 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-12 17:41:10 error: [POST] /signup >> StatusCode:: 400, Message:: phone must be shorter than or equal to 32 characters,phone must be longer than or equal to 9 characters
+2023-07-12 17:42:03 error: [POST] /signup >> StatusCode:: 400, Message:: phone must be longer than or equal to 9 characters
+2023-07-12 17:42:09 error: [POST] /signup >> StatusCode:: 400, Message:: phone must be longer than or equal to 9 characters
+2023-07-12 17:43:18 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-12 17:45:08 error: [POST] /signup >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-12 17:51:29 error: [POST] /login >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number conforming to the specified constraints
+2023-07-12 17:55:32 error: uncaughtException: getaddrinfo ENOTFOUND smtp.mail.ru
+Error: getaddrinfo ENOTFOUND smtp.mail.ru
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+2023-07-12 18:09:34 error: [PUT] /users/64aea05bf6ed896158e13e2c >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number conforming to the specified constraints, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-12 18:09:48 error: [PUT] /users/64aea05bf6ed896158e13e2c >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number conforming to the specified constraints, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-12 18:10:44 error: [PUT] /users/64aea05bf6ed896158e13e2c >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number conforming to the specified constraints, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-12 18:11:47 error: [PUT] /users/64aea05bf6ed896158e13e2c >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number conforming to the specified constraints, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-12 18:12:50 error: [PUT] /users/64aea05bf6ed896158e13e2c >> StatusCode:: 500, Message:: file is empty
+2023-07-12 18:15:21 error: [PUT] /users/64aea05bf6ed896158e13e2c >> StatusCode:: 409, Message:: User doesn't exist
+2023-07-12 18:15:46 error: [PUT] /users/64aea05bf6ed896158e13e2c >> StatusCode:: 409, Message:: User doesn't exist
+2023-07-12 20:09:17 error: uncaughtException: app.use is not a function
+TypeError: app.use is not a function
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:15:5)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\bin.ts:95:10)
+2023-07-12 20:10:01 error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (D:\practice\Food-delivery-app\project\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+2023-07-12 20:10:14 error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (D:\practice\Food-delivery-app\project\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+2023-07-12 20:10:16 error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (D:\practice\Food-delivery-app\project\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:10:5)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+2023-07-12 20:13:53 error: [PUT] /users/64aea05bf6ed896158e13e2c >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number conforming to the specified constraints, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-12 20:15:11 error: [PUT] /users/64aea05bf6ed896158e13e2c >> StatusCode:: 400, Message:: phone must be a number conforming to the specified constraints
+2023-07-12 20:15:31 error: [PUT] /users/64aea05bf6ed896158e13e2c >> StatusCode:: 400, Message:: phone must be a number conforming to the specified constraints

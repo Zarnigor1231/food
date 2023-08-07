@@ -1,0 +1,60 @@
+2023-07-16 00:41:20 info: =================================
+2023-07-16 00:41:20 info: ======= ENV: development =======
+2023-07-16 00:41:20 info: 🚀 App listening on the port 3000
+2023-07-16 00:41:20 info: =================================
+2023-07-16 00:43:00 info: =================================
+2023-07-16 00:43:00 info: ======= ENV: development =======
+2023-07-16 00:43:00 info: 🚀 App listening on the port 3000
+2023-07-16 00:43:00 info: =================================
+2023-07-16 00:44:37 info: =================================
+2023-07-16 00:44:37 info: ======= ENV: development =======
+2023-07-16 00:44:37 info: 🚀 App listening on the port 3000
+2023-07-16 00:44:37 info: =================================
+2023-07-16 00:44:43 info: =================================
+2023-07-16 00:44:43 info: ======= ENV: development =======
+2023-07-16 00:44:43 info: 🚀 App listening on the port 3000
+2023-07-16 00:44:43 info: =================================
+2023-07-16 00:44:53 info: =================================
+2023-07-16 00:44:53 info: ======= ENV: development =======
+2023-07-16 00:44:53 info: 🚀 App listening on the port 3000
+2023-07-16 00:44:53 info: =================================
+2023-07-16 00:45:27 error: [POST] /admin >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-16 00:45:27 info: [0mPOST /admin [33m409[0m 107.540 ms - 70[0m
+2023-07-16 00:45:34 info: [0mPOST /admin [32m201[0m 221.026 ms - 186[0m
+2023-07-16 00:46:03 info: =================================
+2023-07-16 00:46:03 info: ======= ENV: development =======
+2023-07-16 00:46:03 info: 🚀 App listening on the port 3000
+2023-07-16 00:46:03 info: =================================
+2023-07-16 00:46:37 error: [PUT] /admin/64b2f75eb6c1f1cfb7eaa96d >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-16 00:46:37 info: [0mPUT /admin/64b2f75eb6c1f1cfb7eaa96d [33m409[0m 65.413 ms - 70[0m
+2023-07-16 00:46:39 error: [PUT] /admin/64b2f75eb6c1f1cfb7eaa96d >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-16 00:46:39 info: [0mPUT /admin/64b2f75eb6c1f1cfb7eaa96d [33m409[0m 11.128 ms - 70[0m
+2023-07-16 00:46:44 info: [0mPUT /admin/64b2f75eb6c1f1cfb7eaa96d [32m200[0m 171.898 ms - 186[0m
+2023-07-16 00:47:46 info: =================================
+2023-07-16 00:47:46 info: ======= ENV: development =======
+2023-07-16 00:47:46 info: 🚀 App listening on the port 3000
+2023-07-16 00:47:46 info: =================================
+2023-07-16 00:47:54 error: [PUT] /admin/64b2f75eb6c1f1cfb7eaa96d >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-16 00:47:54 info: [0mPUT /admin/64b2f75eb6c1f1cfb7eaa96d [31m500[0m 34.230 ms - 34[0m
+2023-07-16 00:48:06 info: [0mPOST /login [32m200[0m 225.246 ms - 340[0m
+2023-07-16 00:48:29 info: [0mPUT /admin/64b2f75eb6c1f1cfb7eaa96d [32m200[0m 227.072 ms - 186[0m
+2023-07-16 00:53:31 info: =================================
+2023-07-16 00:53:31 info: ======= ENV: development =======
+2023-07-16 00:53:31 info: 🚀 App listening on the port 3000
+2023-07-16 00:53:31 info: =================================
+2023-07-16 00:54:03 info: =================================
+2023-07-16 00:54:03 info: ======= ENV: development =======
+2023-07-16 00:54:03 info: 🚀 App listening on the port 3000
+2023-07-16 00:54:03 info: =================================
+2023-07-16 00:54:35 info: =================================
+2023-07-16 00:54:35 info: ======= ENV: development =======
+2023-07-16 00:54:35 info: 🚀 App listening on the port 3000
+2023-07-16 00:54:35 info: =================================
+2023-07-16 00:54:56 error: [PUT] /admin/64b2f75eb6c1f1cfb7eaa96d >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-16 00:54:56 info: [0mPUT /admin/64b2f75eb6c1f1cfb7eaa96d [31m500[0m 47.337 ms - 34[0m
+2023-07-16 00:55:04 error: [PUT] /admin/64b2f75eb6c1f1cfb7eaa96d >> StatusCode:: 500, Message:: invalid token
+2023-07-16 00:55:04 info: [0mPUT /admin/64b2f75eb6c1f1cfb7eaa96d [31m500[0m 8.473 ms - 27[0m
+2023-07-16 00:55:35 info: =================================
+2023-07-16 00:55:35 info: ======= ENV: development =======
+2023-07-16 00:55:35 info: 🚀 App listening on the port 3000
+2023-07-16 00:55:35 info: =================================

@@ -1,0 +1,341 @@
+2023-07-13 12:11:35 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 400, Message:: phone must be a number conforming to the specified constraints
+2023-07-13 12:12:04 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 400, Message:: phone must be a number conforming to the specified constraints
+2023-07-13 12:12:12 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 400, Message:: phone must be a number conforming to the specified constraints
+2023-07-13 12:12:15 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 400, Message:: phone must be a number conforming to the specified constraints
+2023-07-13 12:12:16 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 400, Message:: phone must be a number conforming to the specified constraints
+2023-07-13 12:13:36 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 400, Message:: phone must be a number conforming to the specified constraints
+2023-07-13 12:13:38 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 400, Message:: phone must be a number conforming to the specified constraints
+2023-07-13 12:14:16 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 400, Message:: phone should not be empty,phone must be a number conforming to the specified constraints
+2023-07-13 12:19:34 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 400, Message:: phone must be a number conforming to the specified constraints
+2023-07-13 12:21:09 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 500, Message:: ENOENT: no such file or directory, open 'D:\practice\Food-delivery-app\project\src\controllers\images\images\Screenshot 2023-07-01 212926.png'
+2023-07-13 12:22:31 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 500, Message:: ENOENT: no such file or directory, open 'D:\practice\Food-delivery-app\project\src\upload\images\Screenshot 2023-07-01 212926.png'
+2023-07-13 12:24:27 error: [GET] /images/my_photo >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'D:\practice\Food-delivery-app\project\src\images\my_photo'
+2023-07-13 12:26:30 error: [GET] /images/my_photo >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'D:\practice\Food-delivery-app\project\src\images\my_photo'
+2023-07-13 12:27:08 error: [GET] /images/my_photo >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'D:\practice\Food-delivery-app\project\src\images\my_photo'
+2023-07-13 12:28:35 error: [GET] /images/my_photo >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'D:\practice\Food-delivery-app\project\src\upload\images\my_photo'
+2023-07-13 12:29:46 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 500, Message:: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+2023-07-13 12:33:46 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 500, Message:: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+2023-07-13 14:04:11 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters,password should not be empty
+2023-07-13 14:04:39 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters,password should not be empty
+2023-07-13 14:17:46 error: [POST] /login >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number string
+2023-07-13 14:20:07 error: [POST] /login >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number string
+2023-07-13 14:20:28 error: [POST] /login >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number string
+2023-07-13 14:21:50 error: [POST] /login >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number string
+2023-07-13 14:24:27 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 14:24:52 error: [POST] /signup >> StatusCode:: 400, Message:: phone must be a number string
+2023-07-13 14:27:34 error: [POST] /signup >> StatusCode:: 400, Message:: phone must be a number string
+2023-07-13 14:27:44 error: [POST] /signup >> StatusCode:: 400, Message:: phone must be a number string
+2023-07-13 14:28:15 error: [POST] /login >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-13 14:29:30 error: [POST] /login >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-13 14:30:14 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 14:30:28 error: [POST] /login >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-13 14:35:50 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters,password should not be empty
+2023-07-13 14:36:46 error: [PUT] /users/64afa39348d9a71fd12d594f >> StatusCode:: 409, Message:: User doesn't exist
+2023-07-13 14:38:35 error: [POST] /login >> StatusCode:: 400, Message:: email should not be empty,email must be an email
+2023-07-13 14:38:42 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 14:39:08 error: [POST] /login >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-13 14:47:23 error: [POST] /login >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-13 14:47:44 error: [POST] /login >> StatusCode:: 500, Message:: Expected "payload" to be a plain object.
+2023-07-13 15:34:03 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 15:34:35 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 15:37:52 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 15:45:07 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 15:56:06 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova759ssdsd1@gmail.com has not found
+2023-07-13 15:56:17 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova759ssdsd1@gmail.com has not found
+2023-07-13 16:03:02 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-13 16:17:03 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at AuthRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\auth.route.ts:23:17)
+    at new AuthRoute (D:\practice\Food-delivery-app\project\src\routes\auth.route.ts:16:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:39)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:17:56 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at AuthRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\auth.route.ts:23:17)
+    at new AuthRoute (D:\practice\Food-delivery-app\project\src\routes\auth.route.ts:16:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:39)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:20:06 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at AuthRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\auth.route.ts:23:17)
+    at new AuthRoute (D:\practice\Food-delivery-app\project\src\routes\auth.route.ts:16:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:39)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:23:51 error: [POST] /passRecovery >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "{}" (type Object) at path "_id" for model "User"
+2023-07-13 16:24:35 error: [POST] /passRecovery >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "{}" (type Object) at path "_id" for model "User"
+2023-07-13 16:25:14 error: [POST] /passRecovery >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "{}" (type Object) at path "_id" for model "User"
+2023-07-13 16:26:12 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 16:30:20 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at AuthRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\auth.route.ts:23:17)
+    at new AuthRoute (D:\practice\Food-delivery-app\project\src\routes\auth.route.ts:16:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:39)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:32:18 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at AuthRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\auth.route.ts:23:17)
+    at new AuthRoute (D:\practice\Food-delivery-app\project\src\routes\auth.route.ts:16:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:39)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:32:25 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at AuthRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\auth.route.ts:23:17)
+    at new AuthRoute (D:\practice\Food-delivery-app\project\src\routes\auth.route.ts:16:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:39)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:33:36 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:33:48 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:34:25 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:37:14 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:37:21 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:37:29 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:37:45 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:39:52 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:40:12 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:40:34 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:41:12 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:41:18 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:41:36 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\practice\Food-delivery-app\project\node_modules\express\lib\router\index.js:521:19)
+    at UserRoute.initializeRoutes (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:24:17)
+    at new UserRoute (D:\practice\Food-delivery-app\project\src\routes\users.route.ts:15:10)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+2023-07-13 16:47:49 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-13 16:48:01 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 16:48:59 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This code 8054 incorrect
+2023-07-13 16:49:24 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com already exists
+2023-07-13 16:51:48 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 16:55:23 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 16:56:01 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-13 17:02:43 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 17:06:14 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-13 17:07:41 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-13 17:07:50 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 17:08:04 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 17:08:11 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 17:08:12 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 17:08:12 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 17:11:49 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 17:13:41 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 17:14:22 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 17:22:17 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 17:27:35 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 17:28:19 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 17:28:46 error: [PUT] /users/64afed0e66f2c0f48386daa0 >> StatusCode:: 400, Message:: password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-13 17:30:44 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 17:39:04 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2023-07-13 17:55:02 error: uncaughtException: Identifier 'updateUserById' has already been declared
+D:\practice\Food-delivery-app\project\src\controllers\auth.controller.ts:99
+                const updateUserById = await users_model_1.UserModel.findByIdAndUpdate(new Object(userId), userData, { new: true });
+                      ^
+
+SyntaxError: Identifier 'updateUserById' has already been declared
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+2023-07-13 18:07:00 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 18:10:28 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 18:19:24 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 18:19:44 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 18:19:49 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-13 18:19:56 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-13 18:19:57 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-13 18:20:11 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-13 18:20:54 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-13 18:20:56 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-13 18:20:56 error: [POST] /generateOtpByEmail >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-13 18:22:01 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 18:22:02 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 18:29:29 error: [POST] /generatePassRecovery >> StatusCode:: 400, Message:: email should not be empty,email must be an email
+2023-07-13 18:30:07 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 18:30:12 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 18:34:33 error: [POST] /generatePassRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-13 18:34:35 error: [POST] /generatePassRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-13 18:34:50 error: [POST] /generatePassRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has already exist
+2023-07-13 18:36:53 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 18:38:05 error: [POST] /passRecovery >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-13 18:38:08 error: [POST] /generatePassRecovery >> StatusCode:: 500, Message:: PassRecovery validation failed: password: Path `password` is required.
+2023-07-13 18:38:54 error: [POST] /passRecovery >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2023-07-13 18:44:18 error: [POST] /login >> StatusCode:: 500, Message:: No document found for query "{ _id: new ObjectId("64afed0e66f2c0f48386daa0") }" on model "Login"

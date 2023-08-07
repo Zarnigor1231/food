@@ -1,0 +1,71 @@
+2023-07-21 13:44:06 error: [POST] /confirmOtp >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmail.com has not found
+2023-07-21 13:45:30 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-21 13:46:13 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: phone: Validator failed for path `phone` with value `12121212`
+2023-07-21 13:46:44 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: phone: Validator failed for path `phone` with value `908997591`
+2023-07-21 13:46:46 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: phone: Validator failed for path `phone` with value `908997591`
+2023-07-21 13:48:08 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: phone: Validator failed for path `phone` with value `908997591`
+2023-07-21 13:48:09 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: phone: Validator failed for path `phone` with value `908997591`
+2023-07-21 13:49:11 error: [POST] /signup >> StatusCode:: 500, Message:: User validation failed: phone: Validator failed for path `phone` with value `908997591`
+2023-07-21 13:52:56 error: [PUT] /users/64ba46f8f0596501c94bd123 >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-21 13:53:46 error: uncaughtException: Cannot find module '@/utils/favorite.user'
+Require stack:
+- D:\practice\Food-delivery-app\project\src\routes\favorite.router.ts
+- D:\practice\Food-delivery-app\project\src\server.ts
+Error: Cannot find module '@/utils/favorite.user'
+Require stack:
+- D:\practice\Food-delivery-app\project\src\routes\favorite.router.ts
+- D:\practice\Food-delivery-app\project\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\practice\Food-delivery-app\project\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\practice\Food-delivery-app\project\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\routes\favorite.router.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-21 13:54:30 error: uncaughtException: Cannot find module '@/utils/favorite.user'
+Require stack:
+- D:\practice\Food-delivery-app\project\src\routes\favorite.router.ts
+- D:\practice\Food-delivery-app\project\src\server.ts
+Error: Cannot find module '@/utils/favorite.user'
+Require stack:
+- D:\practice\Food-delivery-app\project\src\routes\favorite.router.ts
+- D:\practice\Food-delivery-app\project\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\practice\Food-delivery-app\project\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\practice\Food-delivery-app\project\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\routes\favorite.router.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+2023-07-21 18:26:23 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:26:54 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:26:55 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:26:55 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:27:40 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:27:41 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:27:42 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:27:43 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:27:47 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:27:48 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:28:19 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:28:19 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:29:04 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:29:05 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:29:05 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:29:20 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:29:21 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:30:15 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:31:44 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:31:45 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:31:45 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'startsWith')
+2023-07-21 18:34:24 error: [POST] /login-admin >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-21 18:34:29 error: [POST] /login-admin >> StatusCode:: 409, Message:: Password is not matching
+2023-07-21 18:34:59 error: [POST] /admin >> StatusCode:: 409, Message:: This email zarezare@gmail.com already exists
+2023-07-21 18:40:56 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'push')
+2023-07-21 18:40:57 error: [POST] /products >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'push')

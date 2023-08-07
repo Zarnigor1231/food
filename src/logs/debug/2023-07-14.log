@@ -1,0 +1,938 @@
+2023-07-14 12:24:35 info: =================================
+2023-07-14 12:24:35 info: ======= ENV: development =======
+2023-07-14 12:24:35 info: 🚀 App listening on the port 3000
+2023-07-14 12:24:35 info: =================================
+2023-07-14 12:24:58 info: [0mGET /users [32m200[0m 58.591 ms - 363[0m
+2023-07-14 12:25:42 info: [0mPOST /generateOtpByEmail [32m200[0m 2546.128 ms - 123[0m
+2023-07-14 12:26:07 info: [0mPOST /confirmOtp [32m200[0m 17.234 ms - 24[0m
+2023-07-14 12:26:13 info: [0mPOST /signup [32m201[0m 178.654 ms - 312[0m
+2023-07-14 12:26:29 info: [0mPOST /login [32m200[0m 160.843 ms - 311[0m
+2023-07-14 12:26:39 info: [0mPOST /generatePassRecovery [32m200[0m 1452.689 ms - 123[0m
+2023-07-14 12:26:53 error: [POST] /passRecovery >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2023-07-14 12:26:53 info: [0mPOST /passRecovery [31m500[0m 203.096 ms - 318[0m
+2023-07-14 12:27:03 info: [0mPOST /login [32m200[0m 155.958 ms - 311[0m
+2023-07-14 12:27:37 info: [0mPOST /login [32m200[0m 208.278 ms - 311[0m
+2023-07-14 12:28:07 info: =================================
+2023-07-14 12:28:07 info: ======= ENV: development =======
+2023-07-14 12:28:07 info: 🚀 App listening on the port 3000
+2023-07-14 12:28:07 info: =================================
+2023-07-14 12:31:47 info: =================================
+2023-07-14 12:31:47 info: ======= ENV: development =======
+2023-07-14 12:31:47 info: 🚀 App listening on the port 3000
+2023-07-14 12:31:47 info: =================================
+2023-07-14 12:37:42 info: =================================
+2023-07-14 12:37:42 info: ======= ENV: development =======
+2023-07-14 12:37:42 info: 🚀 App listening on the port 3000
+2023-07-14 12:37:42 info: =================================
+2023-07-14 12:38:10 info: =================================
+2023-07-14 12:38:10 info: ======= ENV: development =======
+2023-07-14 12:38:10 info: 🚀 App listening on the port 3000
+2023-07-14 12:38:10 info: =================================
+2023-07-14 12:38:32 info: =================================
+2023-07-14 12:38:32 info: ======= ENV: development =======
+2023-07-14 12:38:32 info: 🚀 App listening on the port 3000
+2023-07-14 12:38:32 info: =================================
+2023-07-14 12:38:58 info: =================================
+2023-07-14 12:38:58 info: ======= ENV: development =======
+2023-07-14 12:38:58 info: 🚀 App listening on the port 3000
+2023-07-14 12:38:58 info: =================================
+2023-07-14 12:39:33 info: =================================
+2023-07-14 12:39:33 info: ======= ENV: development =======
+2023-07-14 12:39:33 info: 🚀 App listening on the port 3000
+2023-07-14 12:39:33 info: =================================
+2023-07-14 12:45:57 info: =================================
+2023-07-14 12:45:57 info: ======= ENV: development =======
+2023-07-14 12:45:57 info: 🚀 App listening on the port 3000
+2023-07-14 12:45:57 info: =================================
+2023-07-14 12:46:30 info: =================================
+2023-07-14 12:46:30 info: ======= ENV: development =======
+2023-07-14 12:46:30 info: 🚀 App listening on the port 3000
+2023-07-14 12:46:30 info: =================================
+2023-07-14 12:46:44 info: =================================
+2023-07-14 12:46:44 info: ======= ENV: development =======
+2023-07-14 12:46:44 info: 🚀 App listening on the port 3000
+2023-07-14 12:46:44 info: =================================
+2023-07-14 12:48:37 info: =================================
+2023-07-14 12:48:37 info: ======= ENV: development =======
+2023-07-14 12:48:37 info: 🚀 App listening on the port 3000
+2023-07-14 12:48:37 info: =================================
+2023-07-14 12:50:03 info: =================================
+2023-07-14 12:50:03 info: ======= ENV: development =======
+2023-07-14 12:50:03 info: 🚀 App listening on the port 3000
+2023-07-14 12:50:03 info: =================================
+2023-07-14 12:51:23 info: =================================
+2023-07-14 12:51:23 info: ======= ENV: development =======
+2023-07-14 12:51:23 info: 🚀 App listening on the port 3000
+2023-07-14 12:51:23 info: =================================
+2023-07-14 12:52:56 info: =================================
+2023-07-14 12:52:56 info: ======= ENV: development =======
+2023-07-14 12:52:56 info: 🚀 App listening on the port 3000
+2023-07-14 12:52:56 info: =================================
+2023-07-14 12:59:36 info: =================================
+2023-07-14 12:59:36 info: ======= ENV: development =======
+2023-07-14 12:59:36 info: 🚀 App listening on the port 3000
+2023-07-14 12:59:36 info: =================================
+2023-07-14 13:03:03 info: =================================
+2023-07-14 13:03:03 info: ======= ENV: development =======
+2023-07-14 13:03:03 info: 🚀 App listening on the port 3000
+2023-07-14 13:03:03 info: =================================
+2023-07-14 13:05:59 info: =================================
+2023-07-14 13:05:59 info: ======= ENV: development =======
+2023-07-14 13:05:59 info: 🚀 App listening on the port 3000
+2023-07-14 13:05:59 info: =================================
+2023-07-14 13:09:04 info: =================================
+2023-07-14 13:09:04 info: ======= ENV: development =======
+2023-07-14 13:09:04 info: 🚀 App listening on the port 3000
+2023-07-14 13:09:04 info: =================================
+2023-07-14 13:10:22 info: =================================
+2023-07-14 13:10:22 info: ======= ENV: development =======
+2023-07-14 13:10:22 info: 🚀 App listening on the port 3000
+2023-07-14 13:10:22 info: =================================
+2023-07-14 13:10:56 info: =================================
+2023-07-14 13:10:56 info: ======= ENV: development =======
+2023-07-14 13:10:56 info: 🚀 App listening on the port 3000
+2023-07-14 13:10:56 info: =================================
+2023-07-14 13:11:11 info: =================================
+2023-07-14 13:11:11 info: ======= ENV: development =======
+2023-07-14 13:11:11 info: 🚀 App listening on the port 3000
+2023-07-14 13:11:11 info: =================================
+2023-07-14 13:15:38 info: =================================
+2023-07-14 13:15:38 info: ======= ENV: development =======
+2023-07-14 13:15:38 info: 🚀 App listening on the port 3000
+2023-07-14 13:15:38 info: =================================
+2023-07-14 13:18:02 info: =================================
+2023-07-14 13:18:02 info: ======= ENV: development =======
+2023-07-14 13:18:02 info: 🚀 App listening on the port 3000
+2023-07-14 13:18:02 info: =================================
+2023-07-14 13:20:45 info: [0mPOST /products [33m404[0m 13.016 ms - 148[0m
+2023-07-14 13:21:07 info: [0mPOST /products [33m404[0m 1.517 ms - 148[0m
+2023-07-14 13:21:44 info: =================================
+2023-07-14 13:21:44 info: ======= ENV: development =======
+2023-07-14 13:21:44 info: 🚀 App listening on the port 3000
+2023-07-14 13:21:44 info: =================================
+2023-07-14 13:25:04 info: =================================
+2023-07-14 13:25:04 info: ======= ENV: development =======
+2023-07-14 13:25:04 info: 🚀 App listening on the port 3000
+2023-07-14 13:25:04 info: =================================
+2023-07-14 13:25:59 info: =================================
+2023-07-14 13:25:59 info: ======= ENV: development =======
+2023-07-14 13:25:59 info: 🚀 App listening on the port 3000
+2023-07-14 13:25:59 info: =================================
+2023-07-14 13:26:04 info: [0mPOST /products [33m404[0m 4.372 ms - 148[0m
+2023-07-14 13:27:33 info: =================================
+2023-07-14 13:27:33 info: ======= ENV: development =======
+2023-07-14 13:27:33 info: 🚀 App listening on the port 3000
+2023-07-14 13:27:33 info: =================================
+2023-07-14 13:29:17 info: =================================
+2023-07-14 13:29:17 info: ======= ENV: development =======
+2023-07-14 13:29:17 info: 🚀 App listening on the port 3000
+2023-07-14 13:29:17 info: =================================
+2023-07-14 13:29:18 error: [POST] /products >> StatusCode:: 400, Message:: name must be an email, price must be a number conforming to the specified constraints, files should not be empty,files must be a string, description should not be empty,description must be a string
+2023-07-14 13:29:18 info: [0mPOST /products [33m400[0m 28.070 ms - 211[0m
+2023-07-14 13:30:44 info: =================================
+2023-07-14 13:30:44 info: ======= ENV: development =======
+2023-07-14 13:30:44 info: 🚀 App listening on the port 3000
+2023-07-14 13:30:44 info: =================================
+2023-07-14 13:30:51 error: [POST] /products >> StatusCode:: 400, Message:: name must be an email, price must be a number conforming to the specified constraints, files should not be empty,files must be a string, description should not be empty,description must be a string
+2023-07-14 13:30:51 info: [0mPOST /products [33m400[0m 31.645 ms - 211[0m
+2023-07-14 13:30:52 error: [POST] /products >> StatusCode:: 400, Message:: name must be an email, price must be a number conforming to the specified constraints, files should not be empty,files must be a string, description should not be empty,description must be a string
+2023-07-14 13:30:52 info: [0mPOST /products [33m400[0m 6.116 ms - 211[0m
+2023-07-14 13:36:59 error: [POST] /products >> StatusCode:: 400, Message:: name should not be empty,name must be an email, price should not be empty,price must be a number conforming to the specified constraints, files should not be empty,files must be a string, delivryInfo should not be empty,delivryInfo must be a string, description should not be empty,description must be a string
+2023-07-14 13:36:59 info: [0mPOST /products [33m400[0m 6.267 ms - 324[0m
+2023-07-14 13:37:01 error: [POST] /products >> StatusCode:: 400, Message:: name should not be empty,name must be an email, price should not be empty,price must be a number conforming to the specified constraints, files should not be empty,files must be a string, delivryInfo should not be empty,delivryInfo must be a string, description should not be empty,description must be a string
+2023-07-14 13:37:01 info: [0mPOST /products [33m400[0m 7.094 ms - 324[0m
+2023-07-14 13:37:05 error: [POST] /products >> StatusCode:: 400, Message:: name must be an email, price must be a number conforming to the specified constraints, files should not be empty,files must be a string, description should not be empty,description must be a string
+2023-07-14 13:37:05 info: [0mPOST /products [33m400[0m 7.402 ms - 211[0m
+2023-07-14 13:37:22 error: [POST] /products >> StatusCode:: 400, Message:: name must be an email, price must be a number conforming to the specified constraints, files should not be empty,files must be a string
+2023-07-14 13:37:22 info: [0mPOST /products [33m400[0m 5.189 ms - 149[0m
+2023-07-14 13:39:02 info: =================================
+2023-07-14 13:39:02 info: ======= ENV: development =======
+2023-07-14 13:39:02 info: 🚀 App listening on the port 3000
+2023-07-14 13:39:02 info: =================================
+2023-07-14 13:39:16 info: =================================
+2023-07-14 13:39:16 info: ======= ENV: development =======
+2023-07-14 13:39:16 info: 🚀 App listening on the port 3000
+2023-07-14 13:39:16 info: =================================
+2023-07-14 13:39:21 info: =================================
+2023-07-14 13:39:21 info: ======= ENV: development =======
+2023-07-14 13:39:21 info: 🚀 App listening on the port 3000
+2023-07-14 13:39:21 info: =================================
+2023-07-14 13:39:25 error: [POST] /products >> StatusCode:: 400, Message:: price must be a number conforming to the specified constraints, files should not be empty,files must be a number string
+2023-07-14 13:39:25 info: [0mPOST /products [33m400[0m 13.731 ms - 133[0m
+2023-07-14 13:39:45 info: =================================
+2023-07-14 13:39:45 info: ======= ENV: development =======
+2023-07-14 13:39:45 info: 🚀 App listening on the port 3000
+2023-07-14 13:39:45 info: =================================
+2023-07-14 13:39:47 info: =================================
+2023-07-14 13:39:47 info: ======= ENV: development =======
+2023-07-14 13:39:47 info: 🚀 App listening on the port 3000
+2023-07-14 13:39:47 info: =================================
+2023-07-14 13:39:48 error: [POST] /products >> StatusCode:: 400, Message:: price must be a number conforming to the specified constraints
+2023-07-14 13:39:48 info: [0mPOST /products [33m400[0m 21.799 ms - 76[0m
+2023-07-14 13:40:41 info: =================================
+2023-07-14 13:40:41 info: ======= ENV: development =======
+2023-07-14 13:40:41 info: 🚀 App listening on the port 3000
+2023-07-14 13:40:41 info: =================================
+2023-07-14 13:40:43 info: [0mPOST /products [32m201[0m 94.038 ms - 253[0m
+2023-07-14 13:43:31 info: =================================
+2023-07-14 13:43:31 info: ======= ENV: development =======
+2023-07-14 13:43:31 info: 🚀 App listening on the port 3000
+2023-07-14 13:43:31 info: =================================
+2023-07-14 13:43:57 info: =================================
+2023-07-14 13:43:57 info: ======= ENV: development =======
+2023-07-14 13:43:57 info: 🚀 App listening on the port 3000
+2023-07-14 13:43:57 info: =================================
+2023-07-14 13:44:16 info: [0mGET /category [32m200[0m 39.149 ms - 31[0m
+2023-07-14 13:44:50 info: [0mPOST /category [32m201[0m 47.790 ms - 33[0m
+2023-07-14 13:44:54 info: [0mPOST /category [32m201[0m 4.522 ms - 33[0m
+2023-07-14 13:45:01 info: [0mGET /category [32m200[0m 5.492 ms - 31[0m
+2023-07-14 13:46:48 info: =================================
+2023-07-14 13:46:48 info: ======= ENV: development =======
+2023-07-14 13:46:48 info: 🚀 App listening on the port 3000
+2023-07-14 13:46:48 info: =================================
+2023-07-14 13:46:56 error: [POST] /category >> StatusCode:: 500, Message:: document must have an _id before saving
+2023-07-14 13:46:56 info: [0mPOST /category [31m500[0m 80.081 ms - 53[0m
+2023-07-14 13:48:29 info: =================================
+2023-07-14 13:48:29 info: ======= ENV: development =======
+2023-07-14 13:48:29 info: 🚀 App listening on the port 3000
+2023-07-14 13:48:29 info: =================================
+2023-07-14 13:49:08 info: =================================
+2023-07-14 13:49:08 info: ======= ENV: development =======
+2023-07-14 13:49:08 info: 🚀 App listening on the port 3000
+2023-07-14 13:49:08 info: =================================
+2023-07-14 13:49:10 info: [0mPOST /category [32m201[0m 41.642 ms - 86[0m
+2023-07-14 13:49:17 info: [0mGET /category [32m200[0m 11.083 ms - 88[0m
+2023-07-14 13:49:47 info: [0mPUT /category.64b10c0622f744b25377dce3 [33m404[0m 4.011 ms - 172[0m
+2023-07-14 13:49:54 info: [0mPUT /category/64b10c0622f744b25377dce3 [32m200[0m 21.002 ms - 82[0m
+2023-07-14 13:50:01 info: [0mDELETE /category/64b10c0622f744b25377dce3 [32m200[0m 7.703 ms - 82[0m
+2023-07-14 13:50:05 error: [GET] /category/64b10c0622f744b25377dce3 >> StatusCode:: 409, Message:: Category doesn't exist
+2023-07-14 13:50:05 info: [0mGET /category/64b10c0622f744b25377dce3 [33m409[0m 9.435 ms - 36[0m
+2023-07-14 13:50:11 info: [0mGET /category [32m200[0m 3.556 ms - 31[0m
+2023-07-14 14:00:33 info: =================================
+2023-07-14 14:00:33 info: ======= ENV: development =======
+2023-07-14 14:00:33 info: 🚀 App listening on the port 3000
+2023-07-14 14:00:33 info: =================================
+2023-07-14 14:01:30 info: =================================
+2023-07-14 14:01:30 info: ======= ENV: development =======
+2023-07-14 14:01:30 info: 🚀 App listening on the port 3000
+2023-07-14 14:01:30 info: =================================
+2023-07-14 14:02:42 info: =================================
+2023-07-14 14:02:42 info: ======= ENV: development =======
+2023-07-14 14:02:42 info: 🚀 App listening on the port 3000
+2023-07-14 14:02:42 info: =================================
+2023-07-14 14:03:09 error: [POST] /products >> StatusCode:: 409, Message:: This name sss already exists
+2023-07-14 14:03:09 info: [0mPOST /products [33m409[0m 68.090 ms - 42[0m
+2023-07-14 14:03:22 info: [0mPOST /products [32m201[0m 50.750 ms - 272[0m
+2023-07-14 14:03:30 info: [0mGET /category [32m200[0m 22.851 ms - 31[0m
+2023-07-14 14:03:32 info: [0mGET /category [32m200[0m 5.438 ms - 31[0m
+2023-07-14 14:03:44 info: [0mPOST /category [32m201[0m 14.056 ms - 86[0m
+2023-07-14 14:04:03 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:04:03 info: [0mGET /products [31m500[0m 19.531 ms - 110[0m
+2023-07-14 14:04:32 info: =================================
+2023-07-14 14:04:32 info: ======= ENV: development =======
+2023-07-14 14:04:32 info: 🚀 App listening on the port 3000
+2023-07-14 14:04:32 info: =================================
+2023-07-14 14:04:34 info: [0mGET /products [32m200[0m 45.027 ms - 274[0m
+2023-07-14 14:04:54 info: =================================
+2023-07-14 14:04:54 info: ======= ENV: development =======
+2023-07-14 14:04:54 info: 🚀 App listening on the port 3000
+2023-07-14 14:04:54 info: =================================
+2023-07-14 14:05:05 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:05:05 info: [0mGET /products [31m500[0m 34.418 ms - 110[0m
+2023-07-14 14:07:52 info: =================================
+2023-07-14 14:07:52 info: ======= ENV: development =======
+2023-07-14 14:07:52 info: 🚀 App listening on the port 3000
+2023-07-14 14:07:52 info: =================================
+2023-07-14 14:09:53 info: [0mPOST /category [32m201[0m 108.039 ms - 86[0m
+2023-07-14 14:10:03 info: [0mPOST /products [32m201[0m 42.211 ms - 272[0m
+2023-07-14 14:10:08 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:08 info: [0mGET /products [31m500[0m 32.135 ms - 110[0m
+2023-07-14 14:10:09 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:09 info: [0mGET /products [31m500[0m 15.414 ms - 110[0m
+2023-07-14 14:10:10 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:10 info: [0mGET /products [31m500[0m 11.384 ms - 110[0m
+2023-07-14 14:10:12 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:12 info: [0mGET /products [31m500[0m 11.802 ms - 110[0m
+2023-07-14 14:10:14 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:14 info: [0mGET /products [31m500[0m 14.701 ms - 110[0m
+2023-07-14 14:10:14 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:14 info: [0mGET /products [31m500[0m 9.619 ms - 110[0m
+2023-07-14 14:10:15 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:10:15 info: [0mGET /products [31m500[0m 14.444 ms - 110[0m
+2023-07-14 14:13:02 info: =================================
+2023-07-14 14:13:02 info: ======= ENV: development =======
+2023-07-14 14:13:02 info: 🚀 App listening on the port 3000
+2023-07-14 14:13:02 info: =================================
+2023-07-14 14:13:04 error: [GET] /products >> StatusCode:: 500, Message:: Cannot populate path `category1` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-14 14:13:04 info: [0mGET /products [31m500[0m 53.722 ms - 134[0m
+2023-07-14 14:14:11 info: =================================
+2023-07-14 14:14:11 info: ======= ENV: development =======
+2023-07-14 14:14:11 info: 🚀 App listening on the port 3000
+2023-07-14 14:14:11 info: =================================
+2023-07-14 14:14:27 error: [POST] /products >> StatusCode:: 500, Message:: Product validation failed: category: Path `category` is required.
+2023-07-14 14:14:27 info: [0mPOST /products [31m500[0m 91.300 ms - 79[0m
+2023-07-14 14:14:42 info: =================================
+2023-07-14 14:14:42 info: ======= ENV: development =======
+2023-07-14 14:14:42 info: 🚀 App listening on the port 3000
+2023-07-14 14:14:42 info: =================================
+2023-07-14 14:14:44 info: [0mPOST /products [32m201[0m 95.943 ms - 276[0m
+2023-07-14 14:14:53 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:14:53 info: [0mGET /products [31m500[0m 31.294 ms - 110[0m
+2023-07-14 14:15:09 info: =================================
+2023-07-14 14:15:09 info: ======= ENV: development =======
+2023-07-14 14:15:09 info: 🚀 App listening on the port 3000
+2023-07-14 14:15:09 info: =================================
+2023-07-14 14:15:22 info: =================================
+2023-07-14 14:15:22 info: ======= ENV: development =======
+2023-07-14 14:15:22 info: 🚀 App listening on the port 3000
+2023-07-14 14:15:22 info: =================================
+2023-07-14 14:18:28 info: =================================
+2023-07-14 14:18:28 info: ======= ENV: development =======
+2023-07-14 14:18:28 info: 🚀 App listening on the port 3000
+2023-07-14 14:18:28 info: =================================
+2023-07-14 14:18:29 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:18:29 info: [0mGET /products [31m500[0m 50.989 ms - 110[0m
+2023-07-14 14:19:46 info: =================================
+2023-07-14 14:19:46 info: ======= ENV: development =======
+2023-07-14 14:19:46 info: 🚀 App listening on the port 3000
+2023-07-14 14:19:46 info: =================================
+2023-07-14 14:20:15 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:20:15 info: [0mGET /products [31m500[0m 67.839 ms - 110[0m
+2023-07-14 14:23:06 info: =================================
+2023-07-14 14:23:06 info: ======= ENV: development =======
+2023-07-14 14:23:06 info: 🚀 App listening on the port 3000
+2023-07-14 14:23:06 info: =================================
+2023-07-14 14:23:33 info: =================================
+2023-07-14 14:23:33 info: ======= ENV: development =======
+2023-07-14 14:23:33 info: 🚀 App listening on the port 3000
+2023-07-14 14:23:33 info: =================================
+2023-07-14 14:23:41 info: =================================
+2023-07-14 14:23:41 info: ======= ENV: development =======
+2023-07-14 14:23:41 info: 🚀 App listening on the port 3000
+2023-07-14 14:23:41 info: =================================
+2023-07-14 14:29:35 error: [POST] /products >> StatusCode:: 400, Message:: description should not be empty,description must be a string
+2023-07-14 14:29:35 info: [0mPOST /products [33m400[0m 35.538 ms - 74[0m
+2023-07-14 14:29:46 error: [POST] /products >> StatusCode:: 409, Message:: This name asasas already exists
+2023-07-14 14:29:46 info: [0mPOST /products [33m409[0m 27.979 ms - 45[0m
+2023-07-14 14:29:52 info: [0mPOST /products [32m201[0m 48.332 ms - 294[0m
+2023-07-14 14:29:58 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:29:58 info: [0mGET /products [31m500[0m 28.618 ms - 110[0m
+2023-07-14 14:29:59 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:29:59 info: [0mGET /products [31m500[0m 13.454 ms - 110[0m
+2023-07-14 14:30:00 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:00 info: [0mGET /products [31m500[0m 10.660 ms - 110[0m
+2023-07-14 14:30:01 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:01 info: [0mGET /products [31m500[0m 9.538 ms - 110[0m
+2023-07-14 14:30:01 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:01 info: [0mGET /products [31m500[0m 12.108 ms - 110[0m
+2023-07-14 14:30:02 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:02 info: [0mGET /products [31m500[0m 11.260 ms - 110[0m
+2023-07-14 14:30:02 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:02 info: [0mGET /products [31m500[0m 14.441 ms - 110[0m
+2023-07-14 14:30:04 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:04 info: [0mGET /products [31m500[0m 10.988 ms - 110[0m
+2023-07-14 14:30:04 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:04 info: [0mGET /products [31m500[0m 9.918 ms - 110[0m
+2023-07-14 14:30:06 error: [GET] /products >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "Foods" (type string) at path "_id" for model "Category"
+2023-07-14 14:30:06 info: [0mGET /products [31m500[0m 12.883 ms - 110[0m
+2023-07-14 14:31:28 info: =================================
+2023-07-14 14:31:28 info: ======= ENV: development =======
+2023-07-14 14:31:28 info: 🚀 App listening on the port 3000
+2023-07-14 14:31:28 info: =================================
+2023-07-14 14:32:46 info: [0mPOST /products [32m201[0m 92.431 ms - 294[0m
+2023-07-14 14:32:51 info: [0mGET /products [32m200[0m 40.536 ms - 327[0m
+2023-07-14 15:20:47 info: =================================
+2023-07-14 15:20:47 info: ======= ENV: development =======
+2023-07-14 15:20:47 info: 🚀 App listening on the port 3000
+2023-07-14 15:20:47 info: =================================
+2023-07-14 15:24:56 info: =================================
+2023-07-14 15:24:56 info: ======= ENV: development =======
+2023-07-14 15:24:56 info: 🚀 App listening on the port 3000
+2023-07-14 15:24:56 info: =================================
+2023-07-14 15:24:59 info: =================================
+2023-07-14 15:24:59 info: ======= ENV: development =======
+2023-07-14 15:24:59 info: 🚀 App listening on the port 3000
+2023-07-14 15:24:59 info: =================================
+2023-07-14 15:27:11 info: =================================
+2023-07-14 15:27:11 info: ======= ENV: development =======
+2023-07-14 15:27:11 info: 🚀 App listening on the port 3000
+2023-07-14 15:27:11 info: =================================
+2023-07-14 15:27:27 info: =================================
+2023-07-14 15:27:27 info: ======= ENV: development =======
+2023-07-14 15:27:27 info: 🚀 App listening on the port 3000
+2023-07-14 15:27:27 info: =================================
+2023-07-14 15:28:00 info: =================================
+2023-07-14 15:28:00 info: ======= ENV: development =======
+2023-07-14 15:28:00 info: 🚀 App listening on the port 3000
+2023-07-14 15:28:00 info: =================================
+2023-07-14 15:28:09 info: =================================
+2023-07-14 15:28:09 info: ======= ENV: development =======
+2023-07-14 15:28:09 info: 🚀 App listening on the port 3000
+2023-07-14 15:28:09 info: =================================
+2023-07-14 15:28:37 error: [POST] /products >> StatusCode:: 500, Message:: D:\practice\Food-delivery-app\project\src\controllers/images//images/Screenshot2023-07-01213032.png: unable to open for write
+windows error: The system cannot find the file specified.
+2023-07-14 15:28:37 info: [0mPOST /products [31m500[0m 23.597 ms - 203[0m
+2023-07-14 15:30:06 info: =================================
+2023-07-14 15:30:06 info: ======= ENV: development =======
+2023-07-14 15:30:06 info: 🚀 App listening on the port 3000
+2023-07-14 15:30:06 info: =================================
+2023-07-14 15:30:10 error: [POST] /products >> StatusCode:: 500, Message:: D:\practice\Food-delivery-app\project\src\controllers../upload/images/Screenshot2023-07-01213032.png: unable to open for write
+windows error: The system cannot find the file specified.
+2023-07-14 15:30:10 info: [0mPOST /products [31m500[0m 18.793 ms - 204[0m
+2023-07-14 15:30:15 error: [POST] /products >> StatusCode:: 500, Message:: D:\practice\Food-delivery-app\project\src\controllers../upload/images/Screenshot2023-07-01213032.png: unable to open for write
+windows error: The system cannot find the file specified.
+2023-07-14 15:30:15 info: [0mPOST /products [31m500[0m 5.865 ms - 204[0m
+2023-07-14 15:33:35 info: =================================
+2023-07-14 15:33:35 info: ======= ENV: development =======
+2023-07-14 15:33:35 info: 🚀 App listening on the port 3000
+2023-07-14 15:33:35 info: =================================
+2023-07-14 15:33:37 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsd already exists
+2023-07-14 15:33:37 info: [0mPOST /products [33m409[0m 29.106 ms - 51[0m
+2023-07-14 15:33:43 info: [0mPOST /products [32m201[0m 26.069 ms - 336[0m
+2023-07-14 15:33:48 info: [0mGET /images/Screenshot2023-07-01213032.png [32m200[0m 7.310 ms - 4370[0m
+2023-07-14 15:34:29 info: =================================
+2023-07-14 15:34:29 info: ======= ENV: development =======
+2023-07-14 15:34:29 info: 🚀 App listening on the port 3000
+2023-07-14 15:34:29 info: =================================
+2023-07-14 15:35:05 info: [0mGET /products [32m200[0m 39.430 ms - 666[0m
+2023-07-14 15:35:48 error: [POST] /products >> StatusCode:: 500, Message:: Unexpected field
+2023-07-14 15:35:48 info: [0mPOST /products [31m500[0m 10.259 ms - 30[0m
+2023-07-14 15:35:55 info: [0mPOST /products [32m201[0m 22.754 ms - 341[0m
+2023-07-14 15:39:17 error: [PUT] /products/64b1250b9f93c5ed2e45f27d >> StatusCode:: 400, Message:: name should not be empty,name must be a string, price should not be empty,price must be a number string, delivryInfo should not be empty,delivryInfo must be a string, description should not be empty,description must be a string
+2023-07-14 15:39:17 info: [0mPUT /products/64b1250b9f93c5ed2e45f27d [33m400[0m 7.116 ms - 241[0m
+2023-07-14 15:41:29 info: [0mPUT /products/64b1250b9f93c5ed2e45f27d [32m200[0m 20.173 ms - 324[0m
+2023-07-14 15:41:32 info: [0mGET /images/Screenshot2023-07-02112622.png [32m200[0m 3.819 ms - 28543[0m
+2023-07-14 15:41:52 info: [0mDELETE /products/64b1250b9f93c5ed2e45f27d [32m200[0m 3.945 ms - 324[0m
+2023-07-14 15:42:11 info: [0mDELETE /products/64b1163e32a6be1c1dbdbcb1 [32m200[0m 3.478 ms - 294[0m
+2023-07-14 15:43:09 info: =================================
+2023-07-14 15:43:09 info: ======= ENV: development =======
+2023-07-14 15:43:09 info: 🚀 App listening on the port 3000
+2023-07-14 15:43:09 info: =================================
+2023-07-14 15:45:14 info: =================================
+2023-07-14 15:45:14 info: ======= ENV: development =======
+2023-07-14 15:45:14 info: 🚀 App listening on the port 3000
+2023-07-14 15:45:14 info: =================================
+2023-07-14 15:46:31 info: =================================
+2023-07-14 15:46:31 info: ======= ENV: development =======
+2023-07-14 15:46:31 info: 🚀 App listening on the port 3000
+2023-07-14 15:46:31 info: =================================
+2023-07-14 15:47:43 info: =================================
+2023-07-14 15:47:43 info: ======= ENV: development =======
+2023-07-14 15:47:43 info: 🚀 App listening on the port 3000
+2023-07-14 15:47:43 info: =================================
+2023-07-14 15:49:16 info: =================================
+2023-07-14 15:49:16 info: ======= ENV: development =======
+2023-07-14 15:49:16 info: 🚀 App listening on the port 3000
+2023-07-14 15:49:16 info: =================================
+2023-07-14 15:49:20 info: =================================
+2023-07-14 15:49:20 info: ======= ENV: development =======
+2023-07-14 15:49:20 info: 🚀 App listening on the port 3000
+2023-07-14 15:49:20 info: =================================
+2023-07-14 15:49:43 info: =================================
+2023-07-14 15:49:43 info: ======= ENV: development =======
+2023-07-14 15:49:43 info: 🚀 App listening on the port 3000
+2023-07-14 15:49:43 info: =================================
+2023-07-14 15:49:48 info: =================================
+2023-07-14 15:49:48 info: ======= ENV: development =======
+2023-07-14 15:49:48 info: 🚀 App listening on the port 3000
+2023-07-14 15:49:48 info: =================================
+2023-07-14 15:50:05 info: =================================
+2023-07-14 15:50:05 info: ======= ENV: development =======
+2023-07-14 15:50:05 info: 🚀 App listening on the port 3000
+2023-07-14 15:50:05 info: =================================
+2023-07-14 15:50:47 info: =================================
+2023-07-14 15:50:47 info: ======= ENV: development =======
+2023-07-14 15:50:47 info: 🚀 App listening on the port 3000
+2023-07-14 15:50:47 info: =================================
+2023-07-14 15:51:16 info: =================================
+2023-07-14 15:51:16 info: ======= ENV: development =======
+2023-07-14 15:51:16 info: 🚀 App listening on the port 3000
+2023-07-14 15:51:16 info: =================================
+2023-07-14 15:51:43 info: =================================
+2023-07-14 15:51:43 info: ======= ENV: development =======
+2023-07-14 15:51:43 info: 🚀 App listening on the port 3000
+2023-07-14 15:51:43 info: =================================
+2023-07-14 15:53:07 info: =================================
+2023-07-14 15:53:07 info: ======= ENV: development =======
+2023-07-14 15:53:07 info: 🚀 App listening on the port 3000
+2023-07-14 15:53:07 info: =================================
+2023-07-14 15:53:28 info: =================================
+2023-07-14 15:53:28 info: ======= ENV: development =======
+2023-07-14 15:53:28 info: 🚀 App listening on the port 3000
+2023-07-14 15:53:28 info: =================================
+2023-07-14 15:55:21 error: [POST] /admin >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, phone should not be empty,phone must be a number string
+2023-07-14 15:55:21 info: [0mPOST /admin [33m400[0m 23.668 ms - 125[0m
+2023-07-14 15:56:52 info: =================================
+2023-07-14 15:56:52 info: ======= ENV: development =======
+2023-07-14 15:56:52 info: 🚀 App listening on the port 3000
+2023-07-14 15:56:52 info: =================================
+2023-07-14 15:56:55 error: [POST] /admin >> StatusCode:: 400, Message:: emial should not be empty,emial must be an email
+2023-07-14 15:56:55 info: [0mPOST /admin [33m400[0m 18.981 ms - 62[0m
+2023-07-14 15:57:22 error: [POST] /admin >> StatusCode:: 400, Message:: emial should not be empty,emial must be an email
+2023-07-14 15:57:22 info: [0mPOST /admin [33m400[0m 3.229 ms - 62[0m
+2023-07-14 15:57:23 error: [POST] /admin >> StatusCode:: 400, Message:: emial should not be empty,emial must be an email
+2023-07-14 15:57:23 info: [0mPOST /admin [33m400[0m 2.336 ms - 62[0m
+2023-07-14 15:57:51 info: =================================
+2023-07-14 15:57:51 info: ======= ENV: development =======
+2023-07-14 15:57:51 info: 🚀 App listening on the port 3000
+2023-07-14 15:57:51 info: =================================
+2023-07-14 15:57:52 info: [0mPOST /admin [32m201[0m 108.814 ms - 170[0m
+2023-07-14 15:58:19 info: [0mGET /admin [32m200[0m 7.931 ms - 172[0m
+2023-07-14 15:58:35 error: [PUT] /admin/64b12a30df1e88de05104af3 >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-14 15:58:35 info: [0mPUT /admin/64b12a30df1e88de05104af3 [33m400[0m 5.894 ms - 67[0m
+2023-07-14 15:58:39 info: [0mPUT /admin/64b12a30df1e88de05104af3 [32m200[0m 75.349 ms - 170[0m
+2023-07-14 15:58:47 info: [0mDELETE /admin/64b12a30df1e88de05104af3 [32m200[0m 5.523 ms - 170[0m
+2023-07-14 15:58:48 error: [DELETE] /admin/64b12a30df1e88de05104af3 >> StatusCode:: 409, Message:: Admin doesn't exist
+2023-07-14 15:58:48 info: [0mDELETE /admin/64b12a30df1e88de05104af3 [33m409[0m 5.097 ms - 33[0m
+2023-07-14 16:02:39 info: =================================
+2023-07-14 16:02:39 info: ======= ENV: development =======
+2023-07-14 16:02:39 info: 🚀 App listening on the port 3000
+2023-07-14 16:02:39 info: =================================
+2023-07-14 16:05:22 info: =================================
+2023-07-14 16:05:22 info: ======= ENV: development =======
+2023-07-14 16:05:22 info: 🚀 App listening on the port 3000
+2023-07-14 16:05:22 info: =================================
+2023-07-14 16:11:10 info: =================================
+2023-07-14 16:11:10 info: ======= ENV: development =======
+2023-07-14 16:11:10 info: 🚀 App listening on the port 3000
+2023-07-14 16:11:10 info: =================================
+2023-07-14 16:16:49 info: =================================
+2023-07-14 16:16:49 info: ======= ENV: development =======
+2023-07-14 16:16:49 info: 🚀 App listening on the port 3000
+2023-07-14 16:16:49 info: =================================
+2023-07-14 16:17:36 info: =================================
+2023-07-14 16:17:36 info: ======= ENV: development =======
+2023-07-14 16:17:36 info: 🚀 App listening on the port 3000
+2023-07-14 16:17:36 info: =================================
+2023-07-14 16:19:22 error: [POST] /admin >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'email')
+2023-07-14 16:19:22 info: [0mPOST /admin [31m500[0m 104.922 ms - 62[0m
+2023-07-14 16:19:57 error: [POST] /admin >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'email')
+2023-07-14 16:19:57 info: [0mPOST /admin [31m500[0m 79.430 ms - 62[0m
+2023-07-14 16:20:44 info: =================================
+2023-07-14 16:20:44 info: ======= ENV: development =======
+2023-07-14 16:20:44 info: 🚀 App listening on the port 3000
+2023-07-14 16:20:44 info: =================================
+2023-07-14 16:20:46 error: [POST] /admin >> StatusCode:: 409, Message:: This email zaassasre@gmail.com already exists
+2023-07-14 16:20:46 info: [0mPOST /admin [33m409[0m 33.778 ms - 59[0m
+2023-07-14 16:21:04 info: =================================
+2023-07-14 16:21:04 info: ======= ENV: development =======
+2023-07-14 16:21:04 info: 🚀 App listening on the port 3000
+2023-07-14 16:21:04 info: =================================
+2023-07-14 16:21:06 info: =================================
+2023-07-14 16:21:06 info: ======= ENV: development =======
+2023-07-14 16:21:06 info: 🚀 App listening on the port 3000
+2023-07-14 16:21:06 info: =================================
+2023-07-14 16:21:09 error: [POST] /admin >> StatusCode:: 409, Message:: This email zaassasre@gmail.com already exists
+2023-07-14 16:21:09 info: [0mPOST /admin [33m409[0m 30.951 ms - 59[0m
+2023-07-14 16:21:33 info: =================================
+2023-07-14 16:21:33 info: ======= ENV: development =======
+2023-07-14 16:21:33 info: 🚀 App listening on the port 3000
+2023-07-14 16:21:33 info: =================================
+2023-07-14 16:21:34 error: [POST] /admin >> StatusCode:: 409, Message:: This email zaassasre@gmail.com already exists
+2023-07-14 16:21:34 info: [0mPOST /admin [33m409[0m 34.203 ms - 59[0m
+2023-07-14 16:22:01 error: [POST] /admin >> StatusCode:: 500, Message:: Cannot read properties of null (reading 'email')
+2023-07-14 16:22:01 info: [0mPOST /admin [31m500[0m 86.806 ms - 62[0m
+2023-07-14 16:22:08 error: [POST] /admin >> StatusCode:: 409, Message:: This email zaassasre@gmail.com already exists
+2023-07-14 16:22:08 info: [0mPOST /admin [33m409[0m 6.726 ms - 59[0m
+2023-07-14 16:22:27 info: =================================
+2023-07-14 16:22:27 info: ======= ENV: development =======
+2023-07-14 16:22:27 info: 🚀 App listening on the port 3000
+2023-07-14 16:22:27 info: =================================
+2023-07-14 16:23:34 info: =================================
+2023-07-14 16:23:34 info: ======= ENV: development =======
+2023-07-14 16:23:34 info: 🚀 App listening on the port 3000
+2023-07-14 16:23:34 info: =================================
+2023-07-14 16:24:18 info: =================================
+2023-07-14 16:24:18 info: ======= ENV: development =======
+2023-07-14 16:24:18 info: 🚀 App listening on the port 3000
+2023-07-14 16:24:18 info: =================================
+2023-07-14 16:24:28 info: [0mPOST /admin [32m201[0m 103.385 ms - 175[0m
+2023-07-14 16:34:29 info: =================================
+2023-07-14 16:34:29 info: ======= ENV: development =======
+2023-07-14 16:34:29 info: 🚀 App listening on the port 3000
+2023-07-14 16:34:29 info: =================================
+2023-07-14 16:35:16 info: [0mPOST /products [32m201[0m 45.633 ms - 341[0m
+2023-07-14 16:35:48 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsds already exists
+2023-07-14 16:35:48 info: [0mPOST /products [33m409[0m 14.574 ms - 58[0m
+2023-07-14 16:35:49 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsds already exists
+2023-07-14 16:35:49 info: [0mPOST /products [33m409[0m 8.477 ms - 58[0m
+2023-07-14 16:36:14 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsds already exists
+2023-07-14 16:36:14 info: [0mPOST /products [33m409[0m 5.748 ms - 58[0m
+2023-07-14 16:36:19 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsds already exists
+2023-07-14 16:36:19 info: [0mPOST /products [33m409[0m 8.952 ms - 58[0m
+2023-07-14 16:36:22 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsds already exists
+2023-07-14 16:36:22 info: [0mPOST /products [33m409[0m 5.734 ms - 58[0m
+2023-07-14 16:36:24 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsds already exists
+2023-07-14 16:36:24 info: [0mPOST /products [33m409[0m 7.247 ms - 58[0m
+2023-07-14 16:36:30 info: [0mPOST /products [32m201[0m 11.897 ms - 349[0m
+2023-07-14 16:36:40 error: [DELETE] /products/64b1163e32a6be1c1dbdbcb1 >> StatusCode:: 409, Message:: Product doesn't exist
+2023-07-14 16:36:40 info: [0mDELETE /products/64b1163e32a6be1c1dbdbcb1 [33m409[0m 6.756 ms - 35[0m
+2023-07-14 16:40:40 info: =================================
+2023-07-14 16:40:40 info: ======= ENV: development =======
+2023-07-14 16:40:40 info: 🚀 App listening on the port 3000
+2023-07-14 16:40:40 info: =================================
+2023-07-14 16:40:46 info: =================================
+2023-07-14 16:40:46 info: ======= ENV: development =======
+2023-07-14 16:40:46 info: 🚀 App listening on the port 3000
+2023-07-14 16:40:46 info: =================================
+2023-07-14 16:41:20 info: =================================
+2023-07-14 16:41:20 info: ======= ENV: development =======
+2023-07-14 16:41:20 info: 🚀 App listening on the port 3000
+2023-07-14 16:41:20 info: =================================
+2023-07-14 16:41:48 info: =================================
+2023-07-14 16:41:48 info: ======= ENV: development =======
+2023-07-14 16:41:48 info: 🚀 App listening on the port 3000
+2023-07-14 16:41:48 info: =================================
+2023-07-14 16:42:15 info: =================================
+2023-07-14 16:42:15 info: ======= ENV: development =======
+2023-07-14 16:42:15 info: 🚀 App listening on the port 3000
+2023-07-14 16:42:15 info: =================================
+2023-07-14 16:43:38 info: =================================
+2023-07-14 16:43:38 info: ======= ENV: development =======
+2023-07-14 16:43:38 info: 🚀 App listening on the port 3000
+2023-07-14 16:43:38 info: =================================
+2023-07-14 16:43:45 error: [POST] /products >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 16:43:45 info: [0mPOST /products [31m500[0m 6.816 ms - 34[0m
+2023-07-14 16:49:54 info: =================================
+2023-07-14 16:49:54 info: ======= ENV: development =======
+2023-07-14 16:49:54 info: 🚀 App listening on the port 3000
+2023-07-14 16:49:54 info: =================================
+2023-07-14 16:49:54 info: [0mPOST /products [32m201[0m 62.250 ms - 353[0m
+2023-07-14 17:05:41 info: =================================
+2023-07-14 17:05:41 info: ======= ENV: development =======
+2023-07-14 17:05:41 info: 🚀 App listening on the port 3000
+2023-07-14 17:05:41 info: =================================
+2023-07-14 17:07:04 info: =================================
+2023-07-14 17:07:04 info: ======= ENV: development =======
+2023-07-14 17:07:04 info: 🚀 App listening on the port 3000
+2023-07-14 17:07:04 info: =================================
+2023-07-14 17:08:54 info: =================================
+2023-07-14 17:08:54 info: ======= ENV: development =======
+2023-07-14 17:08:54 info: 🚀 App listening on the port 3000
+2023-07-14 17:08:54 info: =================================
+2023-07-14 17:09:04 info: [0mPOST /admin [32m201[0m 115.049 ms - 21[0m
+2023-07-14 17:10:54 info: =================================
+2023-07-14 17:10:54 info: ======= ENV: development =======
+2023-07-14 17:10:54 info: 🚀 App listening on the port 3000
+2023-07-14 17:10:54 info: =================================
+2023-07-14 17:10:57 info: [0mPOST /admin [32m201[0m 102.437 ms - 21[0m
+2023-07-14 17:12:06 info: =================================
+2023-07-14 17:12:06 info: ======= ENV: development =======
+2023-07-14 17:12:06 info: 🚀 App listening on the port 3000
+2023-07-14 17:12:06 info: =================================
+2023-07-14 17:12:24 info: =================================
+2023-07-14 17:12:24 info: ======= ENV: development =======
+2023-07-14 17:12:24 info: 🚀 App listening on the port 3000
+2023-07-14 17:12:24 info: =================================
+2023-07-14 17:12:30 error: [POST] /admin >> StatusCode:: 409, Message:: This email zaassasrsqe@gmail.com already exists
+2023-07-14 17:12:30 info: [0mPOST /admin [33m409[0m 28.948 ms - 61[0m
+2023-07-14 17:12:32 info: [0mPOST /admin [32m201[0m 83.032 ms - 178[0m
+2023-07-14 17:13:19 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:13:19 info: [0mPOST /products [31m500[0m 2.814 ms - 31[0m
+2023-07-14 17:14:13 info: =================================
+2023-07-14 17:14:13 info: ======= ENV: development =======
+2023-07-14 17:14:13 info: 🚀 App listening on the port 3000
+2023-07-14 17:14:13 info: =================================
+2023-07-14 17:14:18 error: [POST] /products >> StatusCode:: 500, Message:: secret or public key must be provided
+2023-07-14 17:14:18 info: [0mPOST /products [31m500[0m 7.045 ms - 51[0m
+2023-07-14 17:14:38 info: =================================
+2023-07-14 17:14:38 info: ======= ENV: development =======
+2023-07-14 17:14:38 info: 🚀 App listening on the port 3000
+2023-07-14 17:14:38 info: =================================
+2023-07-14 17:14:57 info: =================================
+2023-07-14 17:14:57 info: ======= ENV: development =======
+2023-07-14 17:14:57 info: 🚀 App listening on the port 3000
+2023-07-14 17:14:57 info: =================================
+2023-07-14 17:16:12 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:12 info: [0mPOST /products [31m500[0m 8.692 ms - 31[0m
+2023-07-14 17:16:13 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:13 info: [0mPOST /products [31m500[0m 2.381 ms - 31[0m
+2023-07-14 17:16:13 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:13 info: [0mPOST /products [31m500[0m 2.416 ms - 31[0m
+2023-07-14 17:16:15 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:15 info: [0mPOST /products [31m500[0m 1.874 ms - 31[0m
+2023-07-14 17:16:16 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:16 info: [0mPOST /products [31m500[0m 2.171 ms - 31[0m
+2023-07-14 17:16:16 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:16 info: [0mPOST /products [31m500[0m 1.615 ms - 31[0m
+2023-07-14 17:16:31 info: =================================
+2023-07-14 17:16:31 info: ======= ENV: development =======
+2023-07-14 17:16:31 info: 🚀 App listening on the port 3000
+2023-07-14 17:16:31 info: =================================
+2023-07-14 17:16:35 info: =================================
+2023-07-14 17:16:35 info: ======= ENV: development =======
+2023-07-14 17:16:35 info: 🚀 App listening on the port 3000
+2023-07-14 17:16:35 info: =================================
+2023-07-14 17:16:37 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:37 info: [0mPOST /products [31m500[0m 7.498 ms - 31[0m
+2023-07-14 17:16:38 error: [POST] /products >> StatusCode:: 500, Message:: invalid signature
+2023-07-14 17:16:38 info: [0mPOST /products [31m500[0m 2.391 ms - 31[0m
+2023-07-14 17:16:48 info: [0mPOST /admin [32m201[0m 102.064 ms - 179[0m
+2023-07-14 17:17:19 info: [0mPOST /admin [32m201[0m 75.320 ms - 174[0m
+2023-07-14 17:17:20 error: [POST] /admin >> StatusCode:: 409, Message:: This email Zarnigor@gmail.com already exists
+2023-07-14 17:17:20 info: [0mPOST /admin [33m409[0m 7.269 ms - 58[0m
+2023-07-14 17:17:20 error: [POST] /admin >> StatusCode:: 409, Message:: This email Zarnigor@gmail.com already exists
+2023-07-14 17:17:20 info: [0mPOST /admin [33m409[0m 5.791 ms - 58[0m
+2023-07-14 17:17:44 info: [0mPOST /products [33m403[0m 3.472 ms - 50[0m
+2023-07-14 17:18:14 info: =================================
+2023-07-14 17:18:14 info: ======= ENV: development =======
+2023-07-14 17:18:14 info: 🚀 App listening on the port 3000
+2023-07-14 17:18:14 info: =================================
+2023-07-14 17:18:14 error: [POST] /products >> StatusCode:: 400, Message:: name should not be empty,name must be a string, price should not be empty,price must be a number string, delivryInfo should not be empty,delivryInfo must be a string, description should not be empty,description must be a string
+2023-07-14 17:18:15 info: [0mPOST /products [33m400[0m 23.388 ms - 241[0m
+2023-07-14 17:18:45 error: [POST] /products >> StatusCode:: 409, Message:: This name asasassdsdsdыsdsdsjkljdsds already exists
+2023-07-14 17:18:45 info: [0mPOST /products [33m409[0m 22.551 ms - 66[0m
+2023-07-14 17:18:50 info: [0mPOST /products [32m201[0m 31.532 ms - 358[0m
+2023-07-14 17:18:54 error: [POST] /products >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 17:18:54 info: [0mPOST /products [31m500[0m 2.260 ms - 34[0m
+2023-07-14 17:19:32 error: [DELETE] /products/64b1163e32a6be1c1dbdbcb1 >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 17:19:32 info: [0mDELETE /products/64b1163e32a6be1c1dbdbcb1 [31m500[0m 1.908 ms - 34[0m
+2023-07-14 17:19:34 error: [DELETE] /products/64b1163e32a6be1c1dbdbcb1 >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 17:19:34 info: [0mDELETE /products/64b1163e32a6be1c1dbdbcb1 [31m500[0m 3.950 ms - 34[0m
+2023-07-14 17:20:17 info: =================================
+2023-07-14 17:20:17 info: ======= ENV: development =======
+2023-07-14 17:20:17 info: 🚀 App listening on the port 3000
+2023-07-14 17:20:17 info: =================================
+2023-07-14 17:24:46 info: =================================
+2023-07-14 17:24:46 info: ======= ENV: development =======
+2023-07-14 17:24:46 info: 🚀 App listening on the port 3000
+2023-07-14 17:24:46 info: =================================
+2023-07-14 17:27:13 info: =================================
+2023-07-14 17:27:13 info: ======= ENV: development =======
+2023-07-14 17:27:13 info: 🚀 App listening on the port 3000
+2023-07-14 17:27:13 info: =================================
+2023-07-14 17:31:34 info: =================================
+2023-07-14 17:31:34 info: ======= ENV: development =======
+2023-07-14 17:31:34 info: 🚀 App listening on the port 3000
+2023-07-14 17:31:34 info: =================================
+2023-07-14 17:32:30 info: =================================
+2023-07-14 17:32:30 info: ======= ENV: development =======
+2023-07-14 17:32:30 info: 🚀 App listening on the port 3000
+2023-07-14 17:32:30 info: =================================
+2023-07-14 17:33:10 info: =================================
+2023-07-14 17:33:10 info: ======= ENV: development =======
+2023-07-14 17:33:10 info: 🚀 App listening on the port 3000
+2023-07-14 17:33:10 info: =================================
+2023-07-14 17:40:00 info: =================================
+2023-07-14 17:40:00 info: ======= ENV: development =======
+2023-07-14 17:40:00 info: 🚀 App listening on the port 3000
+2023-07-14 17:40:00 info: =================================
+2023-07-14 17:42:31 info: =================================
+2023-07-14 17:42:31 info: ======= ENV: development =======
+2023-07-14 17:42:31 info: 🚀 App listening on the port 3000
+2023-07-14 17:42:31 info: =================================
+2023-07-14 17:42:36 info: =================================
+2023-07-14 17:42:36 info: ======= ENV: development =======
+2023-07-14 17:42:36 info: 🚀 App listening on the port 3000
+2023-07-14 17:42:36 info: =================================
+2023-07-14 17:44:27 info: =================================
+2023-07-14 17:44:27 info: ======= ENV: development =======
+2023-07-14 17:44:27 info: 🚀 App listening on the port 3000
+2023-07-14 17:44:27 info: =================================
+2023-07-14 17:44:54 info: =================================
+2023-07-14 17:44:54 info: ======= ENV: development =======
+2023-07-14 17:44:54 info: 🚀 App listening on the port 3000
+2023-07-14 17:44:54 info: =================================
+2023-07-14 17:45:08 info: =================================
+2023-07-14 17:45:08 info: ======= ENV: development =======
+2023-07-14 17:45:08 info: 🚀 App listening on the port 3000
+2023-07-14 17:45:08 info: =================================
+2023-07-14 17:46:02 info: =================================
+2023-07-14 17:46:02 info: ======= ENV: development =======
+2023-07-14 17:46:02 info: 🚀 App listening on the port 3000
+2023-07-14 17:46:02 info: =================================
+2023-07-14 17:46:15 info: =================================
+2023-07-14 17:46:15 info: ======= ENV: development =======
+2023-07-14 17:46:15 info: 🚀 App listening on the port 3000
+2023-07-14 17:46:15 info: =================================
+2023-07-14 17:46:40 info: =================================
+2023-07-14 17:46:40 info: ======= ENV: development =======
+2023-07-14 17:46:40 info: 🚀 App listening on the port 3000
+2023-07-14 17:46:40 info: =================================
+2023-07-14 17:47:48 info: =================================
+2023-07-14 17:47:48 info: ======= ENV: development =======
+2023-07-14 17:47:48 info: 🚀 App listening on the port 3000
+2023-07-14 17:47:48 info: =================================
+2023-07-14 17:50:05 info: =================================
+2023-07-14 17:50:05 info: ======= ENV: development =======
+2023-07-14 17:50:05 info: 🚀 App listening on the port 3000
+2023-07-14 17:50:05 info: =================================
+2023-07-14 17:50:19 info: =================================
+2023-07-14 17:50:19 info: ======= ENV: development =======
+2023-07-14 17:50:19 info: 🚀 App listening on the port 3000
+2023-07-14 17:50:19 info: =================================
+2023-07-14 17:50:23 info: =================================
+2023-07-14 17:50:23 info: ======= ENV: development =======
+2023-07-14 17:50:23 info: 🚀 App listening on the port 3000
+2023-07-14 17:50:23 info: =================================
+2023-07-14 17:51:19 info: =================================
+2023-07-14 17:51:19 info: ======= ENV: development =======
+2023-07-14 17:51:19 info: 🚀 App listening on the port 3000
+2023-07-14 17:51:19 info: =================================
+2023-07-14 17:51:36 info: =================================
+2023-07-14 17:51:36 info: ======= ENV: development =======
+2023-07-14 17:51:36 info: 🚀 App listening on the port 3000
+2023-07-14 17:51:36 info: =================================
+2023-07-14 20:37:49 info: =================================
+2023-07-14 20:37:49 info: ======= ENV: development =======
+2023-07-14 20:37:49 info: 🚀 App listening on the port 3000
+2023-07-14 20:37:49 info: =================================
+2023-07-14 20:38:33 info: =================================
+2023-07-14 20:38:33 info: ======= ENV: development =======
+2023-07-14 20:38:33 info: 🚀 App listening on the port 3000
+2023-07-14 20:38:33 info: =================================
+2023-07-14 20:40:20 info: =================================
+2023-07-14 20:40:20 info: ======= ENV: development =======
+2023-07-14 20:40:20 info: 🚀 App listening on the port 3000
+2023-07-14 20:40:20 info: =================================
+2023-07-14 20:41:00 info: =================================
+2023-07-14 20:41:00 info: ======= ENV: development =======
+2023-07-14 20:41:00 info: 🚀 App listening on the port 3000
+2023-07-14 20:41:00 info: =================================
+2023-07-14 20:41:23 info: =================================
+2023-07-14 20:41:23 info: ======= ENV: development =======
+2023-07-14 20:41:23 info: 🚀 App listening on the port 3000
+2023-07-14 20:41:23 info: =================================
+2023-07-14 20:43:35 info: [0mGET /favorite [32m200[0m 40.785 ms - 31[0m
+2023-07-14 20:46:02 error: [POST] /favorite >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 20:46:02 info: [0mPOST /favorite [31m500[0m 30.982 ms - 34[0m
+2023-07-14 20:46:53 error: [POST] /favorite >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 20:46:53 info: [0mPOST /favorite [31m500[0m 6.460 ms - 34[0m
+2023-07-14 20:47:15 info: =================================
+2023-07-14 20:47:15 info: ======= ENV: development =======
+2023-07-14 20:47:15 info: 🚀 App listening on the port 3000
+2023-07-14 20:47:15 info: =================================
+2023-07-14 20:47:15 error: [POST] /favorite >> StatusCode:: 400, Message:: name should not be empty,name must be a string
+2023-07-14 20:47:15 info: [0mPOST /favorite [33m400[0m 31.095 ms - 60[0m
+2023-07-14 20:50:51 info: =================================
+2023-07-14 20:50:51 info: ======= ENV: development =======
+2023-07-14 20:50:51 info: 🚀 App listening on the port 3000
+2023-07-14 20:50:51 info: =================================
+2023-07-14 20:51:13 info: =================================
+2023-07-14 20:51:13 info: ======= ENV: development =======
+2023-07-14 20:51:13 info: 🚀 App listening on the port 3000
+2023-07-14 20:51:13 info: =================================
+2023-07-14 20:52:41 info: =================================
+2023-07-14 20:52:41 info: ======= ENV: development =======
+2023-07-14 20:52:41 info: 🚀 App listening on the port 3000
+2023-07-14 20:52:41 info: =================================
+2023-07-14 20:52:50 error: [POST] /favorite >> StatusCode:: 400, Message:: name should not be empty,name must be a string
+2023-07-14 20:52:50 info: [0mPOST /favorite [33m400[0m 32.748 ms - 60[0m
+2023-07-14 20:52:52 error: [POST] /favorite >> StatusCode:: 400, Message:: name should not be empty,name must be a string
+2023-07-14 20:52:52 info: [0mPOST /favorite [33m400[0m 7.650 ms - 60[0m
+2023-07-14 20:53:36 info: =================================
+2023-07-14 20:53:36 info: ======= ENV: development =======
+2023-07-14 20:53:36 info: 🚀 App listening on the port 3000
+2023-07-14 20:53:36 info: =================================
+2023-07-14 20:54:02 info: =================================
+2023-07-14 20:54:02 info: ======= ENV: development =======
+2023-07-14 20:54:02 info: 🚀 App listening on the port 3000
+2023-07-14 20:54:02 info: =================================
+2023-07-14 20:54:06 error: [POST] /favorite >> StatusCode:: 400, Message:: productID should not be empty,productID must be a string
+2023-07-14 20:54:06 info: [0mPOST /favorite [33m400[0m 20.914 ms - 70[0m
+2023-07-14 20:54:28 info: [0mPOST /favorite [32m201[0m 79.442 ms - 224[0m
+2023-07-14 20:54:50 error: [GET] /favorite >> StatusCode:: 500, Message:: Cannot populate path `peoductID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-14 20:54:50 info: [0mGET /favorite [31m500[0m 22.653 ms - 134[0m
+2023-07-14 20:55:03 error: [GET] /favorite >> StatusCode:: 500, Message:: Cannot populate path `peoductID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-14 20:55:03 info: [0mGET /favorite [31m500[0m 13.915 ms - 134[0m
+2023-07-14 20:55:31 info: =================================
+2023-07-14 20:55:31 info: ======= ENV: development =======
+2023-07-14 20:55:31 info: 🚀 App listening on the port 3000
+2023-07-14 20:55:31 info: =================================
+2023-07-14 20:55:35 error: [GET] /favorite >> StatusCode:: 500, Message:: Cannot populate path `peoductID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-14 20:55:36 info: [0mGET /favorite [31m500[0m 70.618 ms - 134[0m
+2023-07-14 20:55:38 error: [GET] /favorite >> StatusCode:: 500, Message:: Cannot populate path `peoductID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-14 20:55:38 info: [0mGET /favorite [31m500[0m 23.575 ms - 134[0m
+2023-07-14 20:56:43 info: [0mPOST /favorite [32m201[0m 56.151 ms - 224[0m
+2023-07-14 20:56:49 error: [GET] /favorite >> StatusCode:: 500, Message:: Cannot populate path `peoductID` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2023-07-14 20:56:49 info: [0mGET /favorite [31m500[0m 16.001 ms - 134[0m
+2023-07-14 20:57:26 info: =================================
+2023-07-14 20:57:26 info: ======= ENV: development =======
+2023-07-14 20:57:26 info: 🚀 App listening on the port 3000
+2023-07-14 20:57:26 info: =================================
+2023-07-14 20:57:28 info: [0mGET /favorite [32m200[0m 37.861 ms - 266[0m
+2023-07-14 20:58:29 info: =================================
+2023-07-14 20:58:29 info: ======= ENV: development =======
+2023-07-14 20:58:29 info: 🚀 App listening on the port 3000
+2023-07-14 20:58:29 info: =================================
+2023-07-14 20:58:36 info: =================================
+2023-07-14 20:58:36 info: ======= ENV: development =======
+2023-07-14 20:58:36 info: 🚀 App listening on the port 3000
+2023-07-14 20:58:36 info: =================================
+2023-07-14 20:58:39 info: [0mGET /favorite [32m200[0m 68.823 ms - 297[0m
+2023-07-14 21:00:06 info: =================================
+2023-07-14 21:00:06 info: ======= ENV: development =======
+2023-07-14 21:00:06 info: 🚀 App listening on the port 3000
+2023-07-14 21:00:06 info: =================================
+2023-07-14 21:01:08 info: =================================
+2023-07-14 21:01:08 info: ======= ENV: development =======
+2023-07-14 21:01:08 info: 🚀 App listening on the port 3000
+2023-07-14 21:01:08 info: =================================
+2023-07-14 21:01:29 info: =================================
+2023-07-14 21:01:29 info: ======= ENV: development =======
+2023-07-14 21:01:29 info: 🚀 App listening on the port 3000
+2023-07-14 21:01:29 info: =================================
+2023-07-14 21:02:01 info: =================================
+2023-07-14 21:02:01 info: ======= ENV: development =======
+2023-07-14 21:02:01 info: 🚀 App listening on the port 3000
+2023-07-14 21:02:01 info: =================================
+2023-07-14 21:02:22 info: =================================
+2023-07-14 21:02:22 info: ======= ENV: development =======
+2023-07-14 21:02:22 info: 🚀 App listening on the port 3000
+2023-07-14 21:02:22 info: =================================
+2023-07-14 21:02:36 info: =================================
+2023-07-14 21:02:36 info: ======= ENV: development =======
+2023-07-14 21:02:36 info: 🚀 App listening on the port 3000
+2023-07-14 21:02:36 info: =================================
+2023-07-14 21:03:44 info: =================================
+2023-07-14 21:03:44 info: ======= ENV: development =======
+2023-07-14 21:03:44 info: 🚀 App listening on the port 3000
+2023-07-14 21:03:44 info: =================================
+2023-07-14 21:14:35 info: [0mGET / [33m404[0m 6.471 ms - 139[0m
+2023-07-14 21:21:46 info: [0mDELETE /favorite/64b1703b4055c9b61d622da2 [32m200[0m 70.280 ms - 224[0m
+2023-07-14 23:49:39 info: =================================
+2023-07-14 23:49:39 info: ======= ENV: development =======
+2023-07-14 23:49:39 info: 🚀 App listening on the port 3000
+2023-07-14 23:49:39 info: =================================
+2023-07-14 23:56:30 info: =================================
+2023-07-14 23:56:30 info: ======= ENV: development =======
+2023-07-14 23:56:30 info: 🚀 App listening on the port 3000
+2023-07-14 23:56:30 info: =================================
+2023-07-14 23:56:42 error: [POST] /products >> StatusCode:: 500, Message:: jwt must be provided
+2023-07-14 23:56:42 info: [0mPOST /products [31m500[0m 23.162 ms - 34[0m
+2023-07-14 23:56:52 info: [0mPOST /admin [32m201[0m 218.489 ms - 175[0m
+2023-07-14 23:57:22 error: [POST] /products >> StatusCode:: 400, Message:: files should not be empty,files must be a string, favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:57:22 info: [0mPOST /products [33m400[0m 49.392 ms - 158[0m
+2023-07-14 23:58:14 info: =================================
+2023-07-14 23:58:14 info: ======= ENV: development =======
+2023-07-14 23:58:14 info: 🚀 App listening on the port 3000
+2023-07-14 23:58:14 info: =================================
+2023-07-14 23:58:30 error: [POST] /products >> StatusCode:: 400, Message:: files should not be empty,files must be a string, favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:58:30 info: [0mPOST /products [33m400[0m 33.636 ms - 158[0m
+2023-07-14 23:58:39 error: [POST] /products >> StatusCode:: 400, Message:: files should not be empty,files must be a string, favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:58:39 info: [0mPOST /products [33m400[0m 13.083 ms - 158[0m
+2023-07-14 23:58:40 error: [POST] /products >> StatusCode:: 400, Message:: files should not be empty,files must be a string, favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:58:40 info: [0mPOST /products [33m400[0m 13.220 ms - 158[0m
+2023-07-14 23:59:02 info: =================================
+2023-07-14 23:59:02 info: ======= ENV: development =======
+2023-07-14 23:59:02 info: 🚀 App listening on the port 3000
+2023-07-14 23:59:02 info: =================================
+2023-07-14 23:59:03 error: [POST] /products >> StatusCode:: 400, Message:: files should not be empty,files must be an array, favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:59:03 info: [0mPOST /products [33m400[0m 39.071 ms - 158[0m
+2023-07-14 23:59:26 info: =================================
+2023-07-14 23:59:26 info: ======= ENV: development =======
+2023-07-14 23:59:26 info: 🚀 App listening on the port 3000
+2023-07-14 23:59:26 info: =================================
+2023-07-14 23:59:28 error: [POST] /products >> StatusCode:: 400, Message:: files should not be empty, favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:59:28 info: [0mPOST /products [33m400[0m 32.542 ms - 135[0m
+2023-07-14 23:59:43 info: =================================
+2023-07-14 23:59:43 info: ======= ENV: development =======
+2023-07-14 23:59:43 info: 🚀 App listening on the port 3000
+2023-07-14 23:59:43 info: =================================
+2023-07-14 23:59:45 error: [POST] /products >> StatusCode:: 400, Message:: favorite should not be empty,favorite must be a number conforming to the specified constraints
+2023-07-14 23:59:45 info: [0mPOST /products [33m400[0m 74.570 ms - 108[0m
+2023-07-14 23:59:57 info: =================================
+2023-07-14 23:59:57 info: ======= ENV: development =======
+2023-07-14 23:59:57 info: 🚀 App listening on the port 3000
+2023-07-14 23:59:57 info: =================================
+2023-07-14 23:59:59 info: [0mPOST /products [32m201[0m 62.271 ms - 334[0m

@@ -1,0 +1,320 @@
+2023-07-11 14:53:51 info: =================================
+2023-07-11 14:53:51 info: ======= ENV: development =======
+2023-07-11 14:53:51 info: 🚀 App listening on the port 3000
+2023-07-11 14:53:51 info: =================================
+2023-07-11 14:54:05 error: [POST] /users >> StatusCode:: 409, Message:: This email 121323fff213@gmai1.com already exists
+2023-07-11 14:54:05 info: [0mPOST /users [33m409[0m 102.396 ms - 62[0m
+2023-07-11 14:54:30 error: [POST] /users >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-11 14:54:30 info: [0mPOST /users [33m400[0m 5.060 ms - 67[0m
+2023-07-11 14:54:38 info: [0mPOST /users [32m201[0m 123.457 ms - 325[0m
+2023-07-11 14:54:43 info: [0mGET /images/images.png [33m404[0m 1.414 ms - 156[0m
+2023-07-11 14:55:15 info: =================================
+2023-07-11 14:55:15 info: ======= ENV: development =======
+2023-07-11 14:55:15 info: 🚀 App listening on the port 3000
+2023-07-11 14:55:15 info: =================================
+2023-07-11 14:55:17 info: [0mGET /images/images.png [32m200[0m 5.795 ms - 1845[0m
+2023-07-11 14:55:33 info: =================================
+2023-07-11 14:55:33 info: ======= ENV: development =======
+2023-07-11 14:55:33 info: 🚀 App listening on the port 3000
+2023-07-11 14:55:33 info: =================================
+2023-07-11 14:55:33 info: [0mGET /images/images.png [33m404[0m 4.897 ms - 156[0m
+2023-07-11 14:55:52 info: =================================
+2023-07-11 14:55:52 info: ======= ENV: development =======
+2023-07-11 14:55:52 info: 🚀 App listening on the port 3000
+2023-07-11 14:55:52 info: =================================
+2023-07-11 14:55:52 info: [0mGET /images/images.png [32m200[0m 8.848 ms - 1845[0m
+2023-07-11 14:56:11 info: =================================
+2023-07-11 14:56:11 info: ======= ENV: development =======
+2023-07-11 14:56:11 info: 🚀 App listening on the port 3000
+2023-07-11 14:56:11 info: =================================
+2023-07-11 14:56:12 info: [0mGET /images/images.png [33m404[0m 3.943 ms - 156[0m
+2023-07-11 14:56:27 info: =================================
+2023-07-11 14:56:27 info: ======= ENV: development =======
+2023-07-11 14:56:27 info: 🚀 App listening on the port 3000
+2023-07-11 14:56:27 info: =================================
+2023-07-11 14:56:36 info: =================================
+2023-07-11 14:56:36 info: ======= ENV: development =======
+2023-07-11 14:56:36 info: 🚀 App listening on the port 3000
+2023-07-11 14:56:36 info: =================================
+2023-07-11 14:56:40 info: [0mPOST /users [32m201[0m 117.351 ms - 319[0m
+2023-07-11 14:56:56 info: =================================
+2023-07-11 14:56:56 info: ======= ENV: development =======
+2023-07-11 14:56:56 info: 🚀 App listening on the port 3000
+2023-07-11 14:56:56 info: =================================
+2023-07-11 14:56:59 info: [0mPOST /users [32m201[0m 112.669 ms - 322[0m
+2023-07-11 14:57:03 info: [0mGET /images.png [33m404[0m 3.840 ms - 149[0m
+2023-07-11 14:57:16 info: =================================
+2023-07-11 14:57:16 info: ======= ENV: development =======
+2023-07-11 14:57:16 info: 🚀 App listening on the port 3000
+2023-07-11 14:57:16 info: =================================
+2023-07-11 14:57:16 info: [0mGET /images.png [33m404[0m 4.349 ms - 149[0m
+2023-07-11 14:57:17 info: [0mGET /images.png [33m404[0m 0.941 ms - 149[0m
+2023-07-11 14:57:35 info: =================================
+2023-07-11 14:57:35 info: ======= ENV: development =======
+2023-07-11 14:57:35 info: 🚀 App listening on the port 3000
+2023-07-11 14:57:35 info: =================================
+2023-07-11 14:57:40 info: =================================
+2023-07-11 14:57:40 info: ======= ENV: development =======
+2023-07-11 14:57:40 info: 🚀 App listening on the port 3000
+2023-07-11 14:57:40 info: =================================
+2023-07-11 14:57:43 info: [0mGET /images.png [33m404[0m 5.085 ms - 149[0m
+2023-07-11 14:57:50 info: =================================
+2023-07-11 14:57:50 info: ======= ENV: development =======
+2023-07-11 14:57:50 info: 🚀 App listening on the port 3000
+2023-07-11 14:57:50 info: =================================
+2023-07-11 14:57:55 info: [0mPOST /users [32m201[0m 121.682 ms - 331[0m
+2023-07-11 14:57:58 info: [0mGET /images/images.png [32m200[0m 4.026 ms - 1845[0m
+2023-07-11 14:59:44 info: =================================
+2023-07-11 14:59:44 info: ======= ENV: development =======
+2023-07-11 14:59:44 info: 🚀 App listening on the port 3000
+2023-07-11 14:59:44 info: =================================
+2023-07-11 15:01:30 info: =================================
+2023-07-11 15:01:30 info: ======= ENV: development =======
+2023-07-11 15:01:30 info: 🚀 App listening on the port 3000
+2023-07-11 15:01:30 info: =================================
+2023-07-11 15:01:44 info: =================================
+2023-07-11 15:01:44 info: ======= ENV: development =======
+2023-07-11 15:01:44 info: 🚀 App listening on the port 3000
+2023-07-11 15:01:44 info: =================================
+2023-07-11 15:05:36 info: =================================
+2023-07-11 15:05:36 info: ======= ENV: development =======
+2023-07-11 15:05:36 info: 🚀 App listening on the port 3000
+2023-07-11 15:05:36 info: =================================
+2023-07-11 15:09:12 info: =================================
+2023-07-11 15:09:12 info: ======= ENV: development =======
+2023-07-11 15:09:12 info: 🚀 App listening on the port 3000
+2023-07-11 15:09:12 info: =================================
+2023-07-11 15:09:50 info: =================================
+2023-07-11 15:09:50 info: ======= ENV: development =======
+2023-07-11 15:09:50 info: 🚀 App listening on the port 3000
+2023-07-11 15:09:50 info: =================================
+2023-07-11 15:18:06 info: =================================
+2023-07-11 15:18:06 info: ======= ENV: development =======
+2023-07-11 15:18:06 info: 🚀 App listening on the port 3000
+2023-07-11 15:18:06 info: =================================
+2023-07-11 15:19:35 info: =================================
+2023-07-11 15:19:35 info: ======= ENV: development =======
+2023-07-11 15:19:35 info: 🚀 App listening on the port 3000
+2023-07-11 15:19:35 info: =================================
+2023-07-11 15:19:42 error: [POST] /users >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'slice')
+2023-07-11 15:19:42 info: [0mPOST /users [31m500[0m 36.751 ms - 67[0m
+2023-07-11 15:20:41 info: =================================
+2023-07-11 15:20:41 info: ======= ENV: development =======
+2023-07-11 15:20:41 info: 🚀 App listening on the port 3000
+2023-07-11 15:20:41 info: =================================
+2023-07-11 15:20:45 error: [POST] /users >> StatusCode:: 500, Message:: User validation failed: passwordSendEmail: Path `passwordSendEmail` is required.
+2023-07-11 15:20:45 info: [0mPOST /users [31m500[0m 120.709 ms - 94[0m
+2023-07-11 15:22:14 info: =================================
+2023-07-11 15:22:14 info: ======= ENV: development =======
+2023-07-11 15:22:14 info: 🚀 App listening on the port 3000
+2023-07-11 15:22:14 info: =================================
+2023-07-11 15:22:17 info: =================================
+2023-07-11 15:22:17 info: ======= ENV: development =======
+2023-07-11 15:22:17 info: 🚀 App listening on the port 3000
+2023-07-11 15:22:17 info: =================================
+2023-07-11 15:22:19 info: =================================
+2023-07-11 15:22:19 info: ======= ENV: development =======
+2023-07-11 15:22:19 info: 🚀 App listening on the port 3000
+2023-07-11 15:22:19 info: =================================
+2023-07-11 15:22:20 error: [POST] /users >> StatusCode:: 500, Message:: E11000 duplicate key error collection: Food.users index: phone_1 dup key: { phone: 908997591 }
+2023-07-11 15:22:20 info: [0mPOST /users [31m500[0m 133.051 ms - 108[0m
+2023-07-11 15:23:23 info: =================================
+2023-07-11 15:23:23 info: ======= ENV: development =======
+2023-07-11 15:23:23 info: 🚀 App listening on the port 3000
+2023-07-11 15:23:23 info: =================================
+2023-07-11 15:23:23 info: [0mPOST /users [32m201[0m 123.508 ms - 333[0m
+2023-07-11 15:24:27 info: =================================
+2023-07-11 15:24:27 info: ======= ENV: development =======
+2023-07-11 15:24:27 info: 🚀 App listening on the port 3000
+2023-07-11 15:24:27 info: =================================
+2023-07-11 15:24:36 error: [POST] /users >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 9 characters
+2023-07-11 15:24:36 info: [0mPOST /users [33m400[0m 20.082 ms - 117[0m
+2023-07-11 15:24:44 error: [POST] /users >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 9 characters
+2023-07-11 15:24:44 info: [0mPOST /users [33m400[0m 8.130 ms - 117[0m
+2023-07-11 15:24:53 info: =================================
+2023-07-11 15:24:53 info: ======= ENV: development =======
+2023-07-11 15:24:53 info: 🚀 App listening on the port 3000
+2023-07-11 15:24:53 info: =================================
+2023-07-11 15:25:01 info: =================================
+2023-07-11 15:25:01 info: ======= ENV: development =======
+2023-07-11 15:25:01 info: 🚀 App listening on the port 3000
+2023-07-11 15:25:01 info: =================================
+2023-07-11 15:25:03 error: [POST] /users >> StatusCode:: 400, Message:: phone must be longer than or equal to 9 characters
+2023-07-11 15:25:03 info: [0mPOST /users [33m400[0m 23.028 ms - 64[0m
+2023-07-11 15:25:16 info: =================================
+2023-07-11 15:25:16 info: ======= ENV: development =======
+2023-07-11 15:25:16 info: 🚀 App listening on the port 3000
+2023-07-11 15:25:16 info: =================================
+2023-07-11 15:25:23 info: [0mPOST /users [32m201[0m 123.499 ms - 341[0m
+2023-07-11 15:25:26 info: [0mGET /images/images.png [32m200[0m 6.805 ms - 1845[0m
+2023-07-11 15:29:14 info: =================================
+2023-07-11 15:29:14 info: ======= ENV: development =======
+2023-07-11 15:29:14 info: 🚀 App listening on the port 3000
+2023-07-11 15:29:14 info: =================================
+2023-07-11 15:29:25 info: =================================
+2023-07-11 15:29:25 info: ======= ENV: development =======
+2023-07-11 15:29:25 info: 🚀 App listening on the port 3000
+2023-07-11 15:29:25 info: =================================
+2023-07-11 15:29:28 info: =================================
+2023-07-11 15:29:28 info: ======= ENV: development =======
+2023-07-11 15:29:28 info: 🚀 App listening on the port 3000
+2023-07-11 15:29:28 info: =================================
+2023-07-11 15:30:12 info: =================================
+2023-07-11 15:30:12 info: ======= ENV: development =======
+2023-07-11 15:30:12 info: 🚀 App listening on the port 3000
+2023-07-11 15:30:12 info: =================================
+2023-07-11 15:30:27 info: =================================
+2023-07-11 15:30:27 info: ======= ENV: development =======
+2023-07-11 15:30:27 info: 🚀 App listening on the port 3000
+2023-07-11 15:30:27 info: =================================
+2023-07-11 15:30:34 error: [POST] /users >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:30:34 info: [0mPOST /users [33m400[0m 24.290 ms - 88[0m
+2023-07-11 15:31:27 error: [POST] /users >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmai1.com already exists
+2023-07-11 15:31:27 info: [0mPOST /users [33m409[0m 27.963 ms - 70[0m
+2023-07-11 15:34:06 info: =================================
+2023-07-11 15:34:06 info: ======= ENV: development =======
+2023-07-11 15:34:06 info: 🚀 App listening on the port 3000
+2023-07-11 15:34:06 info: =================================
+2023-07-11 15:34:31 error: [POST] /users >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:34:31 info: [0mPOST /users [33m400[0m 25.299 ms - 88[0m
+2023-07-11 15:34:43 info: [0mPOST /users [32m201[0m 110.819 ms - 364[0m
+2023-07-11 15:38:03 info: =================================
+2023-07-11 15:38:03 info: ======= ENV: development =======
+2023-07-11 15:38:03 info: 🚀 App listening on the port 3000
+2023-07-11 15:38:03 info: =================================
+2023-07-11 15:38:13 info: =================================
+2023-07-11 15:38:13 info: ======= ENV: development =======
+2023-07-11 15:38:13 info: 🚀 App listening on the port 3000
+2023-07-11 15:38:13 info: =================================
+2023-07-11 15:38:22 error: [POST] /users >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:38:22 info: [0mPOST /users [33m400[0m 19.021 ms - 88[0m
+2023-07-11 15:38:27 error: [POST] /users >> StatusCode:: 500, Message:: User validation failed: passwordSendEmail: Path `passwordSendEmail` is required.
+2023-07-11 15:38:27 info: [0mPOST /users [31m500[0m 89.133 ms - 94[0m
+2023-07-11 15:38:50 info: =================================
+2023-07-11 15:38:50 info: ======= ENV: development =======
+2023-07-11 15:38:50 info: 🚀 App listening on the port 3000
+2023-07-11 15:38:50 info: =================================
+2023-07-11 15:38:50 info: [0mPOST /users [32m201[0m 143.336 ms - 364[0m
+2023-07-11 15:40:18 info: =================================
+2023-07-11 15:40:18 info: ======= ENV: development =======
+2023-07-11 15:40:18 info: 🚀 App listening on the port 3000
+2023-07-11 15:40:18 info: =================================
+2023-07-11 15:49:32 info: [0mPUT /users [33m404[0m 4.725 ms - 144[0m
+2023-07-11 15:49:50 error: [PUT] /users/64ad313a8fe83ffc27c36ec6 >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, email must be an email, phone should not be empty,phone must be a number conforming to the specified constraints, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string, passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:49:50 info: [0mPUT /users/64ad313a8fe83ffc27c36ec6 [33m400[0m 7.312 ms - 424[0m
+2023-07-11 15:50:04 error: [PUT] /users/64ad313a8fe83ffc27c36ec6 >> StatusCode:: 400, Message:: Unexpected token } in JSON at position 148
+2023-07-11 15:50:04 info: [0mPUT /users/64ad313a8fe83ffc27c36ec6 [33m400[0m 18.515 ms - 56[0m
+2023-07-11 15:50:12 error: [PUT] /users/64ad313a8fe83ffc27c36ec6 >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:50:12 info: [0mPUT /users/64ad313a8fe83ffc27c36ec6 [33m400[0m 7.505 ms - 88[0m
+2023-07-11 15:50:49 info: =================================
+2023-07-11 15:50:49 info: ======= ENV: development =======
+2023-07-11 15:50:49 info: 🚀 App listening on the port 3000
+2023-07-11 15:50:49 info: =================================
+2023-07-11 15:51:01 info: =================================
+2023-07-11 15:51:01 info: ======= ENV: development =======
+2023-07-11 15:51:01 info: 🚀 App listening on the port 3000
+2023-07-11 15:51:01 info: =================================
+2023-07-11 15:51:02 error: [PUT] /users/64ad313a8fe83ffc27c36ec6 >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:51:02 info: [0mPUT /users/64ad313a8fe83ffc27c36ec6 [33m400[0m 19.394 ms - 88[0m
+2023-07-11 15:51:28 error: [PUT] /users/64ad313a8fe83ffc27c36ec6 >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:51:28 info: [0mPUT /users/64ad313a8fe83ffc27c36ec6 [33m400[0m 7.078 ms - 88[0m
+2023-07-11 15:52:13 info: =================================
+2023-07-11 15:52:13 info: ======= ENV: development =======
+2023-07-11 15:52:13 info: 🚀 App listening on the port 3000
+2023-07-11 15:52:13 info: =================================
+2023-07-11 15:52:14 error: [PUT] /users/64ad313a8fe83ffc27c36ec6 >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:52:14 info: [0mPUT /users/64ad313a8fe83ffc27c36ec6 [33m400[0m 22.457 ms - 88[0m
+2023-07-11 15:53:57 info: =================================
+2023-07-11 15:53:57 info: ======= ENV: development =======
+2023-07-11 15:53:57 info: 🚀 App listening on the port 3000
+2023-07-11 15:53:57 info: =================================
+2023-07-11 15:58:17 info: =================================
+2023-07-11 15:58:17 info: ======= ENV: development =======
+2023-07-11 15:58:17 info: 🚀 App listening on the port 3000
+2023-07-11 15:58:17 info: =================================
+2023-07-11 15:58:34 error: [POST] /users >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:58:34 info: [0mPOST /users [33m400[0m 20.992 ms - 88[0m
+2023-07-11 15:58:42 info: =================================
+2023-07-11 15:58:42 info: ======= ENV: development =======
+2023-07-11 15:58:42 info: 🚀 App listening on the port 3000
+2023-07-11 15:58:42 info: =================================
+2023-07-11 15:58:44 info: [0mPOST /users [32m201[0m 23.623 ms - 21[0m
+2023-07-11 15:59:31 info: =================================
+2023-07-11 15:59:31 info: ======= ENV: development =======
+2023-07-11 15:59:31 info: 🚀 App listening on the port 3000
+2023-07-11 15:59:31 info: =================================
+2023-07-11 15:59:33 error: [POST] /users >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2023-07-11 15:59:33 info: [0mPOST /users [31m500[0m 25.710 ms - 3[0m
+2023-07-11 16:00:10 info: =================================
+2023-07-11 16:00:10 info: ======= ENV: development =======
+2023-07-11 16:00:10 info: 🚀 App listening on the port 3000
+2023-07-11 16:00:10 info: =================================
+2023-07-11 16:00:12 info: [0mGET /users [32m200[0m 12.047 ms - 31[0m
+2023-07-11 16:00:32 info: [0mPOST /users [32m201[0m 20.369 ms - 41[0m
+2023-07-11 16:00:35 info: [0mGET /users [32m200[0m 6.222 ms - 31[0m
+2023-07-11 16:02:16 info: =================================
+2023-07-11 16:02:16 info: ======= ENV: development =======
+2023-07-11 16:02:16 info: 🚀 App listening on the port 3000
+2023-07-11 16:02:16 info: =================================
+2023-07-11 16:02:19 info: [0mPOST /users [32m201[0m 19.387 ms - 45[0m
+2023-07-11 16:03:35 info: =================================
+2023-07-11 16:03:35 info: ======= ENV: development =======
+2023-07-11 16:03:35 info: 🚀 App listening on the port 3000
+2023-07-11 16:03:35 info: =================================
+2023-07-11 16:03:39 info: =================================
+2023-07-11 16:03:39 info: ======= ENV: development =======
+2023-07-11 16:03:39 info: 🚀 App listening on the port 3000
+2023-07-11 16:03:39 info: =================================
+2023-07-11 16:04:20 info: =================================
+2023-07-11 16:04:20 info: ======= ENV: development =======
+2023-07-11 16:04:20 info: 🚀 App listening on the port 3000
+2023-07-11 16:04:20 info: =================================
+2023-07-11 20:24:25 info: =================================
+2023-07-11 20:24:25 info: ======= ENV: development =======
+2023-07-11 20:24:25 info: 🚀 App listening on the port 3000
+2023-07-11 20:24:25 info: =================================
+2023-07-11 20:26:33 info: =================================
+2023-07-11 20:26:33 info: ======= ENV: development =======
+2023-07-11 20:26:33 info: 🚀 App listening on the port 3000
+2023-07-11 20:26:33 info: =================================
+2023-07-11 20:26:34 info: [0mPOST /users [32m201[0m 332.155 ms - 341[0m
+2023-07-11 20:27:50 info: =================================
+2023-07-11 20:27:50 info: ======= ENV: development =======
+2023-07-11 20:27:50 info: 🚀 App listening on the port 3000
+2023-07-11 20:27:50 info: =================================
+2023-07-11 20:27:55 info: =================================
+2023-07-11 20:27:55 info: ======= ENV: development =======
+2023-07-11 20:27:55 info: 🚀 App listening on the port 3000
+2023-07-11 20:27:55 info: =================================
+2023-07-11 20:27:57 info: [0mPOST /users [32m201[0m 135.752 ms - 316[0m
+2023-07-11 20:28:07 info: =================================
+2023-07-11 20:28:07 info: ======= ENV: development =======
+2023-07-11 20:28:07 info: 🚀 App listening on the port 3000
+2023-07-11 20:28:07 info: =================================
+2023-07-11 20:28:13 info: =================================
+2023-07-11 20:28:13 info: ======= ENV: development =======
+2023-07-11 20:28:13 info: 🚀 App listening on the port 3000
+2023-07-11 20:28:13 info: =================================
+2023-07-11 20:28:21 info: =================================
+2023-07-11 20:28:21 info: ======= ENV: development =======
+2023-07-11 20:28:21 info: 🚀 App listening on the port 3000
+2023-07-11 20:28:21 info: =================================
+2023-07-11 20:28:23 error: [POST] /users >> StatusCode:: 409, Message:: This email zarnigorochilovqa7591@gmai1.com already exists
+2023-07-11 20:28:23 info: [0mPOST /users [33m409[0m 40.451 ms - 71[0m
+2023-07-11 20:28:27 info: [0mPOST /users [32m201[0m 255.737 ms - 318[0m
+2023-07-11 21:07:02 info: =================================
+2023-07-11 21:07:02 info: ======= ENV: development =======
+2023-07-11 21:07:02 info: 🚀 App listening on the port 3000
+2023-07-11 21:07:02 info: =================================
+2023-07-11 21:07:11 info: =================================
+2023-07-11 21:07:11 info: ======= ENV: development =======
+2023-07-11 21:07:11 info: 🚀 App listening on the port 3000
+2023-07-11 21:07:11 info: =================================
+2023-07-11 21:07:16 info: =================================
+2023-07-11 21:07:16 info: ======= ENV: development =======
+2023-07-11 21:07:16 info: 🚀 App listening on the port 3000
+2023-07-11 21:07:16 info: =================================
+2023-07-11 21:07:25 info: =================================
+2023-07-11 21:07:25 info: ======= ENV: development =======
+2023-07-11 21:07:25 info: 🚀 App listening on the port 3000
+2023-07-11 21:07:25 info: =================================

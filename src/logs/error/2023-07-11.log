@@ -1,0 +1,214 @@
+2023-07-11 14:54:05 error: [POST] /users >> StatusCode:: 409, Message:: This email 121323fff213@gmai1.com already exists
+2023-07-11 14:54:30 error: [POST] /users >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2023-07-11 15:19:42 error: [POST] /users >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'slice')
+2023-07-11 15:20:45 error: [POST] /users >> StatusCode:: 500, Message:: User validation failed: passwordSendEmail: Path `passwordSendEmail` is required.
+2023-07-11 15:20:45 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 15:22:20 error: [POST] /users >> StatusCode:: 500, Message:: E11000 duplicate key error collection: Food.users index: phone_1 dup key: { phone: 908997591 }
+2023-07-11 15:22:21 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 15:23:24 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 15:24:36 error: [POST] /users >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 9 characters
+2023-07-11 15:24:44 error: [POST] /users >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 9 characters
+2023-07-11 15:25:03 error: [POST] /users >> StatusCode:: 400, Message:: phone must be longer than or equal to 9 characters
+2023-07-11 15:25:24 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 15:30:34 error: [POST] /users >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:31:27 error: [POST] /users >> StatusCode:: 409, Message:: This email zarnigorochilova7591@gmai1.com already exists
+2023-07-11 15:31:28 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 15:34:31 error: [POST] /users >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:34:44 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 15:38:22 error: [POST] /users >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:38:27 error: [POST] /users >> StatusCode:: 500, Message:: User validation failed: passwordSendEmail: Path `passwordSendEmail` is required.
+2023-07-11 15:38:28 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 15:38:50 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 15:49:50 error: [PUT] /users/64ad313a8fe83ffc27c36ec6 >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, email must be an email, phone should not be empty,phone must be a number conforming to the specified constraints, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string, passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:50:04 error: [PUT] /users/64ad313a8fe83ffc27c36ec6 >> StatusCode:: 400, Message:: Unexpected token } in JSON at position 148
+2023-07-11 15:50:12 error: [PUT] /users/64ad313a8fe83ffc27c36ec6 >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:51:02 error: [PUT] /users/64ad313a8fe83ffc27c36ec6 >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:51:28 error: [PUT] /users/64ad313a8fe83ffc27c36ec6 >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:52:14 error: [PUT] /users/64ad313a8fe83ffc27c36ec6 >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:58:34 error: [POST] /users >> StatusCode:: 400, Message:: passwordSendEmail must be a number conforming to the specified constraints
+2023-07-11 15:58:44 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 15:59:33 error: [POST] /users >> StatusCode:: 500, Message:: Cannot set headers after they are sent to the client
+2023-07-11 15:59:34 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 16:00:33 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 16:02:20 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 16:05:44 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 20:26:36 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 20:28:00 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-07-11 20:28:23 error: [POST] /users >> StatusCode:: 409, Message:: This email zarnigorochilovqa7591@gmai1.com already exists
+2023-07-11 20:28:24 error: uncaughtException: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+Error: Can't send mail - all recipients were rejected: 550 non-local recipient verification failed
+    at SMTPConnection._formatError (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:790:19)
+    at SMTPConnection._actionRCPT (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1654:28)
+    at SMTPConnection.<anonymous> (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:1607:30)
+    at SMTPConnection._processResponse (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:969:20)
+    at SMTPConnection._onData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:755:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\practice\Food-delivery-app\project\node_modules\nodemailer\lib\smtp-connection\index.js:193:44)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)

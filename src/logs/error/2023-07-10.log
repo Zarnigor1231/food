@@ -1,0 +1,61 @@
+2023-07-10 11:47:12 error: [POST] /users >> StatusCode:: 409, Message:: This email zarnigor@gmail.com already exists
+2023-07-10 11:47:20 error: [POST] /users >> StatusCode:: 500, Message:: E11000 duplicate key error collection: Food.users index: phone_1 dup key: { phone: null }
+2023-07-10 11:47:51 error: [POST] /users >> StatusCode:: 500, Message:: E11000 duplicate key error collection: Food.users index: phone_1 dup key: { phone: null }
+2023-07-10 11:48:10 error: [POST] /users >> StatusCode:: 500, Message:: E11000 duplicate key error collection: Food.users index: phone_1 dup key: { phone: null }
+2023-07-10 11:50:02 error: [POST] /users >> StatusCode:: 409, Message:: This email zarnigor1@gmail.com already exists
+2023-07-10 11:50:07 error: [POST] /users >> StatusCode:: 500, Message:: E11000 duplicate key error collection: Food.users index: phone_1 dup key: { phone: 1212121212 }
+2023-07-10 11:54:16 error: [POST] /users >> StatusCode:: 409, Message:: This email zarnigor12@gmail.com already exists
+2023-07-10 12:02:04 error: [PUT] /users/64abacad6f7216495d1768d7 >> StatusCode:: 400, Message:: email must be an email, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-10 12:03:24 error: [PUT] /users/64abacad6f7216495d1768d7 >> StatusCode:: 400, Message:: email must be an email, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-10 12:06:56 error: [PUT] /users/64abacad6f7216495d1768d7 >> StatusCode:: 409, Message:: This email zarnqigqor12q11@gmail.com already exists
+2023-07-10 12:48:14 error: [PUT] /users/64abacad6f7216495d1768d7 >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 7 characters,phone must be a string
+2023-07-10 12:48:25 error: [PUT] /users/64abacad6f7216495d1768d7 >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 7 characters,phone must be a string
+2023-07-10 12:48:54 error: [PUT] /users/64abacad6f7216495d1768d7 >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 9 characters,phone must be a string
+2023-07-10 12:49:04 error: [PUT] /users/64abacad6f7216495d1768d7 >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 9 characters,phone must be a string
+2023-07-10 12:49:14 error: [PUT] /users/64abacad6f7216495d1768d7 >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 9 characters,phone must be a string
+2023-07-10 12:49:30 error: [PUT] /users/64abacad6f7216495d1768d7 >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 9 characters,phone must be a string
+2023-07-10 12:49:54 error: [PUT] /users/64abacad6f7216495d1768d7 >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 9 characters
+2023-07-10 12:50:10 error: [PUT] /users/64abacad6f7216495d1768d7 >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 9 characters
+2023-07-10 12:51:10 error: [PUT] /users/64abacad6f7216495d1768d7 >> StatusCode:: 400, Message:: phone must be shorter than or equal to 13 characters,phone must be longer than or equal to 9 characters
+2023-07-10 13:34:16 error: [POST] /users >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'buffer')
+2023-07-10 13:34:27 error: [POST] /users >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'buffer')
+2023-07-10 13:39:43 error: [POST] /users >> StatusCode:: 409, Message:: This email zarnqigqor12q11s@gmail.com already exists
+2023-07-10 13:41:39 error: [POST] /users >> StatusCode:: 500, Message:: EISDIR: illegal operation on a directory, open 'D:\practice\Food-delivery-app\project\src\images'
+2023-07-10 13:45:55 error: uncaughtException: auth_route_1.AuthRoute is not a constructor
+TypeError: auth_route_1.AuthRoute is not a constructor
+    at Object.<anonymous> (D:\practice\Food-delivery-app\project\src\server.ts:8:39)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module.m._compile (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\practice\Food-delivery-app\project\node_modules\ts-node\src\bin.ts:95:10)
+2023-07-10 15:03:03 error: [POST] /users >> StatusCode:: 409, Message:: This email zarnq1igqor12q11wqs@gmail.com already exists
+2023-07-10 15:06:56 error: [POST] /users >> StatusCode:: 409, Message:: This email zarnqigqor12q22@gmail.com already exists
+2023-07-10 15:11:22 error: [POST] /users >> StatusCode:: 500, Message:: ENOENT: no such file or directory, open 'D:\practice\Food-delivery-app\project\src\upload\images\img.png'
+2023-07-10 15:12:56 error: [POST] /users >> StatusCode:: 500, Message:: ENOENT: no such file or directory, open 'D:\practice\Food-delivery-app\project\src\images\images\img.png'
+2023-07-10 15:29:58 error: [POST] /users >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, email must be an email, phone should not be empty,phone must be a number conforming to the specified constraints, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-10 15:31:01 error: [POST] /users >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, email must be an email, phone should not be empty,phone must be a number conforming to the specified constraints, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-10 15:31:16 error: [POST] /users >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, email must be an email, phone should not be empty,phone must be a number conforming to the specified constraints, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-10 15:47:15 error: [POST] /login >> StatusCode:: 400, Message:: fullName should not be empty,fullName must be a string, email must be an email, phone should not be empty,phone must be a number conforming to the specified constraints, password must be shorter than or equal to 32 characters,password must be longer than or equal to 9 characters,password should not be empty,password must be a string
+2023-07-10 15:53:31 error: [POST] /users >> StatusCode:: 500, Message:: ENOENT: no such file or directory, open 'D:\practice\Food-delivery-app\project\src\controllers\images\img.png'
+2023-07-10 15:54:17 error: [POST] /users >> StatusCode:: 500, Message:: ENOENT: no such file or directory, open 'D:\practice\Food-delivery-app\images\img.png'
+2023-07-10 15:54:35 error: [POST] /users >> StatusCode:: 500, Message:: ENOENT: no such file or directory, open 'D:\practice\Food-delivery-app\project\images\img.png'
+2023-07-10 15:54:50 error: [POST] /users >> StatusCode:: 500, Message:: ENOENT: no such file or directory, open 'D:\images\img.png'
+2023-07-10 15:55:27 error: [POST] /users >> StatusCode:: 500, Message:: ENOENT: no such file or directory, open 'D:\practice\Food-delivery-app\project\src\controllers\images\img.png'
+2023-07-10 15:55:38 error: [POST] /users >> StatusCode:: 409, Message:: This email rs111w121q222a@gmail.com already exists
+2023-07-10 15:57:30 error: [POST] /users >> StatusCode:: 500, Message:: ENOENT: no such file or directory, open 'D:\practice\Food-delivery-app\project\src\controllers\images\images\img.png'
+2023-07-10 15:57:57 error: [POST] /users >> StatusCode:: 409, Message:: This email rs111w121q2221a@gmail.com already exists
+2023-07-10 15:58:36 error: [POST] /users >> StatusCode:: 409, Message:: This email rs111w121q2221a@gmail.com already exists
+2023-07-10 16:03:23 error: [POST] /users >> StatusCode:: 500, Message:: ENOENT: no such file or directory, open 'D:\practice\Food-delivery-app\project\src\controllers\images\img.png'
+2023-07-10 16:28:24 error: [POST] /users >> StatusCode:: 409, Message:: This email qa@gmail.com already exists
+2023-07-10 17:01:37 error: [POST] /users >> StatusCode:: 409, Message:: This email qa@gmai1l.com already exists
+2023-07-10 17:01:42 error: [POST] /users >> StatusCode:: 500, Message:: E11000 duplicate key error collection: Food.users index: phone_1 dup key: { phone: 90899711112.0 }
+2023-07-10 17:37:14 error: [POST] /users >> StatusCode:: 409, Message:: This email 1212@gmai1l.com already exists
+2023-07-10 22:04:21 error: [POST] /users >> StatusCode:: 409, Message:: This email 1213@gmai1l.com already exists
+2023-07-10 22:14:43 error: [GET] /images/images.png >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'D:\practice\Food-delivery-app\project\project\src\images\images.png'
+2023-07-10 22:15:51 error: [POST] /users >> StatusCode:: 409, Message:: This email 121323fff23@gmai1.com already exists
+2023-07-10 22:15:57 error: [POST] /users >> StatusCode:: 500, Message:: E11000 duplicate key error collection: Food.users index: phone_1 dup key: { phone: 90893775735.0 }
